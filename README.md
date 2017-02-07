@@ -6,7 +6,7 @@ This version of the dashboard has the following features:
 * From a user-experience perspective: if graphs are relevant for understanding outcomes and if there is no restriction in terms of available space on the site, they need to be made visible.
 * A dynamic table using JQuery DataTables has been added to enable:
   * Sorting any of the columns in alphabetical order,
-  * Shortening of the table by adding pagination of table entries (default number of entries per page: 50), but user can select: 25, 50 or show all entries in table,
+  * Shortening of the table by adding pagination of table entries (default number of entries per page: 25), but user can select: 25, 50 or show all entries in table,
   * Searching for table entries using a free text-format. Upon clicking the "Reset button" the search item will be cleared.
 * The map showing the provinces and municipalities is automatically zoomed and positioned to fit in the 660 x 800 pixels frame, by:
   * Trimming the entries of the geojson files to only focus on the provinces and municipalities of interest.
@@ -21,7 +21,7 @@ This version of the dashboard has the following features:
   * Version information,
   * Release date, and
   * Name of dashboard developer(s)
-* The table header entries in the CSV data file will have spaces in their titles. These need to be adjusted manually to resemble the headers of the data table. Automate this.
+* The table header entries in the CSV data file may/will have spaces in their titles. These need to be adjusted manually to resemble the headers of the data table. We may be able to automate this, so that the csv file can be used "as is".
 * Testing of dashboard using different web browsers.
 
 Kamal Ahmed, 06.02.207
