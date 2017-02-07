@@ -1,17 +1,27 @@
-# map-dashboard
-A dashboard of [Nashville building permits](http://data.nashville.gov/resource/3h5w-q8b7.json?) for fall 2015. A demo of the dashboard can be found [here](http://wallinm1.github.io/map-dashboard/).
+# TEST dashboard (DRAFT version)
 
-This project is an exploration of adding a `Leaflet`-map and an interactive `DataTable`-table as filters in a `dc.js`-dashboard. With the help of the [`dc.leaflet`](https://github.com/dc-js/dc.leaflet.js)-plugin by [yurukov](https://github.com/yurukov) and [gordonwoodhull](https://github.com/gordonwoodhull), the integration of the new addons was rather painless. Using the interactive `DataTables`-tables does, however, seem to make the dashboard slightly less responsive. If performance is a concern, it is probably better to stick to the vanilla `dc.dataTable`.
+## Updates 06.02.2017
+This version of the dashboard has the following features:
 
-The dashboard is largely a combination of ideas found in other tutorials and implementations:
+* From a user-experience perspective: if graphs are relevant for understanding outcomes and if there is no restriction in terms of available space on the site, they need to be made visible.
+* A dynamic table using JQuery DataTables has been added to enable:
+  * Sorting any of the columns in alphabetical order,
+  * Shortening of the table by adding pagination of table entries (default number of entries per page: 50), but user can select: 25, 50 or show all entries in table,
+  * Searching for table entries using a free text-format. Upon clicking the "Reset button" the search item will be cleared.
+* The map showing the provinces and municipalities is automatically zoomed and positioned to fit in the 660 x 800 pixels frame, by:
+  * Trimming the entries of the geojson files to only focus on the provinces and municipalities of interest.
+  * Using d3's path bound function to obtain coordinates of the rectangle enclosing the targeted provinces and municipalities.
+  * Automatically updating the Mercator projection's functions for centering, scaling and translating.
+* The code has been commented for ongoing maintenance and allowing further improvements where needed.
 
-* [The Nashville Building Permits-dashboard](https://github.com/cmvee/Nashville-Building-Permits) by [cmvee](https://github.com/cmvee)
-* [The Beer Drinking Visualization-dashboard and tutorial](https://github.com/austinlyons/dcjs-leaflet-untappd) by [Austin Lyons](https://github.com/austinlyons)
-* [The Earthquake Data Discovery-dashboard](http://bl.ocks.org/d3noob/6077996) by [d3noob](d3noob.org)
-* The [Integrate with DataTables.js issue thread](https://github.com/dc-js/dc.js/issues/966) on the `dc.js` Github page.
-* [This](http://stackoverflow.com/questions/21113513/dcjs-reorder-datatable-by-column/21116676#21116676) Stack Overflow-post
-* [This](http://www.integritywatch.eu/) filterable `dc.js`-dashboard by the EU Integrity Watch and [tttp](https://github.com/tttp)
+## Suggestions
+* Using an initialisation file enabling users to quickly update basic information in an HTML file, without the need for them to modify the HTML code. Basic information is for example:
+  * Title of natural disaster,
+  * Purpose of dashboard,
+  * Version information,
+  * Release date, and
+  * Name of dashboard developer(s)
+* The table header entries in the CSV data file will have spaces in their titles. These need to be adjusted manually to resemble the headers of the data table. Automate this.
+* Testing of dashboard using different web browsers.
 
-#### Updates 28.11.2015
-* Added the `purpose`-field of the dataset as a clickable row detail and made the datatable searchable on that field.
-* Fixed a bug that caused DataTables to display a warning message for text searches that return empty selections by defining a `defaultContent`-parameter for all columns.
+Kamal Ahmed, 06.02.207
