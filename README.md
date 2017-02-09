@@ -1,9 +1,11 @@
 # TEST dashboard (DRAFT version)
 
-## Updates 06.02.2017
+## Updates 09.02.2017
 This version of the dashboard has the following features:
 
+* During loading of web page, the page items gradually appear on the page showing the progress. 
 * From a user-experience perspective: if graphs are relevant for understanding outcomes and if there is no restriction in terms of available space on the site, they need to be made visible.
+* Table header names in CSV file do not need to be corrected for spaces. The CSV file can be loaded "as is", provided the number of columns (11) remains the same for this dashboard.
 * A dynamic table using JQuery DataTables has been added to enable:
   * Sorting any of the columns in alphabetical order,
   * Shortening of the table by adding pagination of table entries (default number of entries per page: 25), but user can select: 25, 50 or show all entries in table,
@@ -21,7 +23,6 @@ This version of the dashboard has the following features:
   * Version information,
   * Release date, and
   * Name of dashboard developer(s)
-* The table header entries in the CSV data file may/will have spaces in their titles. These need to be adjusted manually to resemble the headers of the data table. We may be able to automate this, so that the csv file can be used "as is".
-* Testing of dashboard using different web browsers.
+* Testing of dashboard using a combination of web browsers and operating systems.
 
-Kamal Ahmed, 06.02.207
+Kamal Ahmed, 09.02.2017
