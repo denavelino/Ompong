@@ -1,15 +1,15 @@
 //Connect charts to their appropriate selectors:
 
 function provincesMapShow(){
-            $('#map2').hide();           
-            $('#map').show();
+            $('#map2').hide(); // hide municipalities map
+            $('#map').show();  // show provinces map
             map2_chart.filterAll();
             dc.redrawAll();
         }
         
 function municipalitiesMapShow(){
-            $('#map').hide();
-            $('#map2').show();
+            $('#map').hide();  // hide provinces map
+            $('#map2').show(); // show municipalities map
         }
 
 //Function to retrieve only unique entries in an array:
@@ -27,11 +27,11 @@ function deduplicate(data) {
     }
 }
 
-		
-$('#dashboard').hide();
+//Allow gradual build-up of dashboard:		
+// /$('#dashboard').hide(); //Removed to have a smoother start-up.
 $('#map').hide();
 //$('#services').hide();
-$('#services').show();
+// /$('#services').show();
 
 var map_chart = dc.geoChoroplethChart("#map");
 var map2_chart = dc.geoChoroplethChart("#map2");
@@ -44,19 +44,24 @@ var datatable = $('#dc-table-graph');
 
 
 d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
-			
+	
+	//Extract header titles of each column. In total there will be 11 columns for these type of dashboards:
+	//ID, Organisation, Sector, Subsector, Service provided, Province_CODE, Municipality_CODE, Barangay, Status, Beneficiaries, Beneficiary type.
+	
+	var csv_headers = d3.keys(csv_data[0]);
+	
 	var xf = crossfilter(csv_data);
 	
 	//The dimension function is applied to the re-named column headers. Their titles are as in the html table:
-	xf.id = xf.dimension(function(d) {return d.ID; });
-    xf.sector = xf.dimension(function(d) { return d.Sector; });
-    xf.service = xf.dimension(function(d) { return d["Service provided"]; });
-    xf.pcode = xf.dimension(function(d) { return d.Province; });
-    xf.organisation = xf.dimension(function(d) { return d.Organisation; });
-    xf.mcode = xf.dimension(function(d) { return d.Municipality; });
+	xf.id = xf.dimension(function(d) {return d[csv_headers[0]]; }); //ID
+    xf.organisation = xf.dimension(function(d) { return d[csv_headers[1]]; }); //Organisation
+	xf.sector = xf.dimension(function(d) { return d[csv_headers[2]]; });
+    xf.service = xf.dimension(function(d) { return d[csv_headers[4]]; }); //Service provided
+    xf.pcode = xf.dimension(function(d) { return d[csv_headers[5]]; }); //Province_CODE
+    xf.mcode = xf.dimension(function(d) { return d[csv_headers[6]]; }); //Municipality_CODE
 			 
     var sector = xf.sector.group();
-    var service = xf.service.group().reduceSum(function(d) {return d.Beneficiaries;});
+    var service = xf.service.group().reduceSum(function(d) {return d[csv_headers[9]];}); //Service
     var pcode = xf.pcode.group();
     var organisation = xf.organisation.group();
     var mcode = xf.mcode.group();
@@ -106,18 +111,19 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 				.xAxis().ticks(5)
 				;
 	
-		
+	
+	
 	//Determine dimension of table for the search functionality:	
-	var tableDimension = xf.dimension(function (d) { return d.Organisation.toLowerCase() + ' ' +
-													d.Sector.toLowerCase() + ' ' +
-													d.Subsector.toLowerCase() + ' ' +
-													d["Service provided"].toLowerCase() + ' ' +
-													pcode2prov[d.Province.toLowerCase()] + ' ' +
-													mcode2mun[d.Municipality.toLowerCase()] + ' ' +
-													d.Barangay.toLowerCase() + ' ' +
-													d.Status.toLowerCase() + ' ' +
-													d.Beneficiaries.toLowerCase() + ' ' +
-													d["Beneficiary type"].toLowerCase();});
+	var tableDimension = xf.dimension(function (d) { return d[csv_headers[1]].toLowerCase() + ' ' +
+													d[csv_headers[2]].toLowerCase() + ' ' +
+													d[csv_headers[3]].toLowerCase() + ' ' +
+													d[csv_headers[4]].toLowerCase() + ' ' +
+													pcode2prov[d[csv_headers[5]].toLowerCase()] + ' ' +
+													mcode2mun[d[csv_headers[6]].toLowerCase()] + ' ' +
+													d[csv_headers[7]].toLowerCase() + ' ' +
+													d[csv_headers[8]].toLowerCase() + ' ' +
+													d[csv_headers[9]].toLowerCase() + ' ' +
+													d[csv_headers[10]].toLowerCase();});
 	
 		
 	//Set options and columns for datatable:
@@ -133,54 +139,54 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 		columnDefs: [
 			{
 				targets: 0,
-				data: function (d) { return d.Organisation; },
+				data: function (d) { return d[csv_headers[1]]; }, //Organisation
 				defaultContent: ''
 			},
 			{
 				targets: 1,
-				data: function (d) { return d.Sector; },
+				data: function (d) { return d[csv_headers[2]]; }, //Sector
 				defaultContent: ''
 			},
 			{
 				targets: 2,
-				data: function (d) { return d.Subsector; },
+				data: function (d) { return d[csv_headers[3]]; }, //Subsector
 				defaultContent: ''
 			},
 			{
 				width: '100%',
 				targets: 3,
-				data: function (d) { return d["Service provided"];},
+				data: function (d) { return d[csv_headers[4]];}, //Service provided
 				defaultContent: ''
 				
 			},
 			{
 				targets: 4,
-				data: function (d) {return pcode2prov[d.Province];},
+				data: function (d) {return pcode2prov[d[csv_headers[5]]];}, //Province
 				defaultContent: ''
 			},
 			{
 				targets: 5,
-				data: function (d) {return mcode2mun[d.Municipality];},
+				data: function (d) {return mcode2mun[d[csv_headers[6]]];}, //Municipality
 				defaultContent: ''				
 			},
 			{
 				targets: 6,
-				data: function (d) {return d.Barangay;},
+				data: function (d) {return d[csv_headers[7]];}, //Barangay
 				defaultContent: ''
 			},
 			{
 				targets: 7,
-				data: function (d) {return d.Status;},
+				data: function (d) {return d[csv_headers[8]];}, //Status
 				defaultContent: ''
 			},
 			{
 				targets: 8,
-				data: function (d) {return d.Beneficiaries;},
+				data: function (d) {return d[csv_headers[9]];}, //Beneficiaries
 				defaultContent: ''
 			},
 			{
 				targets: 9,
-				data: function (d) {return d["Beneficiary type"];},
+				data: function (d) {return d[csv_headers[10]];}, //Beneficiary type
 				defaultContent: ''
 			}
 			
@@ -200,8 +206,12 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 		
 	var json = JSON.stringify(provincesJSON); //Stringify the data
 	var js = JSON.parse(json); //Turn into JSON object with array entries.
-	var data_prov = csv_data.map(function(d) {return d.Province});
-	var data_mun = csv_data.map(function(d) {return d.Municipality});
+	
+	//Extract only province names from total data set:
+	var data_prov = csv_data.map(function(d) {return d[csv_headers[5]]});
+	
+	//Extract only municipality names from total data set:
+	var data_mun = csv_data.map(function(d) {return d[csv_headers[6]]});
 	
 	var count = js.features.length; //number of entries in js object.
 
@@ -326,7 +336,7 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 	
 	var munic_json = JSON.stringify(municJSON); //stringify the data
 	var mjs = JSON.parse(munic_json); //turn into JSON object for removing key entries
-	var data_mun = csv_data.map(function(d) {return d.Municipality});
+	var data_mun = csv_data.map(function(d) {return d[csv_headers[6]]});
 	
 	var m_count = mjs.features.length; //number of entries in mjs object.
 
@@ -456,34 +466,7 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
                             
                     });
 
-	/*
-	//row details in the form of static text:
-	function format ( d ) {
-		//return '<b>Source: </b>' + d.Status;
-		return '<b>Source: Dataset name, yy-mm-dd</b>';
-	}
-	*/
-	
-	/*
-	datatable.DataTable().on('click', 'tr[role="row"]', function () {
-        var tr = $(this);
-        var row = datatable.DataTable().row( tr );
- 
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( format(row.data()) ).show();
-            tr.addClass('shown');
-        }
-    } );
-	*/
-	
-	//custom refresh function, see http://stackoverflow.com/questions/21113513/dcjs-reorder-datatable-by-column/21116676#21116676
-	
+		
 	function RefreshTable() {
             dc.events.trigger(function () {
                 alldata = tableDimension.top(Infinity);
@@ -499,26 +482,7 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 		chartI.on("filtered", RefreshTable);
 	}
 	
-	
-	//filter all charts when using the datatables search box
-	/*
-	 $(":input").on('keyup',function(){
-		text_filter(tableDimension, this.value);//cities is the dimension for the data table
-
-	
-	function text_filter(dim,q){
-		 if (q!='') {
-			dim.filter(function(d){
-				return d.indexOf (q.toLowerCase()) !== -1;
-			});
-		} else {
-			dim.filterAll();
-			}
-		RefreshTable();
-		dc.redrawAll();}
-	});
-	*/
-					
+						
 	RefreshTable();
 	
 });
