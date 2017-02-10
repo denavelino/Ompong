@@ -113,17 +113,18 @@ d3.dsv(';')("data/3W_Data.csv", function(csv_data) {
 	
 	
 	
-	//Determine dimension of table for the search functionality:	
-	var tableDimension = xf.dimension(function (d) { return d[csv_headers[1]].toLowerCase() + ' ' +
-													d[csv_headers[2]].toLowerCase() + ' ' +
-													d[csv_headers[3]].toLowerCase() + ' ' +
-													d[csv_headers[4]].toLowerCase() + ' ' +
-													pcode2prov[d[csv_headers[5]].toLowerCase()] + ' ' +
-													mcode2mun[d[csv_headers[6]].toLowerCase()] + ' ' +
-													d[csv_headers[7]].toLowerCase() + ' ' +
-													d[csv_headers[8]].toLowerCase() + ' ' +
-													d[csv_headers[9]].toLowerCase() + ' ' +
-													d[csv_headers[10]].toLowerCase();});
+	//Determine dimension of table for the search functionality.
+	//Removed the function .toLowerCase().
+	var tableDimension = xf.dimension(function (d) { return d[csv_headers[1]] + ' ' +
+													d[csv_headers[2]] + ' ' +
+													d[csv_headers[3]] + ' ' +
+													d[csv_headers[4]] + ' ' +
+													pcode2prov[d[csv_headers[5]]] + ' ' +
+													mcode2mun[d[csv_headers[6]]] + ' ' +
+													d[csv_headers[7]] + ' ' +
+													d[csv_headers[8]] + ' ' +
+													d[csv_headers[9]] + ' ' +
+													d[csv_headers[10]];});
 	
 		
 	//Set options and columns for datatable:
