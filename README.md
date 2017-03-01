@@ -5,7 +5,9 @@ This version of the dashboard has the following features:
 
 * During loading of web page, the page items gradually appear on the page showing the progress. 
 * From a user-experience perspective: if graphs are relevant for understanding outcomes and if there is no restriction in terms of available space on the site, they need to be made visible.
-* Table header names in CSV file do not need to be corrected for spaces. The CSV file can be loaded "as is", provided the number of columns (11) remains the same for this dashboard.
+* Table header names in CSV file do not need to be corrected for spaces. The CSV file can be loaded "as is", provided±
+  * the number of columns (11) remains the same for this dashboard, and
+  * the csv file has been encoded to UTF-8 format. UTF-8 encoding can be achieved by using Notepad++ tool. From menu, select "Encoding" and then select "Encode in UTF-8" and then save file.
 * A dynamic table using JQuery DataTables has been added to enable:
   * Sorting any of the columns in alphabetical order,
   * Shortening of the table by adding pagination of table entries (default number of entries per page: 25), but user can select: 25, 50 or show all entries in table,
