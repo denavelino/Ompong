@@ -1,4 +1,4 @@
-ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay;Status;Beneficiaries;Beneficiary type
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;PRC;Health;PSS;Welfare Desk;1752;175201;Lumang Bayan;Finished;1;Evacuation Center
 2;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);1752;175201;Bayanan;Finished;63;families
 3;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1752;175201;Bayanan;Finished;63;families
@@ -34,12 +34,12 @@ ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay
 33;IFRC;Shelter;Non-Food Items;Tarpaulin;520;52002;Agban;Finished;61;families
 34;IFRC;WASH;Non-Food Items;Jerry Cans (10L);520;52002;Agban;Finished;61;families
 35;IFRC;WASH;Non-Food Items;Hygiene Kit;520;52002;Agban;Finished;61;families
-36;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);520;52002;Osmena;Finished;51;families
-37;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);520;52002;Osmena;Finished;51;families
-38;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);520;52002;Osmena;Finished;51;families
-39;IFRC;Shelter;Non-Food Items;Tarpaulin;520;52002;Osmena;Finished;51;families
-40;IFRC;WASH;Non-Food Items;Jerry Cans (10L);520;52002;Osmena;Finished;51;families
-41;IFRC;WASH;Non-Food Items;Hygiene Kit;520;52002;Osmena;Finished;51;families
+36;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);520;52002;Osmeña;Finished;51;families
+37;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);520;52002;Osmeña;Finished;51;families
+38;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);520;52002;Osmeña;Finished;51;families
+39;IFRC;Shelter;Non-Food Items;Tarpaulin;520;52002;Osmeña;Finished;51;families
+40;IFRC;WASH;Non-Food Items;Jerry Cans (10L);520;52002;Osmeña;Finished;51;families
+41;IFRC;WASH;Non-Food Items;Hygiene Kit;520;52002;Osmeña;Finished;51;families
 42;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);520;52002;Paniquihan;Finished;56;families
 43;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);520;52002;Paniquihan;Finished;56;families
 44;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);520;52002;Paniquihan;Finished;56;families
@@ -347,12 +347,12 @@ ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay
 346;AusAid;Shelter;Non-Food Items;Tarpaulin;517;51725;Guinaban;Finished;52;families
 347;AusAid;WASH;Non-Food Items;Jerry Cans (10L);517;51725;Guinaban;Finished;52;families
 348;AusAid;WASH;Non-Food Items;Hygiene Kit;517;51725;Guinaban;Finished;52;families
-349;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);517;51725;Santo Nino;Finished;38;families
-350;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);517;51725;Santo Nino;Finished;38;families
-351;AusAid;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);517;51725;Santo Nino;Finished;38;families
-352;AusAid;Shelter;Non-Food Items;Tarpaulin;517;51725;Santo Nino;Finished;38;families
-353;AusAid;WASH;Non-Food Items;Jerry Cans (10L);517;51725;Santo Nino;Finished;38;families
-354;AusAid;WASH;Non-Food Items;Hygiene Kit;517;51725;Santo Nino;Finished;38;families
+349;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);517;51725;Santo Niño;Finished;38;families
+350;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);517;51725;Santo Niño;Finished;38;families
+351;AusAid;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);517;51725;Santo Niño;Finished;38;families
+352;AusAid;Shelter;Non-Food Items;Tarpaulin;517;51725;Santo Niño;Finished;38;families
+353;AusAid;WASH;Non-Food Items;Jerry Cans (10L);517;51725;Santo Niño;Finished;38;families
+354;AusAid;WASH;Non-Food Items;Hygiene Kit;517;51725;Santo Niño;Finished;38;families
 355;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);517;51725;San Jose Oras;Finished;77;families
 356;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);517;51725;San Jose Oras;Finished;77;families
 357;AusAid;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);517;51725;San Jose Oras;Finished;77;families
@@ -462,12 +462,12 @@ ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay
 461;PRC;Relief;Hot Meals;Bread;1752;175211;Lazareto;Finished;740;students
 462;PRC;Relief;Hot Meals;Bread;1752;175211;Gutad;Finished;155;students
 463;PRC;Assessment;Assessment;Rapid Assessment;517;51731;;Finished;1;
-464;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);517;51731;Santo Nino;Finished;313;families
-465;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);517;51731;Santo Nino;Finished;313;families
-466;AusAid;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);517;51731;Santo Nino;Finished;313;families
-467;AusAid;Shelter;Non-Food Items;Tarpaulin;517;51731;Santo Nino;Finished;313;families
-468;AusAid;WASH;Non-Food Items;Jerry Cans (10L);517;51731;Santo Nino;Finished;313;families
-469;AusAid;WASH;Non-Food Items;Hygiene Kit;517;51731;Santo Nino;Finished;313;families
+464;AusAid;Relief;Non-Food Items;Sleeping Kit (Blanket);517;51731;Santo Niño;Finished;313;families
+465;AusAid;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);517;51731;Santo Niño;Finished;313;families
+466;AusAid;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);517;51731;Santo Niño;Finished;313;families
+467;AusAid;Shelter;Non-Food Items;Tarpaulin;517;51731;Santo Niño;Finished;313;families
+468;AusAid;WASH;Non-Food Items;Jerry Cans (10L);517;51731;Santo Niño;Finished;313;families
+469;AusAid;WASH;Non-Food Items;Hygiene Kit;517;51731;Santo Niño;Finished;313;families
 473;IFRC;Assessment;Assessment;Rapid Assessment;520;52008;;Finished;1;
 474;PRC;Relief;Non-Food Items;Shoes;520;52008;;Finished;64;Students
 475;PRC;Relief;Non-Food Items;Shoes;520;52008;;Finished;64;Students
@@ -489,7 +489,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay
 491;PRC;Relief;Hot Meals;Hot Meals;434;43424;San Mateo;Finished;125;individuals
 492;PRC;Relief;Hot Meals;Hot Meals;434;43424;San Lucas 1;Finished;12;individuals
 493;PRC;Relief;Hot Meals;Hot Meals;434;43424;San Vicente;Finished;45;individuals
-494;PRC;Relief;Hot Meals;Hot Meals;434;43424;Santo Nino;Finished;51;individuals
+494;PRC;Relief;Hot Meals;Hot Meals;434;43424;Santo Niño;Finished;51;individuals
 495;PRC;Relief;Hot Meals;Hot Meals;434;43424;Santa Isabel;Finished;13;individuals
 496;PRC;Health;Health;BP Taking;434;43424;;Finished;35;individuals
 497;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);541;54120;Iniwaran;Finished;150;families
@@ -602,7 +602,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay
 607;PRC;Relief;Non-Food Items;Shoes;520;52011;;Finished;64;Students
 608;PRC;Relief;Non-Food Items;Shoes;520;52011;;Finished;64;Students
 609;IFRC;WASH;Water;Water Ration;520;52011;San Isidro Village;Finished;3000;liters
-610;IFRC;WASH;Water;Water Ration;520;52011;Santo Ni�o;Finished;5000;liters
+610;IFRC;WASH;Water;Water Ration;520;52011;Santo Niño;Finished;5000;liters
 611;IFRC;WASH;Water;Water Ration;520;52011;Palta Salvacion;Finished;5000;liters
 612;IFRC;WASH;Water;Water Ration;520;52011;Palta Salvacion;Finished;5000;liters
 613;IFRC;WASH;Water;Water Ration;520;52011;Palta Salvacion;Finished;5000;liters
