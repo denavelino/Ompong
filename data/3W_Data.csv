@@ -1,312 +1,312 @@
-ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Barangay,Status,Beneficiaries,Beneficiary_type,ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1,PRC,Health,Health,Mask: Face,517,51703,,Finished,250,individuals,1;PRC;Relief;Food Items;Food Items (15-days Ration);1536;153603;Tantua Raya;Finished;675;households
-2,PRC,Health,Health,Mask: Face,517,51705,,Finished,350,individuals,2;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153603;Tantua Raya;Finished;675;households
-3,PRC,Health,Health,Mask: Face,505,50502,,Finished,1000,individuals,3;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153603;Tantua Raya;Finished;675;households
-4,PRC,Health,Health,BP Taking,505,50502,Anoling,Finished,1,individuals,4;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153603;Tantua Raya;Finished;675;households
-5,PRC,Health,PSS,Welfare Desk,505,50502,Salugan,Finished,1,desk,5;PRC;WASH;Non-Food Items;Hygiene Kit;1536;153603;Tantua Raya;Finished;675;households
-6,PRC,Health,PSS,Welfare Desk,505,50502,Anoling,Finished,1,desk,6;PRC;WASH;Non-Food Items;Jerry Can (20L);1536;153603;Tantua Raya;Finished;675;households
-7,PRC,Health,PSS,Psychosocial Support,505,50502,Salugan,Finished,33,individuals,7;PRC;Relief;Non-Food Items;Kitchen Set;1536;153603;Tantua Raya;Finished;675;households
-8,PRC,Health,PSS,Psychosocial Support,505,50502,Anoling,Finished,465,individuals,8;PRC;Relief;Hot Meals;Hot Meals;1035;103502;West Poblacion;Finished;340;individuals
-9,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Salugan,Finished,16,individuals,9;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;58;individuals
-10,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Quirangay,Finished,186,individuals,10;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;10;individuals
-11,PRC,Health,PSS,Welfare Desk,505,50502,Bariw,Finished,1,desk,11;ICRC;Health;Health;BP Taking;1035;103502;West Poblacion;Finished;117;individuals
-12,PRC,Health,PSS,Psychosocial Support,505,50502,Bariw,Finished,106,individuals,12;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;3;individuals
-13,PRC,Assessment,Assessment,Assessment,505,50502,,Finished,,,13;ICRC;Health;Transport;Ambulance Transport;1035;103502;Balut;Finished;1;individual
-14,PRC,Health,Health,Transport,505,50502,Anoling,Finished,1,individuals,14;ICRC;Health;Health;First Aid Station;1035;103502;West Poblacion;Finished;1;station
-15,PRC,WASH,Sanitation,Latrines,505,50502,Comun,Ongoing,0.15,,15;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-16,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50502,Baligang,Finished,307,families,16;ICRC;Health;Health;BP Taking;1035;103502;West Poblacion;Finished;105;individuals
-17,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50502,Baligang,Finished,307,families,17;ICRC;Health;Health;First Aid;1035;103502;West Poblacion;Finished;1;individual
-18,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50502,Baligang,Finished,307,families,18;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-19,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50502,Baligang,Finished,307,families,19;Local Donor: GMA;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;789;families
-20,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50502,Baligang,Finished,307,families,20;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-21,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50502,Baligang,Finished,307,families,21;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;9;individuals
-22,PRC,Relief,Hot Meals,Hot Meals,505,50502,Baligang,Finished,444,individuals,22;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-23,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Baligang,Finished,125,individuals,23;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;15;individuals
-24,PRC,Health,PSS,Psychosocial Support,505,50502,Taladong,Finished,392,individuals,24;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-25,PRC,Relief,Hot Meals,Hot Meals,505,50502,Taladong,Finished,237,individuals,25;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;2;individuals
-26,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Cumon,Finished,455,individuals,26;ICRC;Health;Health;BP Taking;1035;103502;West Poblacion;Finished;18;individuals
-27,PRC,Health,PSS,Psychosocial Support,505,50506,Chapter,Finished,32,individuals,27;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;123;individuals
-28,PRC,Health,PSS,Psychosocial Support,505,50506,Chapter,Finished,33,individuals,28;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-29,PRC,Health,PSS,Welfare Desk,505,50503,Salvacion,Finished,1,desk,29;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;3;individuals
-30,PRC,Health,PSS,Welfare Desk,505,50503,Mi-isi,Finished,1,desk,30;ICRC;Health;Health;First Aid Station;1035;103502;West Poblacion;Finished;1;station
-31,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,67,individuals,31;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;63;individuals
-32,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,166,individuals,32;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-33,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Mi-isi,Finished,292,individuals,33;Local Donor: Puregold;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;115;families
-34,PRC,WASH,Water,Water Bladder,505,50503,Mi-isi,Finished,,,34;Local Donor: Rotary;WASH;Non-Food Items;Hygiene Kit (Assorted);1035;103502;West Poblacion;Finished;55;families
-35,PRC,Health,PSS,Welfare Desk,505,50503,Mi-isi,Finished,1,desk,35;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;3;individuals
-36,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,127,individuals,36;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;35;individuals
-37,PRC,WASH,Water,Water,505,50503,Mi-isi,Finished,,,37;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-38,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,76,individuals,38;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;35;individuals
-39,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,39,individuals,39;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;26;individuals
-40,PRC,Health,PSS,Psychosocial Support,505,50503,Budiao,Finished,125,individuals,40;Local Donor: Rotary;WASH;Non-Food Items;Hygiene Kit (Assorted);1035;103502;West Poblacion;Finished;115;families
-41,PRC,Health,PSS,Psychosocial Support,505,50503,Banadero,Finished,44,individuals,41;Local Donor: Puregold;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;55;families
-42,PRC,Health,PSS,Welfare Desk,505,50503,Salvacion,Finished,1,desk,42;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-43,PRC,Health,PSS,Welfare Desk,505,50503,Budiao,Finished,1,desk,43;ICRC;Health;Health;BHCU (Operational);1035;103502;East Poblacion;Finished;;
-44,PRC,Health,PSS,Welfare Desk,505,50503,Banadero,Finished,1,desk,44;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;3;individuals
-45,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Budiao,Finished,12,individuals,45;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-46,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Budiao,Finished,24,individuals,46;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;21;individuals
-47,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Banadero,Finished,35,individuals,47;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;110;individuals
-48,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Salvacion,Finished,221,individuals,48;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;2;individuals
-49,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Salvacion,Finished,69,individuals,49;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;50;individuals
-50,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,91,individuals,50;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;18;individuals
-51,PRC,WASH,Water,Water,505,50503,Mi-isi,Finished,,,51;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-52,PRC,Assessment,Assessment,Assessment,505,50503,,Finished,,,52;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;70;individuals
-53,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50503,Mi-isi,Finished,337,families,53;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;73;individuals
-54,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50503,Mi-isi,Finished,337,families,54;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;4;individuals
-55,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50503,Mi-isi,Finished,337,families,55;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;50;individuals
-56,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50503,Mi-isi,Finished,337,families,56;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;18;individuals
-57,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50503,Mi-isi,Finished,337,families,57;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;36;individuals
-58,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50503,Mi-isi,Finished,337,families,58;Local Donor: Puregold;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;116;families
-59,PRC,Health,PSS,Psychosocial Support,505,50503,Bascaran,Finished,242,individuals,59;Local Donor: Rotary;WASH;Non-Food Items;Hygiene Kit (Assorted);1035;103502;West Poblacion;Finished;116;families
-60,PRC,Health,PSS,Psychosocial Support,505,50503,Anislag,Finished,42,individuals,60;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-61,PRC,Health,PSS,Welfare Desk,505,50503,Bascaran,Finished,1,desk,61;Local Donor: Rotary;Relief;Non-Food Items;Slippers;1035;103502;West Poblacion;Finished;116;families
-62,PRC,Health,PSS,Welfare Desk,505,50503,Anislag,Finished,1,desk,62;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-63,PRC,WASH,Sanitation,Latrines,505,50503,Gabawan,Ongoing,,,63;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;12;individuals
-64,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Anislag,Finished,175,individuals,64;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;108;individuals
-65,PRC,Health,PSS,Psychosocial Support,505,50503,Anislag,Finished,219,individuals,65;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;140;individuals
-67,PRC,Health,PSS,Psychosocial Support,505,50503,Villahermosa,Finished,292,individuals,66;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-68,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Mi-isi,Finished,98,individuals,67;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-69,PRC,Education,Education,Temporary Learning Space,505,50503,,Planned,,pupils,68;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;6;individuals
-70,PRC,Health,Health,Mask: Face,505,50504,,Finished,1000,individuals,69;ICRC;Health;RFL;Tracing;1035;103502;East Poblacion;Finished;2;individuals
-71,PRC,Relief,Non-Food Items,Tarpaulin,505,50504,Tandarora,Finished,,,70;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;45;individuals
-72,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,113,individuals,71;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;9;individuals
-73,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,688,individuals,72;ICRC;Health;Transport;Ambulance Transport;1035;103502;Balut;Finished;3;individuals
-74,PRC,Health,PSS,Psychosocial Support,505,50504,Poblacion,Finished,1576,individuals,73;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;57;individuals
-75,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk,74;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;3;individuals
-76,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk,75;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;33;individuals
-77,PRC,Health,PSS,Welfare Desk,505,50504,Muladbucad,Finished,1,desk,76;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-78,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,30,individuals,77;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;1;individual
-79,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,30,individuals,78;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;85;individuals
-80,PRC,Health,PSS,Psychosocial Support,505,50504,Muladbucad,Finished,298,individuals,79;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;93;individuals
-81,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk,80;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;74;individuals
-82,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk,81;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-83,PRC,Health,PSS,Welfare Desk,505,50504,POblacion,Finished,1,desk,82;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;74;individuals
-84,PRC,Assessment,Assessment,Assessment,505,50504,,Finished,,,83;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-85,PRC,Health,PSS,Psychosocial Support,505,50504,Muladbucad,Finished,65,individuals,84;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;1;individual
-86,PRC,Health,PSS,Welfare Desk,505,50504,Muladbucad,Finished,1,desk,85;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;20;individuals
-87,PRC,WASH,Sanitation,Latrines,505,50504,Tandarora,Finished,1,,86;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;5;individuals
-88,PRC,Health,Health,Mask: Face,505,50504,Tandarora,Finished,2000,individuals,87;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;16;individuals
-89,PRC,WASH,Sanitation,Portalets,505,50504,Tandarora,Finished,1402,individuals,88;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;16;individuals
-90,PRC,WASH,Sanitation,Portalets,505,50504,Poblacion,Finished,1378,individuals,89;Australian RC;Relief;Non-Food Items;Kitchen Set;1035;103502;West Poblacion;Finished;210;families
-91,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,1198,individuals,90;AusAid-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103502;West Poblacion;Finished;210;families
-92,PRC,Relief,Hot Meals,Hot Meals,505,50504,Tandarora,Finished,580,individuals,91;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103502;West Poblacion;Finished;210;families
-93,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50504,Tandarora,Finished,408,families,92;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103502;West Poblacion;Finished;210;families
-94,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50504,Tandarora,Finished,408,families,93;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103502;West Poblacion;Finished;210;families
-95,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50504,Tandarora,Finished,408,families,94;AusAid-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103502;West Poblacion;Finished;210;families
-96,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50504,Tandarora,Finished,408,families,95;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;1;individual
-97,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50504,Tandarora,Finished,408,families,96;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;20;individuals
-98,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50504,Tandarora,Finished,408,families,97;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;113;individuals
-99,PRC,WASH,Sanitation,Portalets,505,50504,Gabawan,Finished,1552,individuals,98;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;81;individuals
-100,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50504,,Finished,455,individuals,99;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-101,PRC,WASH,Water,Water,505,50504,Calbayog,Finished,,,100;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;26;individuals
-102,PRC,Health,Health,Mask: Face,505,50504,Nabonton,Finished,350,individuals,101;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;6;individuals
-103,PRC,Education,Education,Temporary Learning Space,505,50504,,Finished,78,pupils,102;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;18;individuals
-104,PRC,Education,Education,Temporary Learning Space,505,50504,,Finished,,pupils,103;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;18;individuals
-105,PRC,Health,Health,Nebulizing Kit : Pedia,505,50504,,Finished,,individuals,104;ICRC;Health;Health;BP Taking;1035;103502;East Poblacion;Finished;77;individuals
-106,PRC,Health,Health,Nebulizing Kit : Adult,505,50504,,Finished,,individuals,105;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;20;individuals
-107,PRC,Health,Health,Nebulizer,505,50504,,Finished,,individuals,106;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;15;individuals
-108,PRC,Health,Health,Nebules,505,50504,,Finished,,individuals,107;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;4;individuals
-109,PRC,Health,Health,Mask: Face,505,50504,,Finished,300,individuals,108;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;3;individuals
-110,PRC,Health,Health,Nebulizing Kit : Pedia,505,50504,,Finished,,individuals,109;ICRC;WASH;Water;Water;1035;103502;East Poblacion;Finished;;
-111,PRC,Health,Health,Nebulizing Kit : Adult,505,50504,,Finished,,individuals,110;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;81;individuals
-112,PRC,Health,Health,Mask: Face,505,50504,,Finished,200,individuals,111;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-113,PRC,Health,Health,Mask: Face,505,50504,,Finished,200,individuals,112;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;32;individuals
-114,PRC,WASH,Sanitation,Latrines,505,50504,,Ongoing,,,113;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;17;individuals
-115,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,99,individuals,114;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;35;individuals
-116,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,58,individuals,115;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;15;individuals
-117,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,East Washington,Finished,30,individuals,116;ICRC;Health;Health;BP Taking;1035;103502;East Poblacion;Finished;130;individuals
-118,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Bagumbayan,Finished,91,individuals,117;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;15;individuals
-119,PRC,Health,PSS,Welfare Desk,505,50506,Gogon,Finished,1,desk,118;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;17;individuals
-120,PRC,Health,PSS,Welfare Desk,505,50506,Gogon,Finished,1,desk,119;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;11;individuals
-121,PRC,Health,PSS,Welfare Desk,505,50506,East Washington,Finished,1,desk,120;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;106;individuals
-122,PRC,Health,PSS,Welfare Desk,505,50506,Bagumbayan,Finished,1,desk,121;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;11;individuals
-123,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,105,individuals,122;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;146;individuals
-124,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,58,individuals,123;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-125,PRC,Health,PSS,Psychosocial Support,505,50506,East Washington,Finished,33,individuals,124;ICRC;Health;Health;BP Taking;1035;103502;East Poblacion;Finished;134;individuals
-126,PRC,Health,PSS,Psychosocial Support,505,50506,Bagumbayan,Finished,265,individuals,125;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;16;individuals
-127,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50506,,Finished,,,126;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;3;individuals
-128,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50506,,Finished,,,127;ICRC;WASH;Water;Water;1035;103502;East Poblacion;Finished;;
-129,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50506,,Finished,,,128;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;68;individuals
-130,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50506,,Finished,,,129;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;11;individuals
-131,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50506,,Finished,,,130;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;77;individuals
-132,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50506,,Finished,,,131;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;24;individuals
-133,PRC,Health,Health,BP Taking,505,50506,,Finished,11,individuals,132;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;25;individuals
-134,PRC,Health,Health,Mask: N95,505,50506,,Finished,26,individuals,133;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;3;individuals
-135,PRC,Health,Health,Googles,505,50506,,Finished,26,individuals,134;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-136,PRC,Assessment,Assessment,Assessment,505,50506,,Finished,,,135;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;76;individuals
-137,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,367,individuals,136;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;9;individuals
-138,PRC,WASH,Non-Food Items,Jerry Can,505,50506,Gogon,Finished,120,pcs,137;ICRC;Health;Health;BP Taking;1035;103502;East Poblacion;Finished;134;individuals
-139,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,138;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;3;individuals
-140,PRC,WASH,Water,Water Bladder,505,50506,East Washington,Finished,2080,individuals,139;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;26;individuals
-141,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,140;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;3;individuals
-142,PRC,WASH,Water,Water Bladder,505,50506,Bagumbayan,Finished,4175,individuals,141;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;88;individuals
-143,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,500,individuals,142;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;2;individuals
-144,PRC,Health,PSS,Psychosocial Support,505,50506,Gabawan,Finished,27,individuals,143;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;4;individuals
-145,PRC,Health,PSS,Welfare Desk,505,50506,Gabawan,Finished,1,desk,144;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;42;individuals
-146,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,367,individuals,145;ICRC;WASH;Water;Water;1035;103502;East Poblacion;Finished;;
-147,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Cabagnan,Finished,131,individuals,146;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;65;individuals
-149,PRC,Health,PSS,Psychosocial Support,505,50506,,Finished,216,individuals,147;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;5;individuals
-150,PRC,Health,Health,Transport,505,50506,Anoling,Finished,2,individuals,148;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;24;individuals
-151,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,149;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-152,PRC,Relief,Hot Meals,Bread,505,50506,Taysan,Finished,645,individuals,150;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;11;individuals
-153,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,151;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;1;individual
-154,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,152;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;1;individual
-155,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,153;Australian RC;Relief;Non-Food Items;Kitchen Set;1035;103502;West Poblacion;Finished;179;families
-156,PRC,Health,Health,Transport,505,50506,Gogon,Finished,1,individuals,154;AusAid-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103502;West Poblacion;Finished;179;families
-157,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,155;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103502;West Poblacion;Finished;179;families
-158,PRC,Health,PSS,Psychosocial Support,505,50506,Bitano,Finished,527,individuals,156;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103502;West Poblacion;Finished;179;families
-159,PRC,Relief,Hot Meals,Hot Meals,505,50506,Bitano,Finished,90,individuals,157;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103502;West Poblacion;Finished;179;families
-160,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,158;AusAid-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103502;West Poblacion;Finished;179;families
-161,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Bitano,Finished,527,individuals,159;Local Donor: Pax Libera Inc (Tawi Tawi)/Meralco;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;174;families
-162,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,160;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;102;individuals
-163,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,161;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;55;individuals
-164,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,East Washington,Finished,50,individuals,162;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;89;individuals
-165,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,163;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;2;individuals
-166,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,164;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;175;individuals
-167,PRC,Health,Health,Transport,505,50506,East Washington,Finished,2,individuals,165;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-168,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,166;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;52;individuals
-169,PRC,Education,Education,Temporary Learning Space,505,50506,,Finished,54,pupils,167;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;10;individuals
-170,PRC,Education,Education,Temporary Learning Space,505,50506,,Finished,88,pupils,168;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;1;individual
-171,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,,169;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;6;individuals
-172,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,,170;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;30;individuals
-173,PRC,Health,PSS,Welfare Desk,505,50508,Baligang,Finished,1,desk,171;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;10;Inidividuals
-174,PRC,Health,PSS,Welfare Desk,505,50508,Nabonton,Finished,1,desk,172;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;60;Inidividuals
-175,PRC,Health,Health,Mask: Face,505,50508,Washington,Finished,1178,individuals,173;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;1;individual
-176,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50508,Washington,Finished,1178,individuals,174;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;1;individual
-177,PRC,Health,PSS,Psychosocial Support,505,50508,Washington,Finished,226,individuals,175;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-179,PRC,Health,PSS,Psychosocial Support,505,50508,Cabagnan,Finished,367,individuals,176;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;3;individuals
-180,PRC,Relief,Hot Meals,Hot Meals,505,50508,Cabagnan,Finished,351,individuals,177;ICRC;Health;Transport;Ambulance Transport;1035;103502;West Poblacion;Finished;1;individual
-181,PRC,Health,PSS,Psychosocial Support,505,50508,Washington,Finished,623,individuals,178;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;143;individuals
-182,PRC,Health,PSS,Psychosocial Support,505,50508,Nabonton,Finished,78,individuals,179;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;16;individuals
-183,PRC,Relief,Hot Meals,Hot Meals,505,50508,Basag,Finished,432,individuals,180;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;3;individuals
-184,PRC,Health,PSS,Psychosocial Support,505,50508,Basag,Finished,180,individuals,181;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;24;individuals
-185,PRC,Health,PSS,Psychosocial Support,505,50508,Baligang,Finished,392,individuals,182;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;63;individuals
-186,PRC,Health,PSS,Psychosocial Support,505,50508,Nabonton,Finished,778,individuals,183;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;9;individuals
-187,PRC,Health,PSS,Welfare Desk,505,50508,Nabonton,Finished,1,desk,184;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;5;individuals
-188,PRC,Relief,Hot Meals,Bread,505,50508,Nabonton,Finished,329,individuals,185;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;62;individuals
-189,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50508,Nabonton,Finished,107,individuals,186;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;20;individuals
-190,PRC,Health,Health,Mask: Face,505,50508,Tandarora,Finished,300,individuals,187;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;7;individuals
-191,PRC,Health,Health,Mask: Face,505,50508,Poblacion,Finished,200,individuals,188;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;13;individuals
-192,PRC,Health,Health,Mask: Face,505,50508,Washington,Finished,500,individuals,189;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-193,PRC,Health,Health,Nebulizing Kit : Pedia,505,50508,,Finished,,individuals,190;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;19;individuals
-194,PRC,Health,Health,Nebulizing Kit : Adult,505,50508,,Finished,,individuals,191;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;21;individuals
-195,PRC,Health,Health,Nebulizer,505,50508,,Finished,,individuals,192;ICRC;WASH;Water;Water;1035;103502;East Poblacion;Finished;;
-196,PRC,Health,Health,Nebules,505,50508,,Finished,,individuals,193;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;58;individuals
-197,PRC,Health,Health,Mask: Face,505,50508,,Finished,350,individuals,194;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;5;individuals
-198,PRC,Health,Health,Nebulizing Kit : Pedia,505,50508,,Finished,,individuals,195;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;2;individuals
-199,PRC,Health,Health,Nebulizing Kit : Adult,505,50508,,Finished,,individuals,196;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;187;individuals
-200,PRC,Health,Health,Nebulizer,505,50508,,Finished,,individuals,197;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;139;individuals
-201,PRC,Health,Health,Nebules,505,50508,,Finished,,individuals,198;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;2;individuals
-202,PRC,Health,Health,Mask: Face,505,50508,,Finished,500,individuals,199;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-203,PRC,Health,PSS,Welfare Desk,505,50509,Calbayog,Finished,1,desk,200;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;90;individuals
-204,PRC,Health,PSS,Psychosocial Support,505,50509,Calbayog,Finished,108,individuals,201;ICRC;Health;Transport;Ambulance Transport;1035;103502;West Poblacion;Finished;2;individuals
-205,PRC,Health,PSS,Psychosocial Support,505,50509,Barangay 3,Finished,74,individuals,202;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;108;Inidividuals
-206,PRC,Health,PSS,Psychosocial Support,505,50509,San Antonio,Finished,11,individuals,203;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;118;Inidividuals
-207,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Calbayog,Finished,118,individuals,204;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;21;individuals
-208,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Barangay 3,Finished,33,individuals,205;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;6;individuals
-209,PRC,Health,PSS,Welfare Desk,505,50509,Calbayog,Finished,1,desk,206;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;66;individuals
-210,PRC,Health,PSS,Welfare Desk,505,50509,Poblacion,Finished,1,desk,207;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;3;individuals
-211,PRC,Health,PSS,Welfare Desk,505,50509,San antonio,Finished,1,desk,208;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;1;individual
-212,PRC,WASH,Water,Water Bladder,505,50509,Calbayog,Finished,2338,individuals,209;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;70;individuals
-213,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,210;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-214,PRC,Assessment,Assessment,Assessment,505,50509,,Finished,,,211;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;21;individuals
-215,PRC,WASH,Water,Water Bladder,505,50509,Barangay 3,Finished,756,individuals,212;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;21;individuals
-216,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,213;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;54;individuals
-217,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,214;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;54;individuals
-218,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,215;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;168;individuals
-219,PRC,WASH,Sanitation,Latrines,505,50509,Barangay 3,Ongoing,0.65,,216;AusAid-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103502;West Poblacion;Finished;174;families
-220,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,217;AusAid-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103502;West Poblacion;Finished;174;families
-221,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,218;Australian RC;Relief;Non-Food Items;Kitchen Set;1035;103502;West Poblacion;Finished;174;families
-222,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,219;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103502;West Poblacion;Finished;174;families
-223,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50509,Barangay 3,Finished,186,families,220;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103502;West Poblacion;Finished;174;families
-224,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50509,Barangay 3,Finished,186,families,221;AusAid-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103502;West Poblacion;Finished;174;families
-225,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50509,Barangay 3,Finished,186,families,222;Local Donor: Pax Libera Inc.;Relief;Food Items;Food Items (Assorted);1035;103502;West Poblacion;Finished;174;families
-226,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50509,Barangay 3,Finished,186,families,223;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;13;individuals
-227,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50509,Barangay 3,Finished,186,families,224;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;48;individuals
-228,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50509,Barangay 3,Finished,186,families,225;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;7;individuals
-229,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Barangay 3,Finished,186,individuals,226;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;6;individuals
-231,PRC,Health,PSS,Psychosocial Support,505,50509,Barangay 3,Finished,475,individuals,227;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;132;individuals
-232,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,228;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-233,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,229;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;76;individuals
-235,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,230;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;38;individuals
-236,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,231;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;25;individuals
-237,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,232;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;140;individuals
-238,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,233;ICRC;Health;PSS;Psychosocial Support;1035;103502;Balut;Finished;6;individuals
-239,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,234;ICRC;Health;RFL;Tracing;1035;103502;Balut;Finished;1;individual
-240,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,235;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;10;individuals
-241,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50509,Calbayog,Finished,662,families,236;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;10;individuals
-242,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50509,Calbayog,Finished,662,families,237;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;61;individuals
-243,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50509,Calbayog,Finished,662,families,238;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;3;individuals
-244,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50509,Calbayog,Finished,662,families,239;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;3;individuals
-245,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50509,Calbayog,Finished,662,families,240;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;58;individuals
-246,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50509,Calbayog,Finished,662,families,241;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;5;individuals
-247,PRC,Health,PSS,Psychosocial Support,505,50509,Calbayog,Finished,597,individuals,242;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;5;individuals
-248,PRC,Relief,Hot Meals,Hot Meals,505,50509,Calbayog,Finished,545,individuals,243;ICRC;Health;Referral;Welfare Referral;1035;103502;West Poblacion;Finished;2;individuals
-249,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Calbayog,Finished,662,individuals,244;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;60;individuals
-250,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,245;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;150;individuals
-251,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,246;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;86;individuals
-252,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,247;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;17;individuals
-253,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,248;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;25;individuals
-254,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,249;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;80;individuals
-255,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,250;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;22;individuals
-256,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,251;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;30;individuals
-257,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,252;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-258,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,253;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;19;individuals
-259,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,254;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;18;individuals
-260,PRC,WASH,Water,Water,505,50509,Salvacion,Finished,,,255;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;21;individuals
-261,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,256;ICRC;Health;PSS;Psychosocial Support;1035;103502;Balut;Finished;15;individuals
-262,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,,257;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;19;individuals
-263,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,,258;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;10;individuals
-264,PRC,WASH,Water,Water,505,50509,Salvacion,Finished,,,259;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;21;individuals
-265,PRC,Health,Health,Mask: Face,517,51723,,Finished,150,individuals,260;ICRC;Health;RFL;I am Alive Call;1035;103502;Balut;Finished;15;individuals
-266,PRC,Health,Health,Mask: N95,517,51723,,Finished,100,individuals,261;ICRC;Health;RFL;Tracing;1035;103502;West Poblacion;Finished;5;individuals
-267,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,517,51723,,Finished,,,262;ICRC;Health;RFL;Tracing;1035;103502;Balut;Finished;1;individual
-268,PRC,Health,Health,Mask: Face,517,51706,,Finished,300,individuals,263;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-269,PRC,Health,Health,Mask: N95,517,51706,,Finished,20,individuals,264;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-270,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,517,51706,,Finished,,,265;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;128;individuals
-271,PRC,Assessment,Assessment,Assessment,505,50516,,Finished,,,266;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;8;individuals
-272,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,267;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;52;individuals
-273,PRC,WASH,Water,Water Bladder,505,50516,Salvacion,Finished,2485,individuals,268;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;167;individuals
-274,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,269;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;64;individuals
-275,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,270;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;36;individuals
-276,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,271;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;56;individuals
-277,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,272;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;11;individuals
-278,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,273;ICRC;WASH;Water;Water;1035;103502;East Poblacion;Finished;;
-279,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,274;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;147;individuals
-280,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,275;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;5;individuals
-281,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,276;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;6;individuals
-282,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50516,San Andres,Finished,180,individuals,277;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;191;individuals
-283,PRC,Relief,Hot Meals,Hot Meals,505,50516,San Andres,Finished,350,individuals,278;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;120;individuals
-284,PRC,Health,PSS,Psychosocial Support,505,50516,San Andres,Finished,450,individuals,279;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;13;individuals
-285,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,280;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;115;individuals
-286,PRC,WASH,Sanitation,Portalets,505,50516,Salvacion,Finished,2682,individuals,281;ICRC;Health;PSS;Psychosocial Support;1035;103502;Balut;Finished;11;individuals
-287,PRC,WASH,Sanitation,Portalets,505,50516,Calayucay,Finished,1383,individuals,282;ICRC;Health;RFL;I am Alive Call;1035;103502;Balut;Finished;11;individuals
-288,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,283;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;52;individuals
-289,PRC,WASH,Sanitation,Portalets,505,50516,Calayucay,Finished,2753,individuals,284;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;42;individuals
-290,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,,285;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;48;individuals
-291,PRC,WASH,Water,Water,505,50516,San Andres,Finished,,,286;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;6;individuals
-292,PRC,Health,PSS,Welfare Desk,505,50517,Nagsipit,Finished,1,desk,287;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-293,PRC,Health,PSS,Psychosocial Support,505,50517,Buang,Finished,16,individuals,288;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;4;individuals
-294,PRC,Health,PSS,Welfare Desk,505,50517,Buang,Finished,1,desk,289;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;4;individuals
-295,PRC,Health,PSS,Welfare Desk,505,50517,Bantayan,Finished,1,desk,290;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;5;individuals
-296,PRC,Health,PSS,Welfare Desk,505,50517,Nagsipit,Finished,1,desk,291;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;111;individuals
-297,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,292;ICRC;WASH;Water;Water;1035;103502;West Poblacion;Finished;;
-298,PRC,WASH,Water,Water Bladder,505,50517,Bantayan,Finished,514,individuals,293;ICRC;Health;PSS;Psychosocial Support;1035;103502;Balut;Finished;4;individuals
-299,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,294;ICRC;Health;RFL;I am Alive Call;1035;103502;Balut;Finished;9;individuals
-300,PRC,Assessment,Assessment,Assessment,505,50517,,Finished,,,295;ICRC;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;13;individuals
-301,PRC,WASH,Sanitation,Latrines,505,50517,Comon,Ongoing,,,296;ICRC;Health;RFL;I am Alive Call;1035;103502;East Poblacion;Finished;14;individuals
-302,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,297;ICRC;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;133;individuals
-303,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,298;ICRC;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;6;individuals
-304,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,299;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;33;individuals
-305,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,300;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;33;individuals
-306,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,301;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;23;individuals
-307,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,302;ICRC;Health;RFL;I am Alive Call;1035;103502;West Poblacion;Finished;23;individuals
-308,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,303;ICRC;Health;Health;Welfare Desk;1035;103502;West Poblacion;Finished;1;station
-309,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,304;ICRC;Health;Health;Welfare Desk;1035;103502;Balut;Finished;1;station
-310,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,305;ICRC;Health;Health;Welfare Desk;1035;103502;East Poblacion;Finished;1;station
-311,PRC,Health,PSS,Welfare Desk,505,50517,Bantayan,Finished,1,desk,306;ICRC;Health;Health;Welfare Desk;1035;103502;West Poblacion;Finished;1;station
-312,PRC,Health,PSS,Psychosocial Support,505,50517,Bantayan,Finished,52,individuals,307;ICRC;Health;Health;Welfare Desk;1035;103502;West Poblacion;Finished;1;station
-313,PRC,Relief,Hot Meals,Hot Meals,505,50517,Bantayan,Finished,138,individuals,308;ICRC;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;6;individuals
-314,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50517,Bantayan,Finished,39,individuals,309;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;74;individuals
-315,PRC,Health,Health,Mask: Face,505,50517,Bantayan,Finished,200,individuals,310;ICRC;WASH;Hygiene Promotion;Hygiene Promotion;1035;103502;West Poblacion;Finished;135;individuals
-316,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,,311;ICRC;Health;PSS;Psychosocial Support;1035;103502;West Poblacion;Finished;53;individuals
+ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Barangay,Status,Beneficiaries,Beneficiary_type
+1,PRC,Health,Health,Mask: Face,517,51703,,Finished,250,individuals
+2,PRC,Health,Health,Mask: Face,517,51705,,Finished,350,individuals
+3,PRC,Health,Health,Mask: Face,505,50502,,Finished,1000,individuals
+4,PRC,Health,Health,BP Taking,505,50502,Anoling,Finished,1,individuals
+5,PRC,Health,PSS,Welfare Desk,505,50502,Salugan,Finished,1,desk
+6,PRC,Health,PSS,Welfare Desk,505,50502,Anoling,Finished,1,desk
+7,PRC,Health,PSS,Psychosocial Support,505,50502,Salugan,Finished,33,individuals
+8,PRC,Health,PSS,Psychosocial Support,505,50502,Anoling,Finished,465,individuals
+9,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Salugan,Finished,16,individuals
+10,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Quirangay,Finished,186,individuals
+11,PRC,Health,PSS,Welfare Desk,505,50502,Bariw,Finished,1,desk
+12,PRC,Health,PSS,Psychosocial Support,505,50502,Bariw,Finished,106,individuals
+13,PRC,Assessment,Assessment,Assessment,505,50502,,Finished,,
+14,PRC,Health,Health,Transport,505,50502,Anoling,Finished,1,individuals
+15,PRC,WASH,Sanitation,Latrines,505,50502,Comun,Ongoing,0.15,
+16,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50502,Baligang,Finished,307,families
+17,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50502,Baligang,Finished,307,families
+18,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50502,Baligang,Finished,307,families
+19,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50502,Baligang,Finished,307,families
+20,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50502,Baligang,Finished,307,families
+21,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50502,Baligang,Finished,307,families
+22,PRC,Relief,Hot Meals,Hot Meals,505,50502,Baligang,Finished,444,individuals
+23,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Baligang,Finished,125,individuals
+24,PRC,Health,PSS,Psychosocial Support,505,50502,Taladong,Finished,392,individuals
+25,PRC,Relief,Hot Meals,Hot Meals,505,50502,Taladong,Finished,237,individuals
+26,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50502,Cumon,Finished,455,individuals
+27,PRC,Health,PSS,Psychosocial Support,505,50506,Chapter,Finished,32,individuals
+28,PRC,Health,PSS,Psychosocial Support,505,50506,Chapter,Finished,33,individuals
+29,PRC,Health,PSS,Welfare Desk,505,50503,Salvacion,Finished,1,desk
+30,PRC,Health,PSS,Welfare Desk,505,50503,Mi-isi,Finished,1,desk
+31,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,67,individuals
+32,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,166,individuals
+33,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Mi-isi,Finished,292,individuals
+34,PRC,WASH,Water,Water Bladder,505,50503,Mi-isi,Finished,,
+35,PRC,Health,PSS,Welfare Desk,505,50503,Mi-isi,Finished,1,desk
+36,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,127,individuals
+37,PRC,WASH,Water,Water,505,50503,Mi-isi,Finished,,
+38,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,76,individuals
+39,PRC,Health,PSS,Psychosocial Support,505,50503,Salvacion,Finished,39,individuals
+40,PRC,Health,PSS,Psychosocial Support,505,50503,Budiao,Finished,125,individuals
+41,PRC,Health,PSS,Psychosocial Support,505,50503,Banadero,Finished,44,individuals
+42,PRC,Health,PSS,Welfare Desk,505,50503,Salvacion,Finished,1,desk
+43,PRC,Health,PSS,Welfare Desk,505,50503,Budiao,Finished,1,desk
+44,PRC,Health,PSS,Welfare Desk,505,50503,Banadero,Finished,1,desk
+45,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Budiao,Finished,12,individuals
+46,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Budiao,Finished,24,individuals
+47,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Banadero,Finished,35,individuals
+48,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Salvacion,Finished,221,individuals
+49,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Salvacion,Finished,69,individuals
+50,PRC,Health,PSS,Psychosocial Support,505,50503,Mi-isi,Finished,91,individuals
+51,PRC,WASH,Water,Water,505,50503,Mi-isi,Finished,,
+52,PRC,Assessment,Assessment,Assessment,505,50503,,Finished,,
+53,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50503,Mi-isi,Finished,337,families
+54,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50503,Mi-isi,Finished,337,families
+55,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50503,Mi-isi,Finished,337,families
+56,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50503,Mi-isi,Finished,337,families
+57,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50503,Mi-isi,Finished,337,families
+58,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50503,Mi-isi,Finished,337,families
+59,PRC,Health,PSS,Psychosocial Support,505,50503,Bascaran,Finished,242,individuals
+60,PRC,Health,PSS,Psychosocial Support,505,50503,Anislag,Finished,42,individuals
+61,PRC,Health,PSS,Welfare Desk,505,50503,Bascaran,Finished,1,desk
+62,PRC,Health,PSS,Welfare Desk,505,50503,Anislag,Finished,1,desk
+63,PRC,WASH,Sanitation,Latrines,505,50503,Gabawan,Ongoing,,
+64,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Anislag,Finished,175,individuals
+65,PRC,Health,PSS,Psychosocial Support,505,50503,Anislag,Finished,219,individuals
+67,PRC,Health,PSS,Psychosocial Support,505,50503,Villahermosa,Finished,292,individuals
+68,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50503,Mi-isi,Finished,98,individuals
+69,PRC,Education,Education,Temporary Learning Space,505,50503,,Planned,,pupils
+70,PRC,Health,Health,Mask: Face,505,50504,,Finished,1000,individuals
+71,PRC,Relief,Non-Food Items,Tarpaulin,505,50504,Tandarora,Finished,,
+72,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,113,individuals
+73,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,688,individuals
+74,PRC,Health,PSS,Psychosocial Support,505,50504,Poblacion,Finished,1576,individuals
+75,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk
+76,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk
+77,PRC,Health,PSS,Welfare Desk,505,50504,Muladbucad,Finished,1,desk
+78,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,30,individuals
+79,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,30,individuals
+80,PRC,Health,PSS,Psychosocial Support,505,50504,Muladbucad,Finished,298,individuals
+81,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk
+82,PRC,Health,PSS,Welfare Desk,505,50504,Tandarora,Finished,1,desk
+83,PRC,Health,PSS,Welfare Desk,505,50504,POblacion,Finished,1,desk
+84,PRC,Assessment,Assessment,Assessment,505,50504,,Finished,,
+85,PRC,Health,PSS,Psychosocial Support,505,50504,Muladbucad,Finished,65,individuals
+86,PRC,Health,PSS,Welfare Desk,505,50504,Muladbucad,Finished,1,desk
+87,PRC,WASH,Sanitation,Latrines,505,50504,Tandarora,Finished,1,
+88,PRC,Health,Health,Mask: Face,505,50504,Tandarora,Finished,2000,individuals
+89,PRC,WASH,Sanitation,Portalets,505,50504,Tandarora,Finished,1402,individuals
+90,PRC,WASH,Sanitation,Portalets,505,50504,Poblacion,Finished,1378,individuals
+91,PRC,Health,PSS,Psychosocial Support,505,50504,Tandarora,Finished,1198,individuals
+92,PRC,Relief,Hot Meals,Hot Meals,505,50504,Tandarora,Finished,580,individuals
+93,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50504,Tandarora,Finished,408,families
+94,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50504,Tandarora,Finished,408,families
+95,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50504,Tandarora,Finished,408,families
+96,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50504,Tandarora,Finished,408,families
+97,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50504,Tandarora,Finished,408,families
+98,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50504,Tandarora,Finished,408,families
+99,PRC,WASH,Sanitation,Portalets,505,50504,Gabawan,Finished,1552,individuals
+100,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50504,,Finished,455,individuals
+101,PRC,WASH,Water,Water,505,50504,Calbayog,Finished,,
+102,PRC,Health,Health,Mask: Face,505,50504,Nabonton,Finished,350,individuals
+103,PRC,Education,Education,Temporary Learning Space,505,50504,,Finished,78,pupils
+104,PRC,Education,Education,Temporary Learning Space,505,50504,,Finished,,pupils
+105,PRC,Health,Health,Nebulizing Kit : Pedia,505,50504,,Finished,,individuals
+106,PRC,Health,Health,Nebulizing Kit : Adult,505,50504,,Finished,,individuals
+107,PRC,Health,Health,Nebulizer,505,50504,,Finished,,individuals
+108,PRC,Health,Health,Nebules,505,50504,,Finished,,individuals
+109,PRC,Health,Health,Mask: Face,505,50504,,Finished,300,individuals
+110,PRC,Health,Health,Nebulizing Kit : Pedia,505,50504,,Finished,,individuals
+111,PRC,Health,Health,Nebulizing Kit : Adult,505,50504,,Finished,,individuals
+112,PRC,Health,Health,Mask: Face,505,50504,,Finished,200,individuals
+113,PRC,Health,Health,Mask: Face,505,50504,,Finished,200,individuals
+114,PRC,WASH,Sanitation,Latrines,505,50504,,Ongoing,,
+115,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,99,individuals
+116,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,58,individuals
+117,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,East Washington,Finished,30,individuals
+118,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Bagumbayan,Finished,91,individuals
+119,PRC,Health,PSS,Welfare Desk,505,50506,Gogon,Finished,1,desk
+120,PRC,Health,PSS,Welfare Desk,505,50506,Gogon,Finished,1,desk
+121,PRC,Health,PSS,Welfare Desk,505,50506,East Washington,Finished,1,desk
+122,PRC,Health,PSS,Welfare Desk,505,50506,Bagumbayan,Finished,1,desk
+123,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,105,individuals
+124,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,58,individuals
+125,PRC,Health,PSS,Psychosocial Support,505,50506,East Washington,Finished,33,individuals
+126,PRC,Health,PSS,Psychosocial Support,505,50506,Bagumbayan,Finished,265,individuals
+127,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50506,,Finished,,
+128,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50506,,Finished,,
+129,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50506,,Finished,,
+130,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50506,,Finished,,
+131,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50506,,Finished,,
+132,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50506,,Finished,,
+133,PRC,Health,Health,BP Taking,505,50506,,Finished,11,individuals
+134,PRC,Health,Health,Mask: N95,505,50506,,Finished,26,individuals
+135,PRC,Health,Health,Googles,505,50506,,Finished,26,individuals
+136,PRC,Assessment,Assessment,Assessment,505,50506,,Finished,,
+137,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,367,individuals
+138,PRC,WASH,Non-Food Items,Jerry Can,505,50506,Gogon,Finished,120,pcs
+139,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+140,PRC,WASH,Water,Water Bladder,505,50506,East Washington,Finished,2080,individuals
+141,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+142,PRC,WASH,Water,Water Bladder,505,50506,Bagumbayan,Finished,4175,individuals
+143,PRC,Health,PSS,Psychosocial Support,505,50506,Gogon,Finished,500,individuals
+144,PRC,Health,PSS,Psychosocial Support,505,50506,Gabawan,Finished,27,individuals
+145,PRC,Health,PSS,Welfare Desk,505,50506,Gabawan,Finished,1,desk
+146,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Gogon,Finished,367,individuals
+147,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Cabagnan,Finished,131,individuals
+149,PRC,Health,PSS,Psychosocial Support,505,50506,,Finished,216,individuals
+150,PRC,Health,Health,Transport,505,50506,Anoling,Finished,2,individuals
+151,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+152,PRC,Relief,Hot Meals,Bread,505,50506,Taysan,Finished,645,individuals
+153,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+154,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+155,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+156,PRC,Health,Health,Transport,505,50506,Gogon,Finished,1,individuals
+157,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+158,PRC,Health,PSS,Psychosocial Support,505,50506,Bitano,Finished,527,individuals
+159,PRC,Relief,Hot Meals,Hot Meals,505,50506,Bitano,Finished,90,individuals
+160,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+161,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,Bitano,Finished,527,individuals
+162,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+163,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+164,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50506,East Washington,Finished,50,individuals
+165,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+166,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+167,PRC,Health,Health,Transport,505,50506,East Washington,Finished,2,individuals
+168,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+169,PRC,Education,Education,Temporary Learning Space,505,50506,,Finished,54,pupils
+170,PRC,Education,Education,Temporary Learning Space,505,50506,,Finished,88,pupils
+171,PRC,WASH,Water,Water,505,50506,Bagumbayan,Finished,,
+172,PRC,WASH,Water,Water,505,50506,East Washington,Finished,,
+173,PRC,Health,PSS,Welfare Desk,505,50508,Baligang,Finished,1,desk
+174,PRC,Health,PSS,Welfare Desk,505,50508,Nabonton,Finished,1,desk
+175,PRC,Health,Health,Mask: Face,505,50508,Washington,Finished,1178,individuals
+176,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50508,Washington,Finished,1178,individuals
+177,PRC,Health,PSS,Psychosocial Support,505,50508,Washington,Finished,226,individuals
+179,PRC,Health,PSS,Psychosocial Support,505,50508,Cabagnan,Finished,367,individuals
+180,PRC,Relief,Hot Meals,Hot Meals,505,50508,Cabagnan,Finished,351,individuals
+181,PRC,Health,PSS,Psychosocial Support,505,50508,Washington,Finished,623,individuals
+182,PRC,Health,PSS,Psychosocial Support,505,50508,Nabonton,Finished,78,individuals
+183,PRC,Relief,Hot Meals,Hot Meals,505,50508,Basag,Finished,432,individuals
+184,PRC,Health,PSS,Psychosocial Support,505,50508,Basag,Finished,180,individuals
+185,PRC,Health,PSS,Psychosocial Support,505,50508,Baligang,Finished,392,individuals
+186,PRC,Health,PSS,Psychosocial Support,505,50508,Nabonton,Finished,778,individuals
+187,PRC,Health,PSS,Welfare Desk,505,50508,Nabonton,Finished,1,desk
+188,PRC,Relief,Hot Meals,Bread,505,50508,Nabonton,Finished,329,individuals
+189,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50508,Nabonton,Finished,107,individuals
+190,PRC,Health,Health,Mask: Face,505,50508,Tandarora,Finished,300,individuals
+191,PRC,Health,Health,Mask: Face,505,50508,Poblacion,Finished,200,individuals
+192,PRC,Health,Health,Mask: Face,505,50508,Washington,Finished,500,individuals
+193,PRC,Health,Health,Nebulizing Kit : Pedia,505,50508,,Finished,,individuals
+194,PRC,Health,Health,Nebulizing Kit : Adult,505,50508,,Finished,,individuals
+195,PRC,Health,Health,Nebulizer,505,50508,,Finished,,individuals
+196,PRC,Health,Health,Nebules,505,50508,,Finished,,individuals
+197,PRC,Health,Health,Mask: Face,505,50508,,Finished,350,individuals
+198,PRC,Health,Health,Nebulizing Kit : Pedia,505,50508,,Finished,,individuals
+199,PRC,Health,Health,Nebulizing Kit : Adult,505,50508,,Finished,,individuals
+200,PRC,Health,Health,Nebulizer,505,50508,,Finished,,individuals
+201,PRC,Health,Health,Nebules,505,50508,,Finished,,individuals
+202,PRC,Health,Health,Mask: Face,505,50508,,Finished,500,individuals
+203,PRC,Health,PSS,Welfare Desk,505,50509,Calbayog,Finished,1,desk
+204,PRC,Health,PSS,Psychosocial Support,505,50509,Calbayog,Finished,108,individuals
+205,PRC,Health,PSS,Psychosocial Support,505,50509,Barangay 3,Finished,74,individuals
+206,PRC,Health,PSS,Psychosocial Support,505,50509,San Antonio,Finished,11,individuals
+207,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Calbayog,Finished,118,individuals
+208,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Barangay 3,Finished,33,individuals
+209,PRC,Health,PSS,Welfare Desk,505,50509,Calbayog,Finished,1,desk
+210,PRC,Health,PSS,Welfare Desk,505,50509,Poblacion,Finished,1,desk
+211,PRC,Health,PSS,Welfare Desk,505,50509,San antonio,Finished,1,desk
+212,PRC,WASH,Water,Water Bladder,505,50509,Calbayog,Finished,2338,individuals
+213,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+214,PRC,Assessment,Assessment,Assessment,505,50509,,Finished,,
+215,PRC,WASH,Water,Water Bladder,505,50509,Barangay 3,Finished,756,individuals
+216,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+217,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+218,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+219,PRC,WASH,Sanitation,Latrines,505,50509,Barangay 3,Ongoing,0.65,
+220,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+221,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+222,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+223,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50509,Barangay 3,Finished,186,families
+224,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50509,Barangay 3,Finished,186,families
+225,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50509,Barangay 3,Finished,186,families
+226,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50509,Barangay 3,Finished,186,families
+227,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50509,Barangay 3,Finished,186,families
+228,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50509,Barangay 3,Finished,186,families
+229,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Barangay 3,Finished,186,individuals
+231,PRC,Health,PSS,Psychosocial Support,505,50509,Barangay 3,Finished,475,individuals
+232,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+233,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+235,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+236,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+237,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+238,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+239,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+240,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+241,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mat),505,50509,Calbayog,Finished,662,families
+242,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),505,50509,Calbayog,Finished,662,families
+243,AusAid DFAT,Relief,Non-Food Items,Sleeping Kit (Blanket),505,50509,Calbayog,Finished,662,families
+244,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,505,50509,Calbayog,Finished,662,families
+245,AusAid DFAT,WASH,Non-Food Items,Jerry Can (10L),505,50509,Calbayog,Finished,662,families
+246,AusAid DFAT,WASH,Non-Food Items,Hygiene Kit,505,50509,Calbayog,Finished,662,families
+247,PRC,Health,PSS,Psychosocial Support,505,50509,Calbayog,Finished,597,individuals
+248,PRC,Relief,Hot Meals,Hot Meals,505,50509,Calbayog,Finished,545,individuals
+249,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50509,Calbayog,Finished,662,individuals
+250,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+251,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+252,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+253,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+254,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+255,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+256,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+257,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+258,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+259,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+260,PRC,WASH,Water,Water,505,50509,Salvacion,Finished,,
+261,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+262,PRC,WASH,Water,Water,505,50509,Calbayog,Finished,,
+263,PRC,WASH,Water,Water,505,50509,Barangay 3,Finished,,
+264,PRC,WASH,Water,Water,505,50509,Salvacion,Finished,,
+265,PRC,Health,Health,Mask: Face,517,51723,,Finished,150,individuals
+266,PRC,Health,Health,Mask: N95,517,51723,,Finished,100,individuals
+267,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,517,51723,,Finished,,
+268,PRC,Health,Health,Mask: Face,517,51706,,Finished,300,individuals
+269,PRC,Health,Health,Mask: N95,517,51706,,Finished,20,individuals
+270,AusAid DFAT,Relief,Non-Food Items,Tarpaulin,517,51706,,Finished,,
+271,PRC,Assessment,Assessment,Assessment,505,50516,,Finished,,
+272,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+273,PRC,WASH,Water,Water Bladder,505,50516,Salvacion,Finished,2485,individuals
+274,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+275,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+276,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+277,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+278,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+279,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+280,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+281,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+282,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50516,San Andres,Finished,180,individuals
+283,PRC,Relief,Hot Meals,Hot Meals,505,50516,San Andres,Finished,350,individuals
+284,PRC,Health,PSS,Psychosocial Support,505,50516,San Andres,Finished,450,individuals
+285,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+286,PRC,WASH,Sanitation,Portalets,505,50516,Salvacion,Finished,2682,individuals
+287,PRC,WASH,Sanitation,Portalets,505,50516,Calayucay,Finished,1383,individuals
+288,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+289,PRC,WASH,Sanitation,Portalets,505,50516,Calayucay,Finished,2753,individuals
+290,PRC,WASH,Water,Water,505,50516,Salvacion,Finished,,
+291,PRC,WASH,Water,Water,505,50516,San Andres,Finished,,
+292,PRC,Health,PSS,Welfare Desk,505,50517,Nagsipit,Finished,1,desk
+293,PRC,Health,PSS,Psychosocial Support,505,50517,Buang,Finished,16,individuals
+294,PRC,Health,PSS,Welfare Desk,505,50517,Buang,Finished,1,desk
+295,PRC,Health,PSS,Welfare Desk,505,50517,Bantayan,Finished,1,desk
+296,PRC,Health,PSS,Welfare Desk,505,50517,Nagsipit,Finished,1,desk
+297,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+298,PRC,WASH,Water,Water Bladder,505,50517,Bantayan,Finished,514,individuals
+299,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+300,PRC,Assessment,Assessment,Assessment,505,50517,,Finished,,
+301,PRC,WASH,Sanitation,Latrines,505,50517,Comon,Ongoing,,
+302,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+303,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+304,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+305,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+306,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+307,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+308,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+309,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+310,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
+311,PRC,Health,PSS,Welfare Desk,505,50517,Bantayan,Finished,1,desk
+312,PRC,Health,PSS,Psychosocial Support,505,50517,Bantayan,Finished,52,individuals
+313,PRC,Relief,Hot Meals,Hot Meals,505,50517,Bantayan,Finished,138,individuals
+314,PRC,WASH,Hygiene Promotion,Health and Hygiene Promotion,505,50517,Bantayan,Finished,39,individuals
+315,PRC,Health,Health,Mask: Face,505,50517,Bantayan,Finished,200,individuals
+316,PRC,WASH,Water,Water,505,50517,Bantayan,Finished,,
