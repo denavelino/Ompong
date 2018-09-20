@@ -1,592 +1,197 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30801;Gabon;Finished;50;families
-2;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30801;Gabon;Finished;50;families
-3;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30801;Gabon;Finished;50;families
-4;IFRC;WASH;Non-Food Items;Hygiene Kit;308;30801;Gabon;Finished;50;families
-5;IFRC;WASH;Non-Food Items;Jerry Can (10L);308;30801;Gabon;Finished;50;families
-6;IFRC;Relief;Non-Food Items;Tarpaulin;308;30801;Gabon;Finished;50;families
-7;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30801;Salian;Finished;46;families
-8;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30801;Salian;Finished;46;families
-9;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30801;Salian;Finished;46;families
-10;IFRC;WASH;Non-Food Items;Hygiene Kit;308;30801;Salian;Finished;46;families
-11;IFRC;WASH;Non-Food Items;Jerry Can (10L);308;30801;Salian;Finished;46;families
-12;IFRC;Relief;Non-Food Items;Tarpaulin;308;30801;Salian;Finished;46;families
-13;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30801;Salian;Finished;46;individuals
-14;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30801;Gabon;Finished;50;individuals
-15;PRC;Relief;Food Items;Food Items (Assorted);1411;141101;Sayangan;Finished;15;famillies
-16;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141101;Sayangan;Finished;15;famillies
-17;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141102;;Finished;10;families
-18;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141102;Loakan Proper;Finished;11;families
-19;PRC;Relief;Non-Food Items;Slippers;1411;141102;;Finished;10;families
-20;PRC;Relief;Non-Food Items;Slippers;1411;141102;Loakan Proper;Finished;11;families
-21;PRC;Relief;Non-Food Items;Towel;1411;141102;;Finished;10;families
-22;PRC;Relief;Non-Food Items;Towel;1411;141102;Loakan Proper;Finished;11;families
-23;PRC;Relief;Hot Meals;Hot Meals;308;30803;Cupang;Finished;200;individuals
-24;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15515;Poblacion;Finished;23;families
-25;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15515;Poblacion;Finished;23;families
-26;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15515;Poblacion;Finished;23;families
-27;PRC;WASH;Non-Food Items;Hygiene Kit;155;15515;Poblacion;Finished;23;families
-28;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15515;Poblacion;Finished;23;families
-29;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15515;Poblacion;Finished;10;families
-30;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15515;Poblacion;Finished;10;families
-31;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15515;Poblacion;Finished;10;families
-32;PRC;WASH;Non-Food Items;Hygiene Kit;155;15515;Poblacion;Finished;10;families
-33;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15515;Poblacion;Finished;10;families
-34;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15515;Ba?aga;Finished;19;families
-35;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15515;Ba?aga;Finished;19;families
-36;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15515;Ba?aga;Finished;19;families
-37;PRC;WASH;Non-Food Items;Hygiene Kit;155;15515;Ba?aga;Finished;19;families
-38;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15515;Ba?aga;Finished;19;families
-39;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31405;Taliptip;Planned;92;families
-40;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);314;31405;Taliptip;Planned;92;families
-41;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31405;Perezes;Planned;50;families
-42;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);314;31405;Perezes;Planned;50;families
-43;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31405;Perez;Finished;50;families
-44;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31405;Taliptip;Finished;92;families
-45;PRC;Relief;Hot Meals;Hot Meals;458;45805;San Francisco;Finished;411;individuals
-46;PRC;Relief;Hot Meals;Hot Meals;458;45805;San Juan;Finished;136;individuals
-47;PRC;Relief;Hot Meals;Hot Meals;155;15517;;Finished;430;individuals
-48;PRC;Health;PSS;Welfare Desk;155;15517;;Finished;88;families
-49;PRC;WASH;Hygiene Promotion;Hygiene Promotion;155;15517;;Finished;130;individuals
-50;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);155;15517;;Finished;268;families
-52;PRC;Health;PSS;PSP;155;15517;;Finished;38;individuals
-53;PRC;Health;Health;Health Education;155;15517;;Finished;1212;individuals
-54;PRC;WASH;Water;Provision of Water;155;15517;;Finished;1302;individuals
-55;PRC;WASH;Water;Provision of Water;155;15517;Talibaew;Finished;2250;individuals
-56;PRC;WASH;Water;Provision of Water;155;15517;San Vicente;Finished;235;individuals
-57;PRC;WASH;Water;Provision of Water;155;15517;Banaoang;Finished;2955;individuals
-58;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15517;Songkoy;Finished;602;families
-59;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15517;Songkoy;Finished;602;families
-60;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15517;Songkoy;Finished;602;families
-61;PRC;WASH;Non-Food Items;Hygiene Kit;155;15517;Songkoy;Finished;602;families
-62;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15517;Songkoy;Finished;602;families
-63;PRC;Relief;Hot Meals;Hot Meals;314;31407;Pio Cruzcoza;Finished;50;individuals
-64;PRC;Relief;Hot Meals;Hot Meals;314;31407;Meysulao;Finished;177;individuals
-65;PRC;Relief;Hot Meals;Hot Meals;314;31407;San Miguel;Finished;81;individuals
-66;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Pio Cruzcoza;Finished;50;individuals
-67;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Meysulao;Finished;140;individuals
-68;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;San Miguel;Finished;52;individuals
-69;PRC;Health;PSS;PSP;314;31407;Meysulao;Finished;104;individuals
-70;PRC;Health;PSS;PSP;314;31407;San Miguel;Finished;52;individuals
-71;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Gatbuca;Finished;48;individuals
-72;PRC;Health;PSS;PSP;314;31407;Gatbuca;Finished;48;individuals
-73;PRC;Relief;Hot Meals;Hot Meals;314;31407;Gatbuca;Finished;313;individuals
-74;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Calizon;Finished;45;individuals
-75;PRC;Health;PSS;PSP;314;31407;Calizon;Finished;45;individuals
-76;PRC;Relief;Hot Meals;Hot Meals;314;31407;Calizon;Finished;180;individuals
-77;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Gugo;Finished;27;individuals
-78;PRC;Health;PSS;PSP;314;31407;Gugo;Finished;45;individuals
-79;PRC;Relief;Hot Meals;Hot Meals;314;31407;Gugo;Finished;34;individuals
-80;PRC;Health;Health;Health Education;314;31407;;Finished;333;individuals
-81;PRC;Relief;Food Items;Food Items (Standard);314;31407;Meysulao;Finished;73;families
-82;PRC;Relief;Food Items;Food Items (Standard);314;31407;Calizon;Finished;48;families
-83;PRC;Relief;Food Items;Food Items (Standard);314;31407;Gugo;Finished;6;families
-84;PRC;Relief;Food Items;Food Items (Standard);314;31407;San Miguel;Finished;51;families
-85;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Meysulao;Finished;73;families
-86;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Calizon;Finished;48;families
-87;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Gugo;Finished;6;families
-88;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;San Miguel;Finished;51;families
-89;PRC;Relief;Non-Food Items;Pillow Case;314;31407;Meysulao;Finished;73;families
-90;PRC;Relief;Non-Food Items;Pillow Case;314;31407;Calizon;Finished;48;families
-91;PRC;Relief;Non-Food Items;Pillow Case;314;31407;Gugo;Finished;6;families
-92;PRC;Relief;Non-Food Items;Pillow Case;314;31407;San Miguel;Finished;51;families
-93;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Poblacion;Planned;131;families
-94;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);314;31407;Poblacion;Planned;131;families
-95;PRC;Health;PSS;PSP;314;31407;Poblacion;Planned;35;individuals
-96;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Planned;35;individuals
-97;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Sapang Bayan;Planned;114;families
-98;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);314;31407;Sapang Bayan;Planned;114;families
-99;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Planned;41;individuals
-100;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Planned;41;individuals
-101;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Sapang Bayan;Finished;114;families
-102;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31407;Poblacion;Finished;131;families
-103;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Finished;41;individuals
-104;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Finished;41;individuals
-105;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Finished;35;individuals
-106;PRC;Health;PSS;PSP;314;31407;Poblacion;Finished;35;individuals
-107;PRC;Health;Health;Health Education;314;31407;Sapang Bayan;Finished;41;individuals
-108;PRC;Health;Health;Health Education;314;31407;Poblacion;Finished;35;individuals
-109;PRC;Relief;Food Items;Food Items (Assorted);369;36903;Pindangan 1st;Finished;909;families
-110;PRC;Relief;Food Items;Food Items (Assorted);369;36903;Pindangan 2nd;Finished;509;families
-111;PRC;Relief;Hot Meals;Hot Meals;155;15518;Malued;Finished;314;individuals
-112;PRC;WASH;Hygiene Promotion;Hygiene Promotion;155;15518;Bacayao Sur;Finished;52;individuals
-113;PRC;Health;Health;Rescued/Assisted;155;15518;Malued;Finished;60;individuals
-114;PRC;Health;PSS;Welfare Desk;155;15518;;Finished;57;families
-115;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);155;15518;Malimgas;Finished;107;families
-116;PRC;WASH;Hygiene Promotion;Hygiene Promotion;155;15518;Malimgas;Finished;53;individuals
-118;PRC;Health;PSS;PSP;155;15518;Malimgas;Finished;28;individuals
-119;PRC;WASH;WASH;Bottled Water;155;15518;;Finished;56;individuals
-120;PRC;WASH;Water;Provision of Water;155;15518;;Finished;958;individuals
-121;PRC;WASH;Water;Provision of Water;155;15518;;Finished;958;individuals
-122;PRC;Relief;Food Items;Food Items (Standard);155;15518;;Finished;406;families
-123;PRC;WASH;Water;Provision of Water;155;15518;;Finished;958;individuals
-124;PRC;Relief;Hot Meals;Hot Meals;155;15518;;Finished;725;individuals
-125;PRC;Health;Health;Rescued/Assisted;155;15518;Burgos;Finished;1;individuals
-126;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Mamalingling;Finished;376;families
-127;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Mamalingling;Finished;376;families
-128;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Mamalingling;Finished;376;families
-129;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Mamalingling;Finished;376;families
-130;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Mamalingling;Finished;376;families
-131;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Lomboy;Finished;137;families
-132;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Lomboy;Finished;137;families
-133;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Lomboy;Finished;137;families
-134;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Lomboy;Finished;137;families
-135;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Lomboy;Finished;137;families
-136;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Mayombo;Finished;30;families
-137;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Mayombo;Finished;30;families
-138;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Mayombo;Finished;30;families
-139;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Mayombo;Finished;30;families
-140;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Mayombo;Finished;30;families
-141;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Herrero - Perez;Finished;128;families
-142;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Herrero - Perez;Finished;128;families
-143;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Herrero - Perez;Finished;128;families
-144;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Herrero - Perez;Finished;128;families
-145;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Herrero - Perez;Finished;128;families
-146;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Poblacion Oeste;Finished;50;families
-147;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Poblacion Oeste;Finished;50;families
-148;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Poblacion Oeste;Finished;50;families
-149;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Poblacion Oeste;Finished;50;families
-150;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Poblacion Oeste;Finished;50;families
-151;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15518;Malued;Finished;25;families
-152;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15518;Malued;Finished;25;families
-153;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15518;Malued;Finished;25;families
-154;PRC;WASH;Non-Food Items;Hygiene Kit;155;15518;Malued;Finished;25;families
-155;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15518;Malued;Finished;25;families
-156;PRC;Relief;Hot Meals;Hot Meals;308;30804;Sto Nino;Finished;27;individuals
-157;PRC;Relief;Hot Meals;Hot Meals;308;30804;Saguing;Finished;57;individuals
-158;PRC;Relief;Hot Meals;Hot Meals;308;30804;Luacan;Finished;70;individuals
-159;PRC;Relief;Hot Meals;Hot Meals;308;30804;San Ramon;Finished;42;individuals
-186;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Magsaysay;Planned;50;families
-187;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Magsaysay;Planned;50;families
-188;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Magsaysay;Planned;50;families
-189;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Magsaysay;Planned;50;families
-190;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Magsaysay;Planned;50;families
-191;PRC;Health;PSS;Welfare Desk;308;30804;Luacan;Finished;;
-192;PRC;Health;Health;First Aid;308;30804;Luacan;Finished;5;individuals
-193;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30804;Layac;Finished;48;individuals
-194;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30804;Luacan;Finished;44;individuals
-195;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30804;Pagasa;Finished;38;individuals
-196;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30804;Magsaysay;Finished;50;individuals
-197;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30804;Colo;Finished;50;individuals
-198;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30804;Layac;Finished;48;families
-199;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Layac;Finished;48;families
-200;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Layac;Finished;48;families
-201;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Layac;Finished;48;families
-202;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Layac;Finished;48;families
-203;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Layac;Finished;48;families
-204;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30804;Luacan;Finished;44;families
-205;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Luacan;Finished;44;families
-206;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Luacan;Finished;44;families
-207;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Luacan;Finished;44;families
-208;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Luacan;Finished;44;families
-209;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Luacan;Finished;44;families
-210;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30804;Pagasa;Finished;38;families
-211;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Pagasa;Finished;38;families
-212;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Pagasa;Finished;38;families
-213;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Pagasa;Finished;38;families
-214;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Pagasa;Finished;38;families
-215;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Pagasa;Finished;38;families
-216;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30804;Magsaysay;Finished;50;families
-217;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Magsaysay;Finished;50;families
-218;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Magsaysay;Finished;50;families
-219;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Magsaysay;Finished;50;families
-220;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Magsaysay;Finished;50;families
-221;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Magsaysay;Finished;50;families
-222;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30804;Colo;Finished;50;families
-223;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30804;Colo;Finished;50;families
-224;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30804;Colo;Finished;50;families
-225;PRC;WASH;Non-Food Items;Hygiene Kit;308;30804;Colo;Finished;50;families
-226;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30804;Colo;Finished;50;families
-227;PRC;Relief;Non-Food Items;Tarpaulin;308;30804;Colo;Finished;50;families
-228;PRC;WASH;Sanitation;Clearing Operation;371;;;Finished;;
-229;PRC;Relief;Hot Meals;Hot Meals;314;31408;Ilangilang;Finished;184;individuals
-230;PRC;Relief;Hot Meals;Hot Meals;314;31408;Malis;Finished;270;individuals
-231;PRC;Relief;Hot Meals;Hot Meals;314;31408;Poblacion;Finished;424;individuals
-232;PRC;Health;PSS;PSP;314;31408;Ilangilang;Finished;26;individuals
-233;PRC;Health;PSS;PSP;314;31408;Malis;Finished;50;individuals
-234;PRC;Health;PSS;PSP;314;31408;Poblacion;Finished;60;individuals
-235;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Ilangilang;Finished;26;individuals
-236;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Malis;Finished;50;individuals
-237;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Poblacion;Finished;60;individuals
-238;PRC;Relief;Hot Meals;Hot Meals;314;31408;Ilang-ilang;Finished;184;individuals
-239;PRC;Relief;Hot Meals;Hot Meals;314;31408;Malis;Finished;270;individuals
-240;PRC;Relief;Hot Meals;Hot Meals;314;31408;Poblacion;Finished;424;individuals
-241;PRC;Health;PSS;PSP;314;31408;Ilang-ilang;Finished;26;individuals
-242;PRC;Health;PSS;PSP;314;31408;Malis;Finished;50;individuals
-243;PRC;Health;PSS;PSP;314;31408;Poblacion;Finished;60;individuals
-244;PRC;Health;Health;Health Education;314;31408;Ilang-ilang;Finished;26;individuals
-245;PRC;Health;Health;Health Education;314;31408;Malis;Finished;50;individuals
-246;PRC;Health;Health;Health Education;314;31408;Poblacion;Finished;60;individuals
-247;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Ilang-ilang;Finished;26;individuals
-248;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Malis;Finished;50;individuals
-249;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31408;Poblacion;Finished;60;individuals
-250;PRC;Assessment;Assessment;Assessment;314;31409;;Finished;1;municipality
-251;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31409;Sto. Nino;Finished;44;families
-252;PRC;Health;PSS;PSP;314;31409;Sto. Nino;Finished;27;individuals
-253;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31409;Sto. Nino;Finished;27;individuals
-254;PRC;Health;Health;Health Education;314;31409;Sto. Nino;Finished;27;individuals
-255;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);314;31409;San Pedro;Finished;13;families
-256;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31409;San Pedro;Finished;23;individuals
-257;PRC;Health;PSS;PSP;314;31409;San Pedro;Finished;23;individuals
-258;PRC;Health;Health;Health Education;314;31409;San Pedro;Finished;23;individuals
-261;PRC;Relief;Food Items;Food Items;308;30805;A. Rivero ;Finished;200;families
-262;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Daungan;Planned;50;families
-263;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Daungan;Planned;50;families
-264;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Daungan;Planned;50;families
-265;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Daungan;Planned;50;families
-266;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Daungan;Planned;50;families
-267;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Daungan;Planned;50;families
-268;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;A. Rivera;Planned;50;families
-269;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;A. Rivera;Planned;50;families
-270;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;A. Rivera;Planned;50;families
-271;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;A. Rivera;Planned;50;families
-272;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;A. Rivera;Planned;50;families
-273;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;A. Rivera;Planned;50;families
-274;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Almasen;Planned;50;families
-275;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Almasen;Planned;50;families
-276;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Almasen;Planned;50;families
-277;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Almasen;Planned;50;families
-278;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Almasen;Planned;50;families
-279;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Almasen;Planned;50;families
-280;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Pulo;Planned;50;families
-281;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Pulo;Planned;50;families
-282;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Pulo;Planned;50;families
-283;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Pulo;Planned;50;families
-284;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Pulo;Planned;50;families
-285;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Pulo;Planned;50;families
-286;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Daungan;Finished;49;families
-287;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Daungan;Finished;49;families
-288;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Daungan;Finished;49;families
-289;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Daungan;Finished;49;families
-290;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Daungan;Finished;49;families
-291;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Daungan;Finished;49;families
-292;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Almacen;Finished;49;families
-293;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Almacen;Finished;49;families
-294;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Almacen;Finished;49;families
-295;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Almacen;Finished;49;families
-296;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Almacen;Finished;49;families
-297;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Almacen;Finished;49;families
-298;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;A. Rivera;Finished;50;families
-299;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;A. Rivera;Finished;50;families
-300;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;A. Rivera;Finished;50;families
-301;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;A. Rivera;Finished;50;families
-302;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;A. Rivera;Finished;50;families
-303;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;A. Rivera;Finished;50;families
-304;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30805;Pulo;Finished;51;families
-305;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30805;Pulo;Finished;51;families
-306;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30805;Pulo;Finished;51;families
-307;PRC;WASH;Non-Food Items;Hygiene Kit;308;30805;Pulo;Finished;51;families
-308;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30805;Pulo;Finished;51;families
-309;PRC;Relief;Non-Food Items;Tarpaulin;308;30805;Pulo;Finished;51;families
-310;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30805;Daungan;Finished;49;individuals
-311;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30805;Almacen;Finished;49;individuals
-312;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30805;A. Rivera;Finished;50;individuals
-313;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30805;Pulo;Finished;51;individuals
-314;PRC;Relief;Food Items;Food Items (Assorted);1411;141106;Acupan;Finished;59;famillies
-315;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141106;Acupan;Finished;59;famillies
-316;PRC;Relief;Food Items;Food Items;458;45807;Sipsipin;Finished;48;famillies
-317;PRC;Relief;Food Items;Food Items;458;45807;3rd District;Finished;55;famillies
-318;PRC;Relief;Food Items;Food Items;458;45807;Punta;Finished;66;famillies
-319;PRC;Relief;Food;Biscuits;458;45807;2nd District;Finished;310;individuals
-320;PRC;Relief;Food;Biscuits;458;45807;3rd District;Finished;300;individuals
-321;PRC;Relief;Food Items;Food Items (Assorted);458;45807;1st District;Finished;35;famillies
-322;PRC;Relief;Food Items;Food Items (Assorted);458;45807;2nd District;Finished;62;famillies
-323;PRC;Relief;Food Items;Food Items (Assorted);458;45807;Lubo;Finished;61;famillies
-324;PRC;Relief;Food Items;Food Items (Assorted);458;45807;Bagumbong;Finished;20;famillies
-325;PRC;Health;Health;Rescued/Assisted;421;42111;Mandiwang;Finished;18;individuals
-326;PRC;Relief;Food Items;Food Items (Assorted);369;36907;;Finished;439;families
-327;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Paludpud;Finished;40;families
-328;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Caut;Finished;29;families
-329;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Macalong;Finished;60;families
-330;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Caramutan;Finished;46;families
-331;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Mormons- San Isidro;Finished;29;families
-332;PRC;Relief;Food Items;Food Items (Assorted);369;36907;Plazuela;Finished;65;families
-333;PRC;Relief;Hot Meals;Hot Meals;349;34914;Poblacion Sur;Finished;192;individuals
-334;PRC;Relief;Hot Meals;Hot Meals;349;34914;Poblacion Sur;Finished;197;individuals
-335;PRC;Relief;Non-Food Items;Used Clothing;349;34914;Poblacion Sur;Finished;192;families
-336;PRC;Relief;Non-Food Items;Used Clothing;349;34914;Poblacion Sur;Finished;197;families
-337;PRC;Relief;Food Items;Food Items (Standard);349;34914;Aquino;Finished;237;families
-338;PRC;Relief;Food Items;Food Items;1411;;Rimos 2;Finished;20;famillies
-339;PRC;Relief;Food Items;Food Items;133;13310;Rimos 2;Finished;20;famillies
-340;PRC;Relief;Food Items;Food Items;133;13310;Rimos 3;Finished;250;famillies
-341;PRC;WASH;Hygiene Promotion;Hygiene Promotion;133;13310;Rimos 2;Finished;22;individuals
-342;PRC;Relief;Food Items;Food Items;133;13310;Rimos 2;Finished;20;famillies
-343;PRC;WASH;Hygiene Promotion;Hygiene Promotion;133;13310;Rimos 1;Finished;22;individuals
-344;PRC;WASH;Sanitation;Clearing Operation;371;;;Finished;;
-345;PRC;Relief;Food;Biscuits;1375;137502;Dampalit;Finished;388;individuals
-346;PRC;WASH;WASH;Bottled Water (7L);1375;137502;Dampalit;Finished;85;families
-347;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1375;137502;Dampalit;Finished;100;families
-348;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);1375;137502;Dampalit;Finished;100;families
-349;PRC;Health;Health;Rescued/Assisted;1374;137401;Poblacion;Finished;48;individuals
-350;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);155;15527;Dorongan Punta;Finished;108;families
-351;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);155;15527;Dorongan Punta;Finished;108;families
-352;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);155;15527;Dorongan Punta;Finished;108;families
-353;PRC;WASH;Non-Food Items;Hygiene Kit;155;15527;Dorongan Punta;Finished;108;families
-354;PRC;WASH;Non-Food Items;Jerry Can (10L);155;15527;Dorongan Punta;Finished;108;families
-355;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1339;133901;101 Vitas Tondo;Finished;7;families
-356;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1339;133901;101 Vitas Tondo;Finished;7;families
-357;PRC;WASH;Non-Food Items;Hygiene Kit;1339;133901;101 Vitas Tondo;Finished;7;families
-358;PRC;Relief;Non-Food Items;Kitchen Set;1339;133901;101 Vitas Tondo;Finished;7;families
-359;PRC;Relief;Hot Meals;Hot Meals;1374;137402;Concepcion Dos;Finished;347;individuals
-360;PRC;Relief;Hot Meals;Hot Meals;1374;137402;Nangka;Finished;161;individuals
-367;PRC;Health;PSS;Welfare Desk;1374;137402;Malanday;Finished;182;families
-368;PRC;Health;PSS;Welfare Desk;1374;137402;Malanday;Finished;7;families
-369;PRC;Health;PSS;Welfare Desk;1374;137402;Sta. Elena;Finished;19;families
-370;PRC;Health;PSS;Welfare Desk;1374;137402;Nangka;Finished;9;families
-371;PRC;Health;PSS;Welfare Desk;1374;137402; Concepcion Uno;Finished;54;families
-372;PRC;Health;PSS;Welfare Desk;1374;137402;Taniong;Finished;;families
-373;PRC;Health;PSS;Welfare Desk;1374;137402;Concepcion Uno;Finished;99;families
-374;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;310;individuals
-375;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;129;individuals
-376;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;750;individuals
-377;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;125;individuals
-378;PRC;Health;PSS;PSP;1374;137402;Sta. Elena;Finished;320;individuals
-379;PRC;Health;PSS;PSP;1374;137402;Sto Nino;Finished;820;individuals
-380;PRC;Health;PSS;PSP;1374;137402;Tumana;Finished;140;individuals
-381;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;405;individuals
-382;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;400;individuals
-383;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;400;individuals
-384;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;388;individuals
-385;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;210;individuals
-386;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;215;individuals
-387;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;1485;individuals
-388;PRC;Health;PSS;PSP;1374;137402;;Finished;485;individuals
-389;PRC;Health;PSS;PSP;1374;137402;;Finished;506;individuals
-390;PRC;Health;PSS;PSP;1374;137402;;Finished;500;individuals
-391;PRC;Health;PSS;PSP;1374;137402;;Finished;500;individuals
-392;PRC;Health;PSS;PSP;1374;137402;;Finished;263;individuals
-393;PRC;Health;PSS;PSP;1374;137402;;Finished;269;individuals
-394;PRC;Health;PSS;PSP;1374;137402;;Finished;1856;individuals
-395;PRC;Health;Health;Rescued/Assisted;1374;137402;Tanong;Finished;12;individuals
-396;Unknown;WASH;Water;Provision of Water;1374;137402;;Finished;;
-397;Unknown;WASH;Water;Provision of Water;1374;137402;;Finished;130;individuals
-398;Unknown;WASH;Water;Provision of Water;1374;137402;;Finished;;
-399;PRC;Health;Health;100 mg Doxycycline;1374;137402;;Finished;3000;pcs
-400;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;650;individuals
-401;NutriAsia;Relief;Food Items;Food Items (Assorted);1374;137402;Concepcion;Finished;219;famillies
-402;NutriAsia;Relief;Food Items;Food Items (Assorted);1374;137402;Malanday;Finished;135;famillies
-403;NutriAsia;Relief;Food Items;Food Items (Assorted);1374;137402;Concepcion;Finished;248;famillies
-404;PRC;Health;PSS;PSP;1374;137402;;Finished;540;individuals
-405;PRC;Health;PSS;PSP;1374;137402;;Finished;51;individuals
-406;PRC;Health;PSS;PSP;1374;137402;;Finished;576;individuals
-407;PRC;Health;Health;First Aid;1374;137402;;Finished;23;individuals
-408;PRC;Health;Health;First Aid;1374;137402;;Finished;18;individuals
-409;PRC;Health;Health;First Aid;1374;137402;;Finished;38;individuals
-410;PRC;Relief;Hot Meals;Hot Meals;1374;137402;;Finished;480;individuals
-411;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tumana;Finished;;
-412;NutriAsia;Relief;Food Items;Food Items (Assorted);1374;137402;Malanday;Finished;30;famillies
-413;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tumana;Finished;;
-414;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tanong;Finished;;
-415;PRC;WASH;Sanitation;Clearing Operation;1374;137402;J. Dela Pena;Finished;;
-416;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Malanday;Finished;;
-417;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sto. Nino;Finished;;
-418;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sto. Nino;Finished;;
-419;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tanong;Finished;;
-420;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Nangka;Finished;;
-421;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sta Elena;Planned;;
-422;PRC;WASH;Sanitation;Clearing Operation;1374;137402;IVC;Finished;;
-423;PRC;WASH;Sanitation;Clearing Operation;1374;137402;IVC;Finished;;
-424;PRC;WASH;Sanitation;Clearing Operation;1374;137402;IVC;Finished;;
-425;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tumana;Finished;;
-426;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sta. Elena;Finished;;
-427;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tumana;Finished;;
-428;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tanong;Finished;;
-429;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tanong;Finished;;
-430;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tanong;Finished;;
-431;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Tumana;Finished;;
-432;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sta. Elena;Finished;;
-433;PRC;WASH;Sanitation;Clearing Operation;1374;137402;Sta. Elena;Finished;;
-434;PRC;Assessment;Assessment;Assessment;314;31411;;Finished;1;municipality
-435;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30807;Townsite;Planned;;families
-436;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30807;Townsite;Planned;;families
-437;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30807;Townsite;Planned;;families
-438;PRC;WASH;Non-Food Items;Hygiene Kit;308;30807;Townsite;Planned;;families
-439;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30807;Townsite;Planned;;families
-440;PRC;Relief;Non-Food Items;Tarpaulin;308;30807;Townsite;Planned;;families
-441;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30807;Luacan;Planned;;families
-442;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30807;Luacan;Planned;;families
-443;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30807;Luacan;Planned;;families
-444;PRC;WASH;Non-Food Items;Hygiene Kit;308;30807;Luacan;Planned;;families
-445;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30807;Luacan;Planned;;families
-446;PRC;Relief;Non-Food Items;Tarpaulin;308;30807;Luacan;Planned;;families
-447;PRC;Relief;Hot Meals;Hot Meals;314;31412;Malhacan;Finished;105;individuals
-448;PRC;Relief;Hot Meals;Hot Meals;314;31412;Gasak;Finished;71;individuals
-449;PRC;Relief;Hot Meals;Hot Meals;314;31412;Banga;Finished;50;individuals
-450;PRC;Health;PSS;PSP;314;31412;Malhacan;Finished;61;individuals
-451;PRC;Health;PSS;PSP;314;31412;Gasak;Finished;30;individuals
-452;PRC;Health;PSS;PSP;314;31412;Banga;Finished;38;individuals
-453;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31412;Malhacan;Finished;61;individuals
-454;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31412;Gasak;Finished;30;individuals
-455;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31412;Banga;Finished;38;individuals
-456;PRC;Assessment;Assessment;Assessment;314;31412;;Finished;1;municipality
-457;PRC;Health;PSS;Welfare Desk;314;31412;Gasak;Finished;19;families
-458;PRC;Health;PSS;Welfare Desk;314;31412;Meycauayan;Finished;13;families
-459;PRC;Relief;Food Items;Food Items (Assorted);369;36909;Banaoang West;Finished;106;families
-460;PRC;Relief;Food Items;Food Items (Assorted);369;36909;Calapan;Finished;111;families
-461;PRC;Relief;Food Items;Food Items (Assorted);369;36909;Poblacion 2;Finished;42;families
-462;PRC;Relief;Food Items;Food Items (Assorted);369;36909;Baquero Sur;Finished;59;families
-463;PRC;Relief;Hot Meals;Hot Meals;308;30808;;Finished;29;individuals
-464;PRC;Relief;Hot Meals;Hot Meals;1375;137503;Tangos;Finished;320;individuals
-465;PRC;Relief;Food Items;Food Items;1375;137503;Tangos;Finished;120;famillies
-466;PRC;Health;PSS;PSP;1375;137503;Tangos;Finished;43;individuals
-467;PRC;Health;Health;200 mg Doxycycline;1375;137503;Tangos;Finished;110;pcs
-468;PRC;Health;Health;Health Education;1375;137503;Tangos;Finished;168;individuals
-469;PRC;Health;Health;Rescued/Assisted;421;42116;San Jose;Finished;4;individuals
-470;PRC;Health;Health;Rescued/Assisted;421;42116;Poblacion;Finished;1;individuals
-471;PRC;Relief;Hot Meals;Hot Meals;371;37107;;Finished;100;individuals
-472;PRC;Relief;Hot Meals;Hot Meals;371;37107;;Finished;165;individuals
-473;PRC;Relief;Hot Meals;Hot Meals;371;37107;;Finished;75;individuals
-474;PRC;Relief;Hot Meals;Hot Meals;371;37107;;Finished;108;individuals
-475;PRC;Relief;Food Items;Food Items (Standard);371;37107;Sta Rita;Finished;167;families
-476;PRC;WASH;Water;Provision of Water;371;37107;West Bajac Bajac;Finished;;
-477;PRC;Health;PSS;PSP;371;37107;;Finished;4;individuals
-482;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31416;Kapitangan;Finished;11;families
-483;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);314;31416;Sto Rosario;Finished;20;families
-484;PRC;Health;PSS;PSP;314;31416;Kapitangan;Finished;14;individuals
-485;PRC;Health;PSS;PSP;314;31416;Sto Rosario;Finished;14;individuals
-486;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31416;Kapitangan;Finished;14;individuals
-487;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31416;Sto Rosario;Finished;14;individuals
-488;PRC;Health;Health;Health Education;314;31416;Kapitangan;Finished;14;individuals
-489;PRC;Health;Health;Health Education;314;31416;Sto Rosario;Finished;14;individuals
-490;PRC;Relief;Hot Meals;Hot Meals;1374;137403;Rosario Bliss;Finished;350;individuals
-491;PRC;Health;Health;Rescued/Assisted;1374;137403;;Finished;22;individuals
-492;PRC;Health;Health;First Aid;1374;137403;;Finished;5;individuals
-493;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Del Rosario;Planned;;families
-494;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Del Rosario;Planned;;families
-495;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Del Rosario;Planned;;families
-496;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Del Rosario;Planned;;families
-497;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Del Rosario;Planned;;families
-498;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Del Rosario;Planned;;families
-499;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Poblacion;Planned;;families
-500;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Poblacion;Planned;;families
-501;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Poblacion;Planned;;families
-502;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Poblacion;Planned;;families
-503;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Poblacion;Planned;;families
-504;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Poblacion;Planned;;families
-505;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Panilao;Planned;;families
-506;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Panilao;Planned;;families
-507;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Panilao;Planned;;families
-508;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Panilao;Planned;;families
-509;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Panilao;Planned;;families
-510;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Panilao;Planned;;families
-511;PRC;Relief;Hot Meals;Hot Meals;308;30811;Poblacion;Finished;94;individuals
-512;PRC;Relief;Hot Meals;Hot Meals;308;30811;Santa Rosa;Finished;33;individuals
-513;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Nagwaling;Finished;16;families
-514;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Nagwaling;Finished;16;families
-515;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Nagwaling;Finished;16;families
-516;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Nagwaling;Finished;16;families
-517;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Nagwaling;Finished;16;families
-518;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Nagwaling;Finished;16;families
-519;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Nagwaling;Finished;16;individuals
-520;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Panilao;Finished;26;individuals
-521;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Alauli;Finished;2;individuals
-522;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Poblacion;Finished;15;individuals
-523;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Del Rosario;Finished;15;individuals
-524;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Wawa;Finished;16;individuals
-525;PRC;WASH;Hygiene Promotion;Hygiene Promotion;308;30811;Sta. Rosa;Finished;24;individuals
-526;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Panilao;Finished;26;families
-527;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Panilao;Finished;26;families
-528;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Panilao;Finished;26;families
-529;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Panilao;Finished;26;families
-530;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Panilao;Finished;26;families
-531;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Panilao;Finished;26;families
-532;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Alauli;Finished;2;families
-533;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Alauli;Finished;2;families
-534;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Alauli;Finished;2;families
-535;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Alauli;Finished;2;families
-536;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Alauli;Finished;2;families
-537;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Alauli;Finished;2;families
-538;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Poblacion;Finished;15;families
-539;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Poblacion;Finished;15;families
-540;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Poblacion;Finished;15;families
-541;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Poblacion;Finished;15;families
-542;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Poblacion;Finished;15;families
-543;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Poblacion;Finished;15;families
-544;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Del Rosario;Finished;15;families
-545;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Del Rosario;Finished;15;families
-546;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Del Rosario;Finished;15;families
-547;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Del Rosario;Finished;15;families
-548;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Del Rosario;Finished;15;families
-549;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Del Rosario;Finished;15;families
-550;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Wawa;Finished;16;families
-551;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Wawa;Finished;16;families
-552;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Wawa;Finished;16;families
-553;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Wawa;Finished;16;families
-554;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Wawa;Finished;16;families
-555;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Wawa;Finished;16;families
-556;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);308;30811;Sta. Rosa;Finished;24;families
-557;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);308;30811;Sta. Rosa;Finished;24;families
-558;PRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);308;30811;Sta. Rosa;Finished;24;families
-559;PRC;WASH;Non-Food Items;Hygiene Kit;308;30811;Sta. Rosa;Finished;24;families
-560;PRC;WASH;Non-Food Items;Jerry Can (10L);308;30811;Sta. Rosa;Finished;24;families
-561;PRC;Relief;Non-Food Items;Tarpaulin;308;30811;Sta. Rosa;Finished;24;families
-563;PRC;Health;Health;Rescued/Assisted;1374;137404;;Finished;40;individuals
-564;PRC;Relief;Hot Meals;Hot Meals;1374;137404;Bagong Silangan;Finished;400;individuals
-565;PRC;Health;PSS;Welfare Desk;1374;137404;Bagong Silang;Finished;195;families
-566;PRC;Health;PSS;PSP;1374;137404;Bagong Silang;Finished;35;individuals
-567;PRC;Relief;Hot Meals;Hot Meals;1374;137404;Batasan Hills;Finished;225;individuals
-568;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1374;137404;Batasan Hills;Finished;42;families
-569;PRC;Relief;Non-Food Items;Linen;1374;137404;Batasan Hills;Finished;42;families
-570;PRC;Health;Health;Blood Pressure;1374;137404;Batasan Hills;Finished;18;individuals
-571;PRC;Health;Health;Health education;1374;137404;Batasan Hills;Finished;225;individuals
-572;PRC;Relief;Hot Meals;Hot Meals;1374;137404;Tatalon;Finished;200;individuals
-573;PRC;Relief;Hot Meals;Hot Meals;1374;137404;Bagong Silangan;Finished;500;individuals
-574;PRC;Health;PSS;PSP;1374;137404;Bagong Silangan;Finished;20;individuals
-575;PRC;Health;Health;First Aid;1374;137404;Bagong Silangan;Finished;10;individuals
-576;PRC;Health;Health;Rescued/Assisted;1374;137404;Bagong Silangan;Finished;10;individuals
-577;PRC;Health;Health;Rescued/Assisted;1374;137404;Damayan;Finished;11;individuals
-578;PRC;Health;Health;100 mg Doxycycline;1374;137404;;Finished;1000;pcs
-579;PRC;Relief;Food Items;Food Items;1374;137404;Bagong Silangan;Finished;200;families
-580;PRC;Relief;Hot Meals;Hot Meals;458;45808;;Finished;1130;individuals
-581;PRC;Relief;Food;Biscuits;458;45808;Geronimo;Finished;125;individuals
-582;PRC;Relief;Hot Meals;Hot Meals;458;45808;Manggahan;Finished;434;individuals
-583;PRC;Relief;Hot Meals;Hot Meals;458;45808;Kasiglahan;Finished;439;individuals
-584;PRC;Health;Health;Rescued/Assisted;421;42117;Ligtong;Finished;9;individuals
-585;PRC;Relief;Food;Biscuits;458;45811;Geronimo;Finished;735;individuals
-586;PRC;Relief;Food;Biscuits;458;45811;Guinayang;Finished;150;individuals
-587;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);458;45811;Sta. Ana;Finished;78;families
-588;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);458;45811;Sta. Ana;Finished;78;families
-589;PRC;Relief;Food Items;Food Items (Standard);458;45811;Sta. Ana;Finished;78;families
-590;PRC;WASH;WASH;Bottled Water (1L);458;45812;San Andres;Finished;241;families
-591;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);458;45812;San Andres;Finished;241;families
-592;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);458;45812;San Andres;Finished;241;families
-593;PRC;Relief;Food Items;Food Items (Standard);458;45812;San Andres;Finished;241;families
-594;PRC;Relief;Food Items;Food Items;458;45812;Daraetan;Finished;175;famillies
-595;PRC;Relief;Hot Meals;Hot Meals;458;45813;Dolores;Finished;30;individuals
-596;PRC;Relief;Hot Meals;Hot Meals;458;45813;San Andres;Finished;42;individuals
-597;PRC;Relief;Hot Meals;Hot Meals;458;45813;Bagong Pag-asa;Finished;89;individuals
-598;PRC;Relief;Non-Food Items;Food Items (Assorted);1411;141113;Ampucao;Finished;79;famillies
-599;PRC;Relief;Food Items;Food Items (Assorted);1411;141113;Camp 3;Finished;20;famillies
-600;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141113;Camp 3;Finished;20;famillies
-601;PRC;Health;Health;Rescued/Assisted;1375;137504;Marulas;Finished;8;individuals
-602;PRC;Relief;Hot Meals;Hot Meals;1375;137504; ;Finished;137;individuals
-603;PRC;Relief;Hot Meals;Hot Meals;1375;137504; ;Finished;88;individuals
-604;PRC;Relief;Food;Biscuits;1375;137504;;Finished;90;individuals
-605;PRC;Relief;Hot Meals;Hot Meals;1375;137504;Tagalag;Finished;28;individuals
-606;PRC;Relief;Food;Biscuits;1375;137504;Tagalag;Finished;28;individuals
-607;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1375;137504;Tagalag;Finished;15;individuals
-610;PRC;Health;Health;100 mg Doxycycline;308;;;Finished;500;chapter
-611;PRC;Health;PSS;Welfare Desk;314;;;Finished;20;families
-612;PRC;Health;PSS;PSP;314;;Buguion;Finished;37;individuals
-613;PRC;Health;Health;100 mg Doxycycline;314;;;Finished;400;pcs
-614;PRC;Relief;Food;Biscuits;421;;;Finished;70;individuals
-615;PRC;Health;PSS;Welfare Desk;421;;;Finished;;families
-616;PRC;Relief;Food;Biscuits;421;; ;Finished;168;individuals
-617;PRC;Health;Health;100 mg Doxycycline;1374;;;Finished;;
-618;PRC;Health;Health;100 mg Doxycycline;371;;;Finished;400;chapter
-619;PRC;Health;PSS;Welfare Desk;354;;;Finished;;families
-620;PRC;Health;Health;Rescued/Assisted;155;;;Finished;3;individuals
-621;PRC;Logisitics;SAR;Rescue Boat;155;;;Finished;4;individuals
-622;PRC;Logisitics;SAR;Rescue Vehicle 6x6;155;;;Finished;1;individuals
-623;PRC;Health;PSS;Welfare Desk;155;;;Finished;72;Evacuation Center
-624;PRC;Relief;Hot Meals;Hot Meals;155;; ;Finished;389;individuals
-625;PRC;Health;Health;100 mg Doxycycline;155;;;Finished;1000;chapter
-626;PRC;Health;Health;100 mg Doxycycline;155;;;Finished;2000;pcs
-627;PRC;Health;Health;First Aid;458;;;Finished;7;individuals
-628;PRC;Health;Health;Blood Pressure;458;;;Finished;3;individuals
-629;PRC;Relief;Food;Biscuits;371;;;Finished;19;individuals
-630;PRC;Relief;Food;Biscuits;371;;;Finished;450;individuals
-631;PRC;Relief;Food;Biscuits;371;;;Finished;654;individuals
-632;PRC;Health;PSS;PSP;371;;;Finished;2;individuals
-633;PRC;Relief;Food;Biscuits;371;;;Finished;463;individuals
-634;PRC;Relief;Food;Biscuits;371;;;Finished;123;individuals
+1;PRC;Relief;Food;Hot Meals;133;13301;San Isidro;Finished;71;individuals
+2;PRC;Assessment;Assessment;RDANA;128;12803;;Finished;1;area
+3;PRC;Relief;Non-Food Items;Towels;1411;141102;Sto Tomas;Finished;25;families
+4;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;4;families
+5;PRC;Relief;Non-Food Items;Towels;1411;141102;City Camp;Finished;51;families
+6;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;8;families
+7;PRC;Relief;Food;Hot Meals;410;41005;;Finished;500;individuals
+8;PRC;Health;Health;Blood Pressure;410;41005;;Finished;30;individuals
+9;PRC;Relief;Food;Biscuits;133;13307;Calumbaya;Finished;374;individuals
+10;PRC;Relief;Food;Biscuits;371;37101;Parel;Finished;29;individuals
+11;PRC;Relief;Food;Biscuits;133;13309;Poblacion Norte;Finished;292;individuals
+12;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);458;45805;San Andres;Finished;13;families
+13;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);458;45805;San Andres;Finished;13;families
+14;PRC;Health;Health;Rescued/Assisted;1375;137501;Barangay 102;Finished;1;individuals
+15;PRC;Health;PSS;PSP;314;31407;Poblacion;Finished;44;individuals
+16;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Finished;63;individuals
+17;PRC;Health;PSS;PSP;314;31407;Meysulao;Finished;49;individuals
+18;PRC;Health;PSS;PSP;314;31407;San Miguel;Finished;75;individuals
+19;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Finished;44;individuals
+20;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Finished;63;individuals
+21;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Meysulao;Finished;49;individuals
+22;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;San Miguel;Finished;75;individuals
+23;PRC;Relief;Food;Hot Meals;314;31407;Poblacion;Finished;127;individuals
+24;PRC;Relief;Food;Hot Meals;314;31407;Sapang Bayan;Finished;197;individuals
+25;PRC;Relief;Food;Hot Meals;314;31407;Meysulao;Finished;129;individuals
+26;PRC;Relief;Food;Hot Meals;314;31407;San Miguel;Finished;159;individuals
+27;PRC;Health;PSS;PSP;369;36903;Poblacion;Finished;55;individuals
+28;PRC;Relief;Food Items;Food Items (Standard);369;36903;Poblacion;Finished;30;families
+29;PRC;Relief;Food;Biscuits;369;36903;Poblacion;Finished;117;individuals
+30;PRC;Relief;Food;Bread;369;36903;Poblacion;Finished;117;individuals
+31;PRC;Relief;Food;Hot Meals;371;37103;Binabalian;Finished;287;individuals
+32;PRC;Relief;Food;Hot Meals;371;37104;Balabay;Finished;158;individuals
+33;PRC;Health;Health;Rescued/Assisted;860;86005;Cabugawan;Finished;9;individuals
+34;PRC;Relief;Food;Hot Meals;860;86005;Cabugawan;Finished;9;individuals
+35;PRC;Relief;Non-Food Items;Thermal Blanket;860;86005;Cabugawan;Finished;9;individuals
+36;PRC;Assessment;Assessment;RDANA;128;12808;;Finished;1;area
+37;PRC;Relief;Food;Biscuits;231;23118;;Finished;461;individuals
+38;PRC;Relief;Food;Hot Meals;231;23118;;Finished;461;individuals
+39;PRC;Relief;Food;Biscuits;231;23118;Ragan;Finished;212;individuals
+40;PRC;Relief;Food;Hot Meals;231;23118;Ragan;Finished;212;individuals
+41;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;;Finished;461;individuals
+42;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;Ragan;Finished;212;individuals
+43;PRC;Assessment;Assessment;RDANA;128;12809;;Finished;1;area
+44;PRC;WASH;Water;Water;215;21513;Poblacion;Finished;10000;liters
+45;PRC;Relief;Food;Hot Meals;215;21514;Centro;Finished;2498;individuals
+46;PRC;Health;PSS;PSP;215;21514;Centro;Finished;1050;individuals
+47;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21514;Centro;Finished;200;individuals
+48;PRC;Health;Health;First Aid;215;21514;Centro;Finished;1;individuals
+49;PRC;Health;Health;Blood Pressure;215;21514;Centro;Finished;300;individuals
+50;PRC;Health;Referral;Health Referral;215;21514;Centro;Finished;30;individuals
+51;PRC;Relief;Food;Biscuits;215;21514;Centro;Finished;2498;individuals
+52;PRC;Health;PSS;Welfare Desk;215;21514;Centro;Finished;;
+53;PRC;Health;Referral;Welfare Referral;215;21514;Centro;Finished;50;individuals
+54;PRC;Health;RFL;Tracing;215;21514;Centro;Finished;2;individuals
+55;PRC;Health;RFL;RFL (I am Alive);215;21514;Centro;Finished;6;individuals
+56;PRC;Relief;Food;Hot Meals;231;23114;San Vicente;Finished;33;individuals
+57;PRC;Relief;Food;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
+58;PRC;Relief;Food;Biscuits;231;23114;San Vicente;Finished;33;individuals
+59;PRC;Relief;Food;Biscuits;231;23114;Bagumbayan;Finished;140;individuals
+60;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23114;Guinatan;Finished;32;individuals
+61;PRC;WASH;Water;Water;1411;141106;;Finished;10000;liters
+62;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1427;142703;Tuplac;Finished;5;families
+63;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1427;142703;Tuplac;Finished;15;families
+64;PRC;Relief;Food;Hot Meals;128;12812;Coaoacan;Finished;84;individuals
+65;PRC;Health;PSS;PSP;128;12812;Coaoacan;Finished;84;individuals
+66;PRC;Relief;Food;Biscuits;369;36907;San Roque;Finished;210;individuals
+67;PRC;Relief;Food;Biscuits;369;36907;San Roque;Finished;117;individuals
+68;PRC;Relief;Food;Bread;369;36907;San Roque;Finished;210;individuals
+69;PRC;Relief;Food;Bread;369;36907;San Roque;Finished;117;individuals
+70;PRC;Relief;Non-Food Items;Towels;722;72226;;Finished;76;individuals
+71;PRC;Relief;Food;Hot Meals;1481;148105;Poblacion;Finished;150;individuals
+72;PRC;Relief;Food;Hot Meals;1481;148105;San Isidro;Finished;172;individuals
+73;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Marang;Finished;20;families
+74;PRC;Health;Health;First Aid;133;13310;Darigayos;Finished;2;individuals
+75;PRC;Relief;Food;Hot Meals;133;13310;Darigayos;Finished;208;individuals
+76;PRC;Health;PSS;Welfare Desk;133;13310;Darigayos;Finished;;
+77;PRC;Health;PSS;PSP;133;13310;Darigayos;Finished;208;individuals
+78;PRC;Relief;Food;Hot Meals;129;12912;Santa Monica;Finished;20;individuals
+79;PRC;Relief;Food;Hot Meals;129;12912;San Clemente;Finished;39;individuals
+80;PRC;Relief;Food;Biscuits;1339;133901;;Finished;89;individuals
+81;PRC;Relief;Food;Bottled Water;1339;133901;;Finished;89;individuals
+82;PRC;Relief;Food;Hot Meals;1339;133901;Barangay 20 Isla Puting Bato;Finished;650;individuals
+83;PRC;Relief;Food;Hot Meals;1339;133913;Baseco;Finished;427;individuals
+84;PRC;Relief;Food;Hot Meals;1339;133901;Barangay 101 Vitas Tondo;Finished;100;individuals
+85;PRC;Assessment;Assessment;RDANA;128;12813;;Finished;1;area
+86;PRC;Relief;Food;Hot Meals;1374;137402;;Finished;220;individuals
+87;PRC;Relief;Food;Hot Meals;1374;137402;;Finished;1250;individuals
+88;PRC;Relief;Food;Hot Meals;1374;137402;;Finished;225;individuals
+89;PRC;Relief;Food;Biscuits;369;36909;Calapan;Finished;55;individuals
+90;PRC;Relief;Food;Biscuits;369;36909;Sta Lucia East;Finished;229;individuals
+91;PRC;Health;PSS;PSP;369;36909;Banaoang East;Finished;10;individuals
+92;PRC;Health;PSS;PSP;369;36909;Banaoang West;Finished;2;individuals
+93;PRC;Health;PSS;PSP;369;36909;Sta. Lucia Wes;Finished;25;individuals
+94;PRC;Health;PSS;PSP;369;36909;Baquero Norte;Finished;13;individuals
+95;PRC;Health;PSS;PSP;369;36909;Sta. Lucia East;Finished;14;individuals
+96;PRC;Health;PSS;PSP;369;36909;Calapan;Finished;5;individuals
+97;PRC;Relief;Food;Biscuits;369;36909;Sta. Lucia West;Finished;678;individuals
+98;PRC;Relief;Food;Biscuits;369;36909;Banaoang East;Finished;90;individuals
+99;PRC;Relief;Food;Biscuits;369;36909;Banaoang West;Finished;126;individuals
+100;PRC;Relief;Food;Biscuits;369;36909;Baquero Norte;Finished;90;individuals
+101;PRC;Relief;Food;Biscuits;369;36909;Baquero Sur;Finished;231;individuals
+102;PRC;Relief;Food;Biscuits;369;36909;Poblacion;Finished;117;individuals
+103;PRC;Relief;Food;Bread;369;36909;Calapan;Finished;55;individuals
+104;PRC;Relief;Food;Bread;369;36909;Sta Lucia East;Finished;229;individuals
+105;PRC;Relief;Food;Bread;369;36909;Sta. Lucia West;Finished;678;individuals
+106;PRC;Relief;Food;Bread;369;36909;Banaoang East;Finished;90;individuals
+107;PRC;Relief;Food;Bread;369;36909;Banaoang West;Finished;126;individuals
+108;PRC;Relief;Food;Bread;369;36909;Baquero Norte;Finished;90;individuals
+109;PRC;Relief;Food;Bread;369;36909;Baquero Sur;Finished;231;individuals
+110;PRC;Relief;Food;Bread;369;36909;Poblacion;Finished;117;individuals
+111;PRC;Relief;Food;Biscuits;1375;137503;;Finished;83;individuals
+112;PRC;Assessment;Assessment;RDANA;128;12814;;Finished;1;area
+113;PRC;Relief;Food;Bread;517;51725;Old Moriones;Finished;47;individuals
+114;PRC;Relief;Food;Bottled Water;517;51725;Old Moriones;Finished;47;individuals
+115;PRC;Relief;Food;Biscuits;371;37108;Garreta;Finished;60;individuals
+116;PRC;Relief;Food;Biscuits;371;37108;Garreta;Finished;47;individuals
+117;PRC;Relief;Food;Biscuits;371;37108;Libaba;Finished;41;individuals
+118;PRC;Relief;Food;Biscuits;371;37108;San Juan;Finished;20;individuals
+119;PRC;Relief;Food;Biscuits;371;37108;East Poblacion;Finished;4;individuals
+120;PRC;Health;PSS;PSP;369;36910;Salumague;Finished;10;individuals
+121;PRC;Health;PSS;PSP;369;36910;San Isidro;Finished;8;individuals
+122;PRC;Relief;Food;Biscuits;369;36910;Salumague;Finished;847;individuals
+123;PRC;Relief;Food;Biscuits;369;36910;Alupid;Finished;272;individuals
+124;PRC;Relief;Food;Biscuits;369;36910;San Isidro;Finished;117;individuals
+125;PRC;Relief;Food;Bread;369;36910;Salumague;Finished;847;individuals
+126;PRC;Relief;Food;Bread;369;36910;Alupid;Finished;272;individuals
+127;PRC;Relief;Food;Bread;369;36910;San Isidro;Finished;117;individuals
+128;PRC;Assessment;Assessment;RDANA;128;12816;;Finished;1;area
+129;PRC;Assessment;Assessment;RDANA;128;12817;;Finished;1;area
+130;PRC;Assessment;Assessment;RDANA;128;12819;;Finished;1;area
+131;PRC;Relief;Food;Hot Meals;1481;148106;Cabatacan;Finished;211;individuals
+132;PRC;Relief;Food;Biscuits;1374;137404;Tatalon;Finished;215;individuals
+133;PRC;Relief;Food;Biscuits;1374;137404;Roxas;Finished;154;individuals
+134;PRC;Relief;Food;Biscuits;1374;137404;Dona Imelda;Finished;236;individuals
+135;PRC;Relief;Food;Biscuits;1374;137404;Bagong Silangan;Finished;260;individuals
+136;PRC;Relief;Food;Biscuits;1374;137404;Masambong;Finished;40;individuals
+137;PRC;Relief;Food;Biscuits;1374;137404;Sta. Lucia;Finished;260;individuals
+138;PRC;Relief;Food;Biscuits;1374;137404;Apolonio Samson;Finished;363;individuals
+139;PRC;Relief;Food;Biscuits;1374;137404;Maresa;Finished;32;individuals
+140;PRC;Health;Health;First Aid;1374;137404;Dona Imelda;Finished;3;individuals
+141;PRC;Health;Health;First Aid;1374;137404;Bagong Silangan;Finished;1;individuals
+142;PRC;Health;Health;Blood Pressure;1374;137404;Dona Imelda;Finished;22;individuals
+143;PRC;Health;Health;Blood Pressure;1374;137404;Bagong Silangan;Finished;49;individuals
+144;PRC;Relief;Food;Biscuits;369;36912;Poblacion South;Finished;72;individuals
+145;PRC;Relief;Food;Bread;369;36912;Poblacion South;Finished;72;individuals
+146;PRC;Relief;Food;Hot Meals;458;45808;San Jose;Finished;500;individuals
+147;PRC;Relief;Food;Hot Meals;458;45808;Burgos;Finished;311;individuals
+148;PRC;Relief;Food;Hot Meals;458;45808;Manggahan;Finished;222;individuals
+149;PRC;Relief;Food;Hot Meals;133;;San Fernando;Finished;227;individuals
+150;PRC;Health;Health;Rescued/Assisted;155;15533;Sagud Baley;Finished;43;individuals
+151;PRC;Health;PSS;Welfare Desk;133;13314;San Agustin;Finished;;
+152;PRC;Health;Health;First Aid;133;13314;San Agustin;Finished;5;individuals
+153;PRC;Health;Health;Blood Units;133;13314;Carlatan;Finished;7;units
+154;PRC;Health;PSS;PSP;133;13314;San Agustin;Finished;92;individuals
+155;PRC;Health;PSS;Welfare Desk;133;13314;;Finished;;
+156;PRC;Relief;Food;Hot Meals;133;13314;Sevilla;Finished;37;individuals
+157;PRC;Relief;Food;Hot Meals;133;13314;Sevilla;Finished;25;individuals
+158;PRC;Relief;Food;Hot Meals;133;13314;Sevilla;Finished;196;individuals
+159;PRC;Relief;Food;Hot Meals;133;13314;San Francisco;Finished;113;individuals
+160;PRC;Relief;Food;Hot Meals;133;13314;Poro;Finished;21;individuals
+161;PRC;Health;PSS;Welfare Desk;133;13316;;Finished;;
+162;PRC;Relief;Food;Hot Meals;133;13316;;Finished;219;individuals
+163;PRC;Health;PSS;PSP;133;13316;;Finished;219;individuals
+164;PRC;WASH;Water;Water;215;21525;Centro East;Finished;12000;liters
+165;PRC;WASH;Water;Water;215;21525;Centro West;Finished;10000;liters
+166;PRC;Assessment;Assessment;RDANA;128;12822;;Finished;1;area
+167;PRC;Relief;Food;Biscuits;371;37113;Longos;Finished;225;individuals
+168;PRC;Relief;Food;Biscuits;371;37113;Canaynayan;Finished;83;individuals
+169;PRC;Relief;Food;Biscuits;371;37113;Poblacion South;Finished;30;individuals
+170;PRC;Relief;Food;Biscuits;371;37113;Pamonooran;Finished;25;individuals
+171;PRC;Relief;Food;Biscuits;231;23134;San Antonio;Finished;338;individuals
+172;PRC;Relief;Food;Hot Meals;231;23134;San Antonio;Finished;338;individuals
+173;PRC;Relief;Food;Biscuits;231;23134;San Rafael;Finished;199;individuals
+174;PRC;Relief;Food;Hot Meals;231;23134;San Rafael;Finished;199;individuals
+175;PRC;Relief;Food;Hot Meals;129;12928;Poblacion;Finished;135;individuals
+176;PRC;Relief;Food;Hot Meals;129;12928;Vacunero;Finished;17;individuals
+177;PRC;Relief;Food;Bread;517;51736;La Salvacion;Finished;35;individuals
+178;PRC;Relief;Food;Bottled Water;517;51736;La Salvacion;Finished;35;individuals
+179;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141113;;Finished;100;families
+180;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141113;;Finished;100;families
+181;PRC;Relief;Food;Hot Meals;133;13320;;Finished;75;individuals
+182;PRC;Health;PSS;Welfare Desk;133;13320;;Finished;;
+183;PRC;Relief;Food;Hot Meals;215;21529;Balzain East;Finished;132;individuals
+184;PRC;Health;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
+185;PRC;Health;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
+186;PRC;Relief;Food;Biscuits;215;21529;Balzain East;Finished;132;individuals
+187;PRC;Health;Referral;Welfare Referral;215;21529;Balzain East;Finished;15;individuals
+188;PRC;Relief;Food;Hot Meals;215;21529;Linao East;Finished;280;individuals
+189;PRC;Health;PSS;PSP;215;21529;Linao East;Finished;280;individuals
+190;PRC;Assessment;Assessment;RDANA;128;12823;;Finished;1;area
+191;PRC;Relief;Food;Hot Meals;516;51612;Poblacion;Finished;528;individuals
+192;PRC;Health;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
+193;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+194;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+195;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+196;PRC;Health;Health;Blood Units;133;;;Finished;1;units
