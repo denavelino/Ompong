@@ -5,633 +5,706 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 4;PRC;Assessment;Assessment;RDANA;215;21502;;Finished;1;area
 5;PRC;Health;Health;First Aid Station;215;21502;Malalatan;Finished;1;area
 6;PRC;Relief;Food Items;Food Items (Standard);215;21502;Malalatan;Finished;313;families
-7;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Silagan;Finished;161;Families
-8;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Silagan;Finished;161;Families
-9;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Tamboli;Finished;107;Families
-10;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Tamboli;Finished;107;Families
-11;PRC;Health;Health;First Aid Station;215;21503;Silagan;Finished;1;area
-12;PRC;WASH;Sanitation;Clearing operations;215;21504;Anaffatan;Finished;1;community
-13;PRC;WASH;Sanitation;Clearing operations;215;21504;Amulung West;Finished;1;community
-14;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
-15;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
-16;PRC;WASH;Sanitation;Clearing operations;215;21504;Cordova;Finished;1;community
-17;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Centro;Finished;69;families
-18;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;69;families
-19;PRC;Relief;Ready-to-Eat;Hot Meals;215;21504;centro;Finished;105;individuals
-20;PRC;Health;PSS;PSP;215;21504;centro;Finished;42;individuals
-21;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;42;individuals
-22;Spanish Red Cross - AECID;WASH;Water;Water;215;21504;Cordova;Finished;5000;liters
-23;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;303;individuals
-24;PRC;Health;Health;First Aid Station;215;21504;Centro;Finished;1;area
-25;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Centro;Finished;83;families
-26;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;83;families
-27;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Alituntung;Finished;116;Families
-28;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Alituntung;Finished;116;Families
-29;PRC;Health;PSS;Welfare Desk;215;21504;Alituntung;Finished;;
-30;PRC;Relief;Ready-to-Eat;Hot Meals;215;21504;Alituntung;Finished;45;Individuals
-31;PRC;Health;PSS;PSP;215;21504;Alituntung;Finished;34;Individuals
-32;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Grande;Finished;230;Families
-33;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Grande;Finished;230;Families
-34;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Grande;Finished;;
-35;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Grande;Finished;52;Individuals
-36;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Pequeno;Finished;221;Families
-37;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Pequeno;Finished;221;Families
-38;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Pequeno;Finished;;
-39;PRC;Health;PSS;PSP;215;21504;Pacac Pequeno;Finished;23;Individuals
-40;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Pequeno;Finished;149;Individuals
-41;PRC;Assessment;Assessment;RDANA;133;13302;;Finished;1;area
-42;PRC Benguet Chapter BOD;Relief;Non-Food Items;Burner Stove with LPG tank;1411;141101;;Finished;6;families
-43;PRC Benguet Chapter BOD;Relief;Non-Food Items;Kitchen Utensils;1411;141101;;Finished;15;families
-44;PRC;Assessment;Assessment;RDANA;133;13303;;Finished;1;area
-45;PRC;Assessment;Assessment;RDANA;128;12803;;Finished;1;area
-46;PRC;Assessment;Assessment;RDANA;215;21506;;Finished;1;area
-48;PRC;Health;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;15;individuals
-49;PRC;Health;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;15;individuals
-50;PRC;Health;Referral;Welfare Referral;215;21506;Awallan;Finished;15;individuals
-51;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Santa Margarita;Finished;100;families
-52;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Santa Margarita;Finished;100;families
-53;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Santa Margarita;Finished;100;families
-54;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Santa Margarita;Finished;100;families
-55;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Santa Margarita;Finished;100;families
-56;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Santa Margarita;Finished;100;families
-57;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;491;individuals
-58;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Sta. Margarita;Finished;5000;liters
-59;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Santa Margarita;Finished;307;families
-60;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Santa Margarita;Finished;307;families
-61;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Santa Margarita;Finished;307;families
-62;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Santa Margarita;Finished;307;families
-63;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Santa Margarita;Finished;307;families
-64;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Santa Margarita;Finished;307;families
-65;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Awallan;Finished;362;families
-66;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Awallan;Finished;362;families
-67;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Awallan;Finished;362;families
-68;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Awallan;Finished;362;families
-69;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Awallan;Finished;362;families
-70;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Awallan;Finished;362;families
-71;PRC;Health;PSS;PSP;215;21506;Awallan;Finished;362;individuals
-72;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;398;individuals
-73;PRC;Health;RFL;RFL (I am Alive);215;21506;Sta. Margarita;Finished;50;individuals
-74;Spanish Red Cross - AECID;WASH;Water;Water Bladder 5,000;215;21506;;Finished;1;units
-75;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-76;PRC;Health;PSS;Welfare Desk;215;21506;Bitag Grande;Finished;;
-77;PRC;Relief;Ready-to-Eat;Hot Meals;215;21506;Bitag Grande;Finished;678;individuals
-78;PRC;Health;PSS;PSP;215;21506;Bitag Grande;Finished;1376;individuals
-79;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-80;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1000;liters
-81;PRC;Health;Health;First Aid;215;21506;Bitag Grande;Finished;1;individuals
-82;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;33;families
-83;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;33;families
-84;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Mocag;Finished;162;families
-85;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;220;families
-86;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Mocag;Finished;162;families
-87;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;220;families
-88;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Adaog;Finished;260;families
-89;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Adaog;Finished;260;families
-90;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Adaog;Finished;260;families
-91;Qatar Red Crescent Society;WASH;Non-Food Items;Hygiene Kit;215;21506;Adaog;Finished;260;families
-92;Qatar Red Crescent Society;WASH;Non-Food Items;Jerry Cans;215;21506;Adaog;Finished;260;families
-93;Qatar Red Crescent Society;Relief;Non-Food Items;Tarpaulins;215;21506;Adaog;Finished;260;families
-94;PRC;Health;PSS;Welfare Desk;215;21506;Adaog;Finished;1;Evacuation Center
-95;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Adaog;Finished;210;individuals
-96;PRC;Health;Health;First Aid Station;215;21506;Adaog;Finished;1;area
-97;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;625;individuals
-98;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;395;individuals
-99;PRC;Health;Health;First Aid Station;215;21506;Bitag Grande;Finished;1;area
-100;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-101;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;5475;liters
-102;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;24;families
-103;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;45;families
-104;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;31;families
-105;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;43;families
-106;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;1400;liters
-107;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;2475;liters
-108;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;625;liters
-109;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;3200;liters
-110;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3300;liters
-111;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
-112;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;600;liters
-113;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
-114;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;75;liters
-115;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;2025;liters
-116;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;4125;liters
-117;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;150;liters
-118;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;575;liters
-119;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;350;liters
-120;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2625;liters
-121;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1325;liters
-122;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1975;liters
-123;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2525;liters
-124;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;900;liters
-125;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2175;liters
-126;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;2100;liters
-127;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;525;liters
-128;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1225;liters
-129;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;375;liters
-130;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;400;liters
-131;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1550;liters
-132;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1625;liters
-133;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1400;liters
-134;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;3100;liters
-135;PRC;Health;Health;First Aid Station;215;21506;Tamboli;Finished;1;area
-136;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;300;liters
-137;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1100;liters
-138;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1000;liters
-139;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1900;liters
-140;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3000;liters
-141;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1205;liters
-142;PRC;Relief;Non-Food Items;Towels;1411;141102;Sto Tomas;Finished;25;families
-143;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;4;families
-144;PRC;Relief;Non-Food Items;Towels;1411;141102;City Camp;Finished;51;families
-145;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;8;families
-146;PRC;Assessment;Assessment;RDANA;1411;141102;;Finished;1;area
-147;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141102;Loakan;Finished;1;community
-148;Spanish Red Cross - AECID;WASH;Water;Water;1411;141102;Pinesville;Finished;1000;individuals
-149;Spanish Red Cross - AECID;WASH;Water;Water;1411;141102;Sto. Rosario;Finished;1133;individuals
-150;PRC;Health;PSS;PSP;1411;141102;Sto. Tomas;Finished;11;individuals
-151;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Roxas;Finished;57;individuals
-152;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;;Finished;132;individuals
-153;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Loakan;Finished;24;individuals
-154;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Loakan;Finished;57;individuals
-155;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Lucnab;Finished;37;individuals
-156;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;53;individuals
-158;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;109;individuals
-159;PRC;Protection;Child Protection;Child Protection Orientation;1411;141102;Camp 7;Finished;109;individuals
-160;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Brookespoint;Finished;20;individuals
-161;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;108;individuals
-162;PRC;Health;PSS;PSP;1411;141102;Brgy Upper Quezon Hill;Finished;2;individuals
-163;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Sto. Rosario;Finished;119;individuals
-164;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;GEFA;Finished;30;individuals
-165;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Middle Quirino Hill Day Care Center;Finished;19;individuals
-166;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Lower Rock Quarry;Finished;74;individuals
-167;PRC;Assessment;Assessment;RDANA;133;13304;;Finished;1;area
-168;PRC;Assessment;Assessment;RDANA;133;13305;;Finished;1;area
-169;PRC;Assessment;Assessment;RDANA;1432;143201;;Finished;1;area
-170;PRC;Assessment;Assessment;RDANA;1427;142701;;Finished;1;area
-171;PRC;Assessment;Assessment;RDANA;133;13306;;Finished;1;area
-172;PRC;Relief;Ready-to-Eat;Hot Meals;410;41005;;Finished;500;individuals
-173;PRC;Health;Health;Blood Pressure;410;41005;;Finished;30;individuals
-174;PRC;Relief;Ready-to-Eat;Biscuits;133;13307;Calumbaya;Finished;374;individuals
-175;PRC;Relief;Ready-to-Eat;Hot Meals;250;25005;;Finished;289;individuals
-176;PRC;Assessment;Assessment;RDANA;1444;144403;;Finished;1;area
-177;PRC;Relief;Ready-to-Eat;Biscuits;371;37101;Parel;Finished;29;individuals
-178;PRC;Assessment;Assessment;RDANA;1401;140103;;Finished;1;area
-179;PRC;Assessment;Assessment;RDANA;215;21508;;Finished;1;area
-180;PRC;Assessment;Assessment;RDANA;1411;141105;;Finished;1;area
-181;PRC;Relief;Ready-to-Eat;Biscuits;133;13309;Poblacion Norte;Finished;292;individuals
-182;PRC;Assessment;Assessment;RDANA;133;13309;;Finished;1;area
-183;PRC;Relief;Food Items;Food Items (Standard);133;13309;Santiago Norte;Finished;137;families
-184;PRC;Relief;Food Items;Food Items (Standard);133;13309;Wenceslao;Finished;102;families
-185;PRC;Relief;Ready-to-Eat;Hot Meals;231;23106;San Pablo;Finished;605;individuals
-186;PRC;Health;PSS;PSP;231;23106;Casibarag;Finished;605;individuals
-187;PRC;Assessment;Assessment;RDANA;231;23106;;Finished;1;area
-188;PRC;Assessment;Assessment;RDANA;129;12905;;Finished;1;area
-189;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);458;45805;San Andres;Finished;13;families
-190;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);458;45805;San Andres;Finished;13;families
-191;PRC;Relief;Food Items;Food Items (Standard);1481;148101;Elena;Finished;50;families
-193;PRC;SRR;Rescue;Rescued/Assisted;1375;137501;Barangay 102;Finished;1;individuals
-194;PRC;Health;PSS;PSP;314;31407;Poblacion;Finished;44;individuals
-195;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Finished;63;individuals
-196;PRC;Health;PSS;PSP;314;31407;Meysulao;Finished;49;individuals
-197;PRC;Health;PSS;PSP;314;31407;San Miguel;Finished;75;individuals
-198;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Finished;44;individuals
-199;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Finished;63;individuals
-200;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Meysulao;Finished;49;individuals
-201;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;San Miguel;Finished;75;individuals
-202;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Poblacion;Finished;127;individuals
-203;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Sapang Bayan;Finished;197;individuals
-204;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Meysulao;Finished;129;individuals
-205;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;San Miguel;Finished;159;individuals
-206;PRC;Assessment;Assessment;RDANA;215;21510;;Finished;1;area
-207;PRC;Health;PSS;PSP;369;36903;Poblacion;Finished;55;individuals
-208;PRC;Relief;Food Items;Food Items (Standard);369;36903;Poblacion;Finished;30;families
-209;PRC;Relief;Ready-to-Eat;Biscuits;369;36903;Poblacion;Finished;117;individuals
-210;PRC;Relief;Ready-to-Eat;Bread;369;36903;Poblacion;Finished;120;individuals
-211;PRC;Relief;Ready-to-Eat;Hot Meals;371;37103;Binabalian;Finished;287;individuals
-212;PRC;Relief;Ready-to-Eat;Hot Meals;371;37104;Balabay;Finished;158;individuals
-213;PRC;Health;PSS;Welfare Desk;155;15503;;Finished;;
-214;PRC;Relief;Ready-to-Eat;Hot Meals;155;15503;;Finished;1640;individuals
-215;PRC;Assessment;Assessment;RDANA;128;12805;;Finished;1;area
-216;PRC;Assessment;Assessment;RDANA;129;12906;;Finished;1;area
-217;PRC;SRR;Rescue;Rescued/Assisted;860;86005;Cabugawan;Finished;9;individuals
-218;PRC;Relief;Ready-to-Eat;Hot Meals;860;86005;Cabugawan;Finished;9;individuals
-219;PRC;Relief;Non-Food Items;Thermal Blanket;860;86005;Cabugawan;Finished;9;individuals
-220;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;220;individuals
-222;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;225;individuals
-223;PRC;Health;PSS;PSP;1374;137402;Malanday;Finished;300;individuals
-224;PRC;Health;PSS;PSP;1374;137402;Concepcion Uno;Finished;500;individuals
-225;PRC;Health;PSS;PSP;1374;137402;Nangka;Finished;509;individuals
-226;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Buli;Finished;187;individuals
-227;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Cupang;Finished;1435;individuals
-228;PRC;Relief;Ready-to-Eat;Biscuits;1375;137503;;Finished;83;individuals
-229;PRC;Health;PSS;Welfare Desk;133;13314;San Agustin;Finished;;
-230;PRC;Health;Health;First Aid;133;13314;San Agustin;Finished;5;individuals
-231;PRC;Health;Health;Blood Units;133;13314;Carlatan;Finished;7;units
-232;PRC;Health;PSS;PSP;133;13314;San Agustin;Finished;92;individuals
-233;PRC;Health;PSS;Welfare Desk;133;13314;;Finished;;
-234;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;37;individuals
-235;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;25;individuals
-236;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;196;individuals
-237;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;San Francisco;Finished;113;individuals
-238;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Poro;Finished;21;individuals
-239;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137405;;Finished;183;individuals
-240;PRC;Health;PSS;Welfare Desk;231;23135;;Finished;;
-241;PRC;Assessment;Assessment;RDANA;1432;143213;;Finished;1;area
-242;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143213;;Finished;236;individuals
-243;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143213;;Finished;5;families
-244;PRC;Assessment;Assessment;RDANA;215;21511;;Finished;1;area
-245;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148102;Mawige;Finished;56;families
-246;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148102;Allamingigan;Finished;92;families
-247;PRC;Assessment;Assessment;RDANA;128;12808;;Finished;1;area
-248;PRC;Relief;Ready-to-Eat;Biscuits;231;23118;;Finished;461;individuals
-249;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;;Finished;461;individuals
-250;PRC;Relief;Ready-to-Eat;Biscuits;231;23118;Ragan;Finished;212;individuals
-251;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;Ragan;Finished;212;individuals
-252;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;;Finished;461;individuals
-253;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;Ragan;Finished;212;individuals
-254;PRC;Assessment;Assessment;RDANA;231;23118;;Finished;1;area
-255;PRC;Assessment;Assessment;RDANA;128;12809;;Finished;1;area
-256;PRC;Assessment;Assessment;RDANA;1401;140107;;Finished;1;area
-257;PRC;Assessment;Assessment;RDANA;1481;148103;;Finished;1;area
-258;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148103;Poblacion East;Finished;133;families
-259;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148103;Poblacion East;Finished;133;families
-260;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148103;Poblacion East;Finished;133;families
-261;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148103;Poblacion East;Finished;133;families
-262;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148103;Poblacion East;Finished;133;families
-263;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148103;Poblacion East;Finished;133;families
-264;PRC;Relief;Food Items;Food Items (Standard);1481;148103;Balasi;Finished;50;families
-265;PRC;Assessment;Assessment;RDANA;215;21513;;Finished;1;area
-266;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;10000;liters
-267;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;12000;liters
-268;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;12000;liters
-269;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;7000;liters
-270;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;7000;liters
-271;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
-272;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
-273;PRC;Health;PSS;Welfare Desk;215;21513;San Vicente;Finished;;
-274;PRC;Relief;Ready-to-Eat;Hot Meals;215;21513;San Vicente;Finished;588;individuals
-275;PRC;Health;PSS;PSP;215;21513;San Vicente;Finished;1196;individuals
-276;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
-277;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;4000;liters
-278;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21513;San Vicente;Finished;355;families
-279;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21513;San Vicente;Finished;355;families
-280;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21513;San Vicente;Finished;355;families
-281;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21513;San Vicente;Finished;355;families
-282;IFRC;WASH;Non-Food Items;Jerry Cans;215;21513;San Vicente;Finished;355;families
-283;IFRC;Relief;Non-Food Items;Tarpaulins;215;21513;San Vicente;Finished;355;families
-285;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro norte;Finished;1000;liters
-286;PRC;Health;Health;First Aid Station;215;21513;San Vicente;Finished;1;area
-287;PRC;Relief;Ready-to-Eat;Hot Meals;215;21514;Centro;Finished;2498;individuals
-288;PRC;Health;PSS;PSP;215;21514;Centro;Finished;1050;individuals
-289;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21514;Centro;Finished;200;individuals
-290;PRC;Health;Health;First Aid;215;21514;Centro;Finished;1;individuals
-291;PRC;Health;Health;Blood Pressure;215;21514;Centro;Finished;300;individuals
-292;PRC;Health;Referral;Health Referral;215;21514;Centro;Finished;30;individuals
-293;PRC;Relief;Ready-to-Eat;Biscuits;215;21514;Centro;Finished;2498;individuals
-294;PRC;Health;PSS;Welfare Desk;215;21514;Centro;Finished;;
-295;PRC;Health;Referral;Welfare Referral;215;21514;Centro;Finished;50;individuals
-296;PRC;Health;RFL;Tracing;215;21514;Centro;Finished;2;individuals
-297;PRC;Health;RFL;RFL (I am Alive);215;21514;Centro;Finished;6;individuals
-298;PRC;Health;PSS;PSP;215;21514;Centro;FInished;750;individuals
-299;PRC;Assessment;Assessment;RDANA;215;21514;;Finished;1;area
-300;PRC;Health;Health;First Aid Station;215;21514;Centro;Finished;1;area
-301;PRC;Assessment;Assessment;RDANA;215;21515;;Finished;1;area
-302;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
-303;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
-304;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;Baculud;Finished;303;families
-305;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;Baculud;Finished;303;families
-306;PRC;Health;PSS;Welfare Desk;215;21515;Baculud;Finished;1;Evacuation Center
-307;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
-308;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21515;San Vicente;Finished;303;individuals
-309;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
-310;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;San Vicente;Finished;303;families
-311;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;San Vicente;Finished;303;families
-312;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;San Vicente;Finished;33;individuals
-313;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
-314;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;San Vicente;Finished;33;individuals
-315;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;Bagumbayan;Finished;140;individuals
-316;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23114;Guinatan;Finished;32;individuals
-317;PRC;Assessment;Assessment;RDANA;231;23114;;Finished;1;area
-318;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;San Vicente;Finished;33;individuals
-319;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
-320;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;;Finished;293;individuals
-321;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;10000;liters
-322;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Ucab;Finished;1;community
-323;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
-324;PRC;Health;PSS;Welfare Desk;1411;141106;;Finished;;
-325;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;;Finished;1;community
-326;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
-327;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
-328;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
-329;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Midas;Finished;1;community
-330;PRC;Health;PSS;PSP;1411;141106;;Finished;5;Individuals
-331;PRC;Health;PSS;PSP;1411;141106;;Finished;8;Individuals
-332;PRC;Health;PSS;PSP;1411;141106;;Finished;7;Individuals
-335;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;
-336;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;;Finished;28;
-339;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
-340;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141106;;Finished;282;families
-341;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;4000;liters
-342;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;10000;liters
-343;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;6800;liters
-344;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
-345;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
-346;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Keystone;Finished;6375;liters
-347;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;6375;liters
-348;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;Ucab;Finished;;
-349;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;16;individuals
-350;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;81;individuals
-351;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
-352;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;60;individuals
-353;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;44;individuals
-354;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;122;individuals
-355;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;49;individuals
-356;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;350;individuals
-357;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;8;Individuals
-358;PRC;Assessment;Assessment;RDANA;1411;141107;;Finished;1;area
-359;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141107;Poblacion;Finished;186;families
-360;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141107;Poblacion;Finished;186;families
-361;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1411;141107;Poblacion;Finished;186;families
-362;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141107;Poblacion;Finished;186;families
-363;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141107;Poblacion;Finished;186;families
-364;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141107;Poblacion;Finished;186;families
-365;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
-366;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;315;individuals
-367;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148104;Poblacion;Finished;152;families
-368;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;;Finished;432;individuals
-369;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141108;Lomon;Finished;314;families
-370;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141108;Lomon;Finished;314;families
-371;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1411;141108;Lomon;Finished;314;families
-372;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141108;Lomon;Finished;314;families
-373;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141108;Lomon;Finished;314;families
-374;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141108;Lomon;Finished;314;families
-375;PRC;Health;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
-376;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Lomon;Finished;412;individuals
-377;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1427;142703;Tuplac;Finished;5;families
-378;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1427;142703;Tuplac;Finished;15;families
-379;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;Wangal;Finished;40;individuals
-380;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;;Finished;51;individuals
-381;PRC;Assessment;Assessment;RDANA;1411;141110;;Finished;1;area
-382;PRC;Assessment;Assessment;RDANA;1401;140110;;Finished;1;area
-383;PRC;Assessment;Assessment;RDANA;215;21516;;Finished;1;area
-384;PRC;Assessment;Assessment;RDANA;1427;142705;;Finished;1;area
-385;PRC;Relief;Ready-to-Eat;Hot Meals;128;12812;Coaoacan;Finished;84;individuals
-386;PRC;Health;PSS;PSP;128;12812;Coaoacan;Finished;84;individuals
-387;PRC;Assessment;Assessment;RDANA;128;12812;;Finished;1;area
-388;PRC;Relief;Ready-to-Eat;Biscuits;369;36907;San Roque;Finished;210;individuals
-389;PRC;Relief;Ready-to-Eat;Biscuits;369;36907;San Roque;Finished;117;individuals
-390;PRC;Relief;Ready-to-Eat;Bread;369;36907;San Roque;Finished;210;individuals
-391;PRC;Relief;Ready-to-Eat;Bread;369;36907;San Roque;Finished;117;individuals
-392;PRC;Relief;Non-Food Items;Towels;722;72226;;Finished;76;individuals
-393;PRC;Assessment;Assessment;RDANA;215;21517;;Finished;1;area
-394;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21517;Aggunetan;Finished;207;individuals
-395;PRC;Health;Health;First Aid Station;215;21517;Aggunetan;Finished;1;area
-396;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21517;Aggunetan;Finished;207;Families
-397;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21517;Aggunetan;Finished;207;Families
-398;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;202;individuals
-399;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;40;individuals
-400;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;101;individuals
-401;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;17;individuals
-402;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;202;individuals
-403;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;40;individuals
-404;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;101;individuals
-405;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;17;individuals
-406;PRC;Health;PSS;PSP;308;30806;;Finished;5;individuals
-407;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;Poblacion;Finished;150;individuals
-408;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;San Isidro;Finished;172;individuals
-409;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Marag;Finished;20;families
-410;PRC;Assessment;Assessment;RDANA;1481;148105;;Finished;1;area
-411;PRC;Health;Health;First Aid Station;1481;148105;Poblacion;Finished;1;area
-412;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148105;;Finished;83;families
-413;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148105;;Finished;83;families
-414;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148105;;Finished;83;families
-415;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148105;;Finished;83;families
-416;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148105;;Finished;83;families
-417;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148105;;Finished;83;families
-418;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Quirino;Finished;7;families
-419;PRC;Relief;Food Items;Food Items (Standard);1481;148105;San IsidroNorte;Finished;3;families
-420;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Marag;Finished;15;families
-421;PRC;Health;Health;First Aid;133;13310;Darigayos;Finished;2;individuals
-422;PRC;Relief;Ready-to-Eat;Hot Meals;133;13310;Darigayos;Finished;208;individuals
-423;PRC;Health;PSS;Welfare Desk;133;13310;Darigayos;Finished;;
-424;PRC;Health;PSS;PSP;133;13310;Darigayos;Finished;208;individuals
-425;PRC;Assessment;Assessment;RDANA;133;13310;;Finished;1;area
-426;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;Santa Monica;Finished;20;individuals
-427;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;San Clemente;Finished;39;individuals
-428;PRC;Assessment;Assessment;RDANA;129;12912;;Finished;1;area
-429;PRC;Assessment;Assessment;RDANA;128;12813;;Finished;1;area
-430;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Calapan;Finished;55;individuals
-431;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta Lucia East;Finished;229;individuals
-432;PRC;Health;PSS;PSP;369;36909;Banaoang East;Finished;10;individuals
-433;PRC;Health;PSS;PSP;369;36909;Banaoang West;Finished;2;individuals
-434;PRC;Health;PSS;PSP;369;36909;Sta. Lucia Wes;Finished;25;individuals
-435;PRC;Health;PSS;PSP;369;36909;Baquero Norte;Finished;13;individuals
-436;PRC;Health;PSS;PSP;369;36909;Sta. Lucia East;Finished;14;individuals
-437;PRC;Health;PSS;PSP;369;36909;Calapan;Finished;5;individuals
-438;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta. Lucia West;Finished;678;individuals
-439;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang East;Finished;90;individuals
-440;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang West;Finished;126;individuals
-441;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Baquero Norte;Finished;90;individuals
-442;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Baquero Sur;Finished;231;individuals
-443;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Poblacion;Finished;117;individuals
-444;PRC;Relief;Ready-to-Eat;Bread;369;36909;Sta Lucia East;Finished;229;individuals
-445;PRC;Relief;Ready-to-Eat;Bread;369;36909;Sta. Lucia West;Finished;678;individuals
-446;PRC;Relief;Ready-to-Eat;Bread;369;36909;Banaoang East;Finished;90;individuals
-447;PRC;Relief;Ready-to-Eat;Bread;369;36909;Banaoang West;Finished;126;individuals
-448;PRC;Relief;Ready-to-Eat;Bread;369;36909;Baquero Norte;Finished;90;individuals
-449;PRC;Relief;Ready-to-Eat;Bread;369;36909;Baquero Sur;Finished;184;individuals
-450;PRC;Relief;Ready-to-Eat;Bread;369;36909;Poblacion;Finished;29;individuals
-451;PRC;Assessment;Assessment;RDANA;129;12914;;Finished;1;area
-452;PRC;Assessment;Assessment;RDANA;128;12814;;Finished;1;area
-453;PRC;Relief;Ready-to-Eat;Bread;517;51725;Old Moriones;Finished;47;individuals
-454;PRC;Relief;Water;Bottled Water;517;51725;Old Moriones;Finished;47;individuals
-455;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Garreta;Finished;60;individuals
-456;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Garreta;Finished;47;individuals
-457;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Libaba;Finished;41;individuals
-458;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;San Juan;Finished;20;individuals
-459;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;East Poblacion;Finished;4;individuals
-460;PRC;Health;Referral;Welfare Referral;215;21518;Tupanna;Finished;15;individuals
-461;PRC;Health;Referral;Welfare Referral;215;21518;Nagtupacan;Finished;10;individuals
-462;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Tupanna;Finished;198;families
-463;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Nagtupacan;Finished;294;families
-464;PRC;Health;PSS;PSP;215;21518;Tupana;Finished;198;individuals
-465;PRC;Health;PSS;PSP;215;21518;Nagtupacan;Finished;234;individuals
-466;PRC;Assessment;Assessment;RDANA;215;21518;;Finished;1;area
-467;PRC;Health;Health;First Aid Station;215;21518;Tupanna;Finished;1;area
-468;PRC;Health;PSS;PSP;369;36910;Salumague;Finished;10;individuals
-469;PRC;Health;PSS;PSP;369;36910;San Isidro;Finished;8;individuals
-470;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Salumague;Finished;847;individuals
-471;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Alupid;Finished;272;individuals
-472;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;San Isidro;Finished;117;individuals
-473;PRC;Relief;Ready-to-Eat;Bread;369;36910;Salumague;Finished;847;individuals
-474;PRC;Relief;Ready-to-Eat;Bread;369;36910;Alupid;Finished;272;individuals
-475;PRC;Relief;Ready-to-Eat;Bread;369;36910;San Isidro;Finished;519;individuals
-476;PRC;Assessment;Assessment;RDANA;128;12816;;Finished;1;area
-477;PRC;Assessment;Assessment;RDANA;1444;144406;;Finished;1;area
-478;PRC;Assessment;Assessment;RDANA;128;12817;;Finished;1;area
-479;PRC;Assessment;Assessment;RDANA;1432;143208;;Finished;1;area
-480;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21519;Nanguilattan;Finished;41;families
-481;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21519;Nanguilattan;Finished;41;families
-482;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21519;Nanguilattan;Finished;41;families
-483;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21519;Nanguilattan;Finished;41;families
-484;IFRC;WASH;Non-Food Items;Jerry Cans;215;21519;Nanguilattan;Finished;41;families
-485;IFRC;Relief;Non-Food Items;Tarpaulins;215;21519;Nanguilattan;Finished;41;families
-486;PRC;Assessment;Assessment;RDANA;215;21519;;Finished;1;area
-487;PRC;Assessment;Assessment;RDANA;1401;140119;;Finished;1;area
-488;PRC;Assessment;Assessment;RDANA;128;12819;;Finished;1;area
-489;PRC;Assessment;Assessment;RDANA;1432;143209;;Finished;1;area
-490;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143209;;Finished;232;individuals
-491;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133913;Baseco;Finished;427;individuals
-492;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148106;Cabatacan;Finished;211;individuals
-493;PRC;Assessment;Assessment;RDANA;1481;148106;;Finished;1;area
-494;PRC;Relief;Food Items;Food Items (Standard);1481;148106;San jose;Finished;93;families
-495;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148106;;Finished;203;families
-496;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148106;;Finished;203;families
-497;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148106;;Finished;203;families
-498;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148106;;Finished;203;families
-499;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148106;;Finished;203;families
-500;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148106;;Finished;203;families
-501;PRC;Relief;Food Items;Food Items (Standard);1481;148106;San Jose;Finished;93;families
-502;PRC;Relief;Food Items;Food Items (Standard);1481;148106;Barocboc;Finished;52;families
-503;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Tatalon;Finished;215;individuals
-504;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Roxas;Finished;154;individuals
-505;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Dona Imelda;Finished;236;individuals
-506;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Bagong Silangan;Finished;260;individuals
-507;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Masambong;Finished;40;individuals
-508;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Sta. Lucia;Finished;260;individuals
-509;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Apolonio Samson;Finished;363;individuals
-510;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Maresa;Finished;32;individuals
-511;PRC;Health;Health;First Aid;1374;137404;Dona Imelda;Finished;3;individuals
-512;PRC;Health;Health;First Aid;1374;137404;Bagong Silangan;Finished;1;individuals
-513;PRC;Health;Health;Blood Pressure;1374;137404;Dona Imelda;Finished;22;individuals
-514;PRC;Health;Health;Blood Pressure;1374;137404;Bagong Silangan;Finished;49;individuals
-515;PRC;Relief;Ready-to-Eat;Biscuits;369;36912;Poblacion South;Finished;72;individuals
-516;PRC;Relief;Ready-to-Eat;Bread;369;36912;Poblacion South;Finished;72;individuals
-517;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143211;;Finished;498;families
-518;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143211;;Finished;498;families
-519;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143211;;Finished;498;families
-520;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1432;143211;;Finished;498;families
-521;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1432;143211;;Finished;498;families
-522;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143211;;Finished;498;families
-523;PRC;Assessment;Assessment;RDANA;1432;143211;;Finished;1;area
-524;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;San Jose;Finished;500;individuals
-525;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;Burgos;Finished;311;individuals
-526;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;Manggahan;Finished;222;individuals
-527;PRC;Assessment;Assessment;RDANA;1444;144409;;Finished;1;area
-528;PRC;Relief;Ready-to-Eat;Hot Meals;133;;San Fernando;Finished;227;individuals
-529;PRC;SRR;Rescue;Rescued/Assisted;155;15533;Sagud Baley;Finished;43;individuals
-530;PRC;Assessment;Assessment;RDANA;133;13315;;Finished;1;area
-531;PRC;Assessment;Assessment;RDANA;1401;140121;;Finished;1;area
-532;PRC;Health;PSS;Welfare Desk;133;13316;;Finished;;
-533;PRC;Relief;Ready-to-Eat;Hot Meals;133;13316;;Finished;219;individuals
-534;PRC;Health;PSS;PSP;133;13316;Centro;Finished;219;individuals
-535;PRC;Assessment;Assessment;RDANA;133;13316;;Finished;1;area
-536;PRC;Relief;Food Items;Food Items (Standard);133;13316;Nagsabaran;Finished;1;families
-537;PRC;Relief;Ready-to-Eat;Hot Meals;231;23133;Simanu Sur;Finished;197;individuals
-538;PRC;Assessment;Assessment;RDANA;231;23133;;Finished;1;area
-539;PRC;Relief;Ready-to-Eat;Hot Meals;231;23133;Simanu Sur;Finished;136;individuals
-540;PRC;Assessment;Assessment;RDANA;215;21522;;Finished;1;area
-541;PRC;Assessment;Assessment;RDANA;129;12922;;Finished;1;area
-542;PRC;Assessment;Assessment;RDANA;215;21523;;Finished;1;area
-543;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Pamonooran;Finished;25;individuals
-544;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Longos;Finished;225;individuals
-545;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Canaynayan;Finished;83;individuals
-546;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Poblacion South;Finished;30;individuals
-547;PRC;Assessment;Assessment;RDANA;1481;148107;;Finished;1;area
-548;PRC;Relief;Food Items;Food Items (Standard);1481;148107;Barocboc;Finished;50;families
-549;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Antonio;Finished;338;individuals
-550;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Antonio;Finished;338;individuals
-551;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Rafael;Finished;199;individuals
-552;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Rafael;Finished;199;individuals
-553;PRC;Assessment;Assessment;RDANA;231;23134;;Finished;1;area
-554;PRC;Assessment;Assessment;RDANA;215;21524;;Finished;1;area
-555;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
-556;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Villa;Finished;200;individuals
-557;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Mission;Finished;500;individuals
-558;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
-559;PRC;Assessment;Assessment;RDANA;215;21525;;Finished;1;area
-560;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;12000;liters
-561;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;10000;liters
-562;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
-563;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Villa;Finished;2000;liters
-564;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Mission;Finished;4000;liters
-565;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro;Finished;3000;liters
-566;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
-567;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Poblacion;Finished;135;individuals
-568;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Vacunero;Finished;17;individuals
-569;PRC;Relief;Ready-to-Eat;Hot Meals;231;23136;;Finished;398;individuals
-570;PRC;Assessment;Assessment;RDANA;129;12930;;Finished;1;area
-571;PRC;Assessment;Assessment;RDANA;128;12822;;Finished;1;area
-572;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148107;;Finished;81;families
-573;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148107;;Finished;81;families
-574;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148107;;Finished;81;families
-575;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148107;;Finished;81;families
-576;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148107;;Finished;81;families
-577;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148107;;Finished;81;families
-578;PRC;Relief;Ready-to-Eat;Bread;517;51736;La Salvacion;Finished;35;individuals
-579;PRC;Relief;Water;Bottled Water;517;51736;La Salvacion;Finished;35;individuals
-580;PRC;Relief;Ready-to-Eat;Biscuits;1339;133901;;Finished;89;individuals
-581;PRC;Relief;Water;Bottled Water;1339;133901;;Finished;89;individuals
-582;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133901;Barangay 20 Isla Puting Bato;Finished;650;individuals
-583;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133901;Barangay 101 Vitas Tondo;Finished;100;individuals
-584;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141113;Camp 4-6;Finished;168;families
-585;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141113;Camp 4-6;Finished;168;families
-586;PRC;Assessment;Assessment;RDANA;1411;141113;;Finished;1;area
-587;PRC;WASH;Non-Food Items;Jerry Cans;1411;141113;Camp 4-6;Finished;168;families
-588;PRC;Relief;Ready-to-Eat;Hot Meals;133;13320;;Finished;75;individuals
-589;PRC;Health;PSS;Welfare Desk;133;13320;;Finished;;
-590;PRC;Assessment;Assessment;RDANA;133;13320;;Finished;1;area
-591;PRC;WASH;Sanitation;Clearing operations;1411;141114;Daclan;Finished;1;community
-592;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141114;Ambassador;Finished;55;families
-593;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141114;Ambassador;Finished;55;families
-594;PRC;Health;PSS;Welfare Desk;215;21529;;Finished;;
-595;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Balzain East;Finished;132;individuals
-596;PRC;Health;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
-597;PRC;Health;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
-598;PRC;Relief;Ready-to-Eat;Biscuits;215;21529;Balzain East;Finished;132;individuals
-599;PRC;Health;Referral;Welfare Referral;215;21529;Balzain East;Finished;15;individuals
-600;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Linao East;Finished;280;individuals
-601;PRC;Health;PSS;PSP;215;21529;Linao East;Finished;560;individuals
-603;PRC;WASH;Sanitation;Clearing operations;215;21529;San Gabriel;Finished;1;community
-604;PRC;WASH;Sanitation;Clearing operations;215;21529;Cataggaman;Finished;1;community
-605;PRC;WASH;Sanitation;Clearing operations;215;21529;Carig;Finished;1;community
-606;PRC;WASH;Sanitation;Clearing operations;215;21529;Centro 04 Del Rosario;Finished;1;community
-607;PRC;WASH;Sanitation;Clearing operations;215;21529;Caritan;Finished;1;community
-608;PRC;WASH;Sanitation;Clearing operations;215;21529;Tagga;Finished;1;community
-609;PRC;WASH;Sanitation;Clearing operations;215;21529;Cataggaman nuevo;Finished;1;community
-610;PRC;WASH;Sanitation;Clearing operations;215;21529;Anaffunan;Finished;1;community
-611;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
-612;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
-613;PRC;WASH;Sanitation;Clearing operations;215;21529;Caggay;Finished;1;community
-614;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
-615;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
-616;PRC;Assessment;Assessment;RDANA;231;23137;;Finished;1;area
-617;PRC;Assessment;Assessment;RDANA;1401;140127;;Finished;1;area
-618;PRC;Assessment;Assessment;RDANA;128;12823;;Finished;1;area
-619;PRC;Relief;Ready-to-Eat;Hot Meals;516;51612;Poblacion;Finished;528;individuals
-620;PRC;Health;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
-621;PRC;Health;PSS;Welfare Desk;1401;;;Finished;;
-622;PRC;Health;PSS;Welfare Desk;1481;;San Isidro Sur;Finished;;
-624;PRC;Health;PSS;Welfare Desk;1411;;;Finished;;
-625;PRC;Health;PSS;PSP;1411;;Pacalso;Finished;269;individuals
-626;PRC;Health;PSS;PSP;1411;;Pacalso;Finished;302;individuals
-627;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
-628;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
-629;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
-630;PRC;Health;PSS;Welfare Desk;1427;;;Finished;;
-631;PRC;Health;PSS;Welfare Desk;128;;;Finished;;
-632;PRC;Health;PSS;Welfare Desk;129;;;Finished;;
-633;PRC;Relief;Ready-to-Eat;Hot Meals;630;;;Finished;450;individuals
-634;PRC;Health;PSS;Welfare Desk;231;;;Finished;;
-635;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
-636;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
-637;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;Laya West;Finished;168;individuals
-638;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;Laya West;Finished;160;individuals
-639;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;;Finished;240;individuals
-640;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1432;;;Finished;5;families
-641;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;;;Finished;279;individuals
-642;PRC;Health;PSS;PSP;1432;;;Finished;214;individuals
-643;PRC;Health;Health;Blood Units;133;;;Finished;1;units
-644;PRC;Health;PSS;Welfare Desk;250;;;Finished;;
-645;PRC;Health;Health;Doxycycline;155;;;Delivered;2000;pcs
-646;PRC;Health;PSS;Welfare Desk;369;;;Finished;;
-647;PRC;Health;PSS;Welfare Desk;371;;;Finished;;
+7;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Centro;Finished;25;Families
+8;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Centro;Finished;25;Families
+9;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Daloig;Finished;569;Families
+10;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Daloig;Finished;569;Families
+11;PRC;Health;PSS;Welfare Desk;215;21502;Daloig;Finished;;
+12;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21502;Daloig;Finished;569;individuals
+13;PRC;Health;Health;First Aid Station;215;21502;Daloig;Finished;1;area
+14;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Calantac;Finished;579;Families
+15;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Calantac;Finished;579;Families
+16;PRC;Health;PSS;Welfare Desk;215;21502;Calantac;Finished;;
+17;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21502;Calantac;Finished;579;individuals
+18;PRC;Health;Health;First Aid Station;215;21502;Calantac;Finished;1;area
+19;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Silagan;Finished;161;Families
+20;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Silagan;Finished;161;Families
+21;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Tamboli;Finished;107;Families
+22;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Tamboli;Finished;107;Families
+23;PRC;Health;Health;First Aid Station;215;21503;Silagan;Finished;1;area
+24;PRC;WASH;Sanitation;Clearing operations;215;21504;Anaffatan;Finished;1;community
+25;PRC;WASH;Sanitation;Clearing operations;215;21504;Amulung West;Finished;1;community
+26;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
+27;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
+28;PRC;WASH;Sanitation;Clearing operations;215;21504;Cordova;Finished;1;community
+29;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Centro;Finished;69;families
+30;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;69;families
+31;PRC;Relief;Ready-to-Eat;Hot Meals;215;21504;centro;Finished;105;individuals
+32;PRC;Health;PSS;PSP;215;21504;centro;Finished;42;individuals
+33;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;42;individuals
+34;Spanish Red Cross - AECID;WASH;Water;Water;215;21504;Cordova;Finished;5000;liters
+35;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;303;individuals
+36;PRC;Health;Health;First Aid Station;215;21504;Centro;Finished;1;area
+37;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Centro;Finished;83;families
+38;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;83;families
+39;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Alituntung;Finished;116;Families
+40;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Alituntung;Finished;116;Families
+41;PRC;Health;PSS;Welfare Desk;215;21504;Alituntung;Finished;;
+42;PRC;Relief;Ready-to-Eat;Hot Meals;215;21504;Alituntung;Finished;45;Individuals
+43;PRC;Health;PSS;PSP;215;21504;Alituntung;Finished;34;Individuals
+44;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Grande;Finished;230;Families
+45;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Grande;Finished;230;Families
+46;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Grande;Finished;;
+47;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Grande;Finished;52;Individuals
+48;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Pequeno;Finished;221;Families
+49;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Pequeno;Finished;221;Families
+50;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Pequeno;Finished;;
+51;PRC;Health;PSS;PSP;215;21504;Pacac Pequeno;Finished;23;Individuals
+52;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Pequeno;Finished;149;Individuals
+53;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Centro;Finished;25;Families
+54;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Centro;Finished;25;Families
+55;PRC;Assessment;Assessment;RDANA;133;13302;;Finished;1;area
+56;PRC Benguet Chapter BOD;Relief;Non-Food Items;Burner Stove with LPG tank;1411;141101;;Finished;6;families
+57;PRC Benguet Chapter BOD;Relief;Non-Food Items;Kitchen Utensils;1411;141101;;Finished;15;families
+58;PRC;Assessment;Assessment;RDANA;133;13303;;Finished;1;area
+59;PRC;Assessment;Assessment;RDANA;128;12803;;Finished;1;area
+60;PRC;Assessment;Assessment;RDANA;215;21506;;Finished;1;area
+62;PRC;Health;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;15;individuals
+63;PRC;Health;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;15;individuals
+64;PRC;Health;Referral;Welfare Referral;215;21506;Awallan;Finished;15;individuals
+65;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Santa Margarita;Finished;100;families
+66;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Santa Margarita;Finished;100;families
+67;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Santa Margarita;Finished;100;families
+68;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Santa Margarita;Finished;100;families
+69;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Santa Margarita;Finished;100;families
+70;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Santa Margarita;Finished;100;families
+71;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;491;individuals
+72;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Sta. Margarita;Finished;5000;liters
+73;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Santa Margarita;Finished;307;families
+74;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Santa Margarita;Finished;307;families
+75;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Santa Margarita;Finished;307;families
+76;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Santa Margarita;Finished;307;families
+77;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Santa Margarita;Finished;307;families
+78;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Santa Margarita;Finished;307;families
+79;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Awallan;Finished;362;families
+80;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Awallan;Finished;362;families
+81;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Awallan;Finished;362;families
+82;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Awallan;Finished;362;families
+83;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Awallan;Finished;362;families
+84;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Awallan;Finished;362;families
+85;PRC;Health;PSS;PSP;215;21506;Awallan;Finished;362;individuals
+86;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;398;individuals
+87;PRC;Health;RFL;RFL (I am Alive);215;21506;Sta. Margarita;Finished;50;individuals
+88;Spanish Red Cross - AECID;WASH;Water;Water Bladder 5,000;215;21506;;Finished;1;units
+89;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+90;PRC;Health;PSS;Welfare Desk;215;21506;Bitag Grande;Finished;;
+91;PRC;Relief;Ready-to-Eat;Hot Meals;215;21506;Bitag Grande;Finished;678;individuals
+92;PRC;Health;PSS;PSP;215;21506;Bitag Grande;Finished;1376;individuals
+93;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+94;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1000;liters
+95;PRC;Health;Health;First Aid;215;21506;Bitag Grande;Finished;1;individuals
+96;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;33;families
+97;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;33;families
+98;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Mocag;Finished;162;families
+99;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;220;families
+100;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Mocag;Finished;162;families
+101;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;220;families
+102;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21506;Adaog;Finished;260;families
+103;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Mat);215;21506;Adaog;Finished;260;families
+104;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21506;Adaog;Finished;260;families
+105;Qatar Red Crescent Society;WASH;Non-Food Items;Hygiene Kit;215;21506;Adaog;Finished;260;families
+106;Qatar Red Crescent Society;WASH;Non-Food Items;Jerry Cans;215;21506;Adaog;Finished;260;families
+107;Qatar Red Crescent Society;Relief;Non-Food Items;Tarpaulins;215;21506;Adaog;Finished;260;families
+108;PRC;Health;PSS;Welfare Desk;215;21506;Adaog;Finished;1;Evacuation Center
+109;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Adaog;Finished;210;individuals
+110;PRC;Health;Health;First Aid Station;215;21506;Adaog;Finished;1;area
+111;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;625;individuals
+112;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;395;individuals
+113;PRC;Health;Health;First Aid Station;215;21506;Bitag Grande;Finished;1;area
+114;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+115;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;5475;liters
+116;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;24;families
+117;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;45;families
+118;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;31;families
+119;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;43;families
+120;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;1400;liters
+121;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;2475;liters
+122;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;625;liters
+123;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;3200;liters
+124;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3300;liters
+125;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
+126;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;600;liters
+127;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
+128;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;75;liters
+129;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;2025;liters
+130;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;4125;liters
+131;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;150;liters
+132;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;575;liters
+133;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;350;liters
+134;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2625;liters
+135;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1325;liters
+136;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1975;liters
+137;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2525;liters
+138;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;900;liters
+139;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2175;liters
+140;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;2100;liters
+141;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;525;liters
+142;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1225;liters
+143;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;375;liters
+144;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;400;liters
+145;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1550;liters
+146;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1625;liters
+147;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1400;liters
+148;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;3100;liters
+149;PRC;Health;Health;First Aid Station;215;21506;Tamboli;Finished;1;area
+150;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;300;liters
+151;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1100;liters
+152;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1000;liters
+153;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1900;liters
+154;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3000;liters
+155;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1205;liters
+156;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21506;San Jose;Finished;50;Families
+157;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21506;San Jose;Finished;50;Families
+158;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+159;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;300;liters
+160;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;850;liters
+161;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1150;liters
+162;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1200;liters
+163;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;375;liters
+164;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;1075;liters
+165;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;1800;liters
+166;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;925;liters
+167;IFRC;WASH;Water;Water;215;21506;Assassi;Finished;150;liters
+168;IFRC;WASH;Water;Water;215;21506;Assassi;Finished;325;liters
+169;IFRC;WASH;Water;Water;215;21506;Assassi;Finished;350;liters
+170;IFRC;WASH;Water;Water;215;21506;Assassi;Finished;1325;liters
+171;IFRC;WASH;Water;Water;215;21506;Assassi;Finished;1000;liters
+172;PRC;Relief;Non-Food Items;Towels;1411;141102;Sto Tomas;Finished;25;families
+173;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;4;families
+174;PRC;Relief;Non-Food Items;Towels;1411;141102;City Camp;Finished;51;families
+175;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;8;families
+176;PRC;Assessment;Assessment;RDANA;1411;141102;;Finished;1;area
+177;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141102;Loakan;Finished;1;community
+178;Spanish Red Cross - AECID;WASH;Water;Water;1411;141102;Pinesville;Finished;1000;individuals
+179;Spanish Red Cross - AECID;WASH;Water;Water;1411;141102;Sto. Rosario;Finished;1133;individuals
+180;PRC;Health;PSS;PSP;1411;141102;Sto. Tomas;Finished;11;individuals
+181;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Roxas;Finished;57;individuals
+182;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;;Finished;132;individuals
+183;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Loakan;Finished;24;individuals
+184;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Loakan;Finished;57;individuals
+185;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Lucnab;Finished;37;individuals
+186;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;53;individuals
+188;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;109;individuals
+189;PRC;Protection;Child Protection;Child Protection Orientation;1411;141102;Camp 7;Finished;109;individuals
+190;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Brookespoint;Finished;20;individuals
+191;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;108;individuals
+192;PRC;Health;PSS;PSP;1411;141102;Brgy Upper Quezon Hill;Finished;2;individuals
+193;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Sto. Rosario;Finished;119;individuals
+194;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;GEFA;Finished;30;individuals
+195;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Middle Quirino Hill Day Care Center;Finished;19;individuals
+196;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Lower Rock Quarry;Finished;74;individuals
+198;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;45;individuals
+199;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;29;individuals
+200;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;79;individuals
+201;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;;Finished;62;individuals
+202;PRC;Assessment;Assessment;RDANA;133;13304;;Finished;1;area
+203;PRC;Assessment;Assessment;RDANA;133;13305;;Finished;1;area
+204;PRC;Assessment;Assessment;RDANA;1432;143201;;Finished;1;area
+205;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143201;;Finished;135;families
+206;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143201;;Finished;135;families
+207;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143201;;Finished;135;families
+208;Australian DFAT;Relief;Non-Food Items;Hygiene Kit;1432;143201;;Finished;135;families
+209;Australian DFAT;Relief;Non-Food Items;Jerry Cans;1432;143201;;Finished;135;families
+210;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143201;;Finished;135;families
+211;Unknown;Relief;Food Items;Food Items (Standard);1432;143201;;Finished;197;families
+212;PRC;Assessment;Assessment;RDANA;1427;142701;;Finished;1;area
+213;PRC;Assessment;Assessment;RDANA;133;13306;;Finished;1;area
+214;PRC;Relief;Ready-to-Eat;Hot Meals;410;41005;;Finished;500;individuals
+215;PRC;Health;Health;Blood Pressure;410;41005;;Finished;30;individuals
+216;PRC;Relief;Ready-to-Eat;Biscuits;133;13307;Calumbaya;Finished;374;individuals
+217;PRC;Relief;Ready-to-Eat;Hot Meals;250;25005;;Finished;289;individuals
+218;PRC;Assessment;Assessment;RDANA;1444;144403;;Finished;1;area
+219;PRC;Relief;Ready-to-Eat;Biscuits;371;37101;Parel;Finished;29;individuals
+220;PRC;Assessment;Assessment;RDANA;1401;140103;;Finished;1;area
+221;PRC;Assessment;Assessment;RDANA;215;21508;;Finished;1;area
+222;PRC;Assessment;Assessment;RDANA;1411;141105;;Finished;1;area
+223;PRC;Relief;Ready-to-Eat;Biscuits;133;13309;Poblacion Norte;Finished;292;individuals
+224;PRC;Assessment;Assessment;RDANA;133;13309;;Finished;1;area
+225;PRC;Relief;Food Items;Food Items (Standard);133;13309;Santiago Norte;Finished;137;families
+226;PRC;Relief;Food Items;Food Items (Standard);133;13309;Wenceslao;Finished;102;families
+227;PRC;Relief;Ready-to-Eat;Hot Meals;231;23106;San Pablo;Finished;605;individuals
+228;PRC;Health;PSS;PSP;231;23106;Casibarag;Finished;605;individuals
+229;PRC;Assessment;Assessment;RDANA;231;23106;;Finished;1;area
+230;PRC;Assessment;Assessment;RDANA;129;12905;;Finished;1;area
+231;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);458;45805;San Andres;Finished;13;families
+232;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);458;45805;San Andres;Finished;13;families
+233;PRC;Relief;Food Items;Food Items (Standard);1481;148101;Elena;Finished;50;families
+235;PRC;SRR;Rescue;Rescued/Assisted;1375;137501;Barangay 102;Finished;1;individuals
+236;PRC;Health;PSS;PSP;314;31407;Poblacion;Finished;44;individuals
+237;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Finished;63;individuals
+238;PRC;Health;PSS;PSP;314;31407;Meysulao;Finished;49;individuals
+239;PRC;Health;PSS;PSP;314;31407;San Miguel;Finished;75;individuals
+240;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Finished;44;individuals
+241;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Finished;63;individuals
+242;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Meysulao;Finished;49;individuals
+243;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;San Miguel;Finished;75;individuals
+244;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Poblacion;Finished;127;individuals
+245;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Sapang Bayan;Finished;197;individuals
+246;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Meysulao;Finished;129;individuals
+247;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;San Miguel;Finished;159;individuals
+248;PRC;Assessment;Assessment;RDANA;215;21510;;Finished;1;area
+249;PRC;Health;PSS;PSP;369;36903;Poblacion;Finished;55;individuals
+250;PRC;Relief;Food Items;Food Items (Standard);369;36903;Poblacion;Finished;30;families
+251;PRC;Relief;Ready-to-Eat;Biscuits;369;36903;Poblacion;Finished;117;individuals
+252;PRC;Relief;Ready-to-Eat;Bread;369;36903;Poblacion;Finished;120;individuals
+253;PRC;Relief;Ready-to-Eat;Hot Meals;371;37103;Binabalian;Finished;287;individuals
+254;PRC;Relief;Ready-to-Eat;Hot Meals;371;37104;Balabay;Finished;158;individuals
+255;PRC;Health;PSS;Welfare Desk;155;15503;;Finished;;
+256;PRC;Relief;Ready-to-Eat;Hot Meals;155;15503;;Finished;1640;individuals
+257;PRC;Assessment;Assessment;RDANA;128;12805;;Finished;1;area
+258;PRC;Assessment;Assessment;RDANA;129;12906;;Finished;1;area
+259;PRC;SRR;Rescue;Rescued/Assisted;860;86005;Cabugawan;Finished;9;individuals
+260;PRC;Relief;Ready-to-Eat;Hot Meals;860;86005;Cabugawan;Finished;9;individuals
+261;PRC;Relief;Non-Food Items;Thermal Blanket;860;86005;Cabugawan;Finished;9;individuals
+262;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;220;individuals
+264;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;225;individuals
+265;PRC;Health;PSS;PSP;1374;137402;Malanday;Finished;300;individuals
+266;PRC;Health;PSS;PSP;1374;137402;Concepcion Uno;Finished;500;individuals
+267;PRC;Health;PSS;PSP;1374;137402;Nangka;Finished;509;individuals
+268;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Buli;Finished;187;individuals
+269;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Cupang;Finished;1435;individuals
+270;PRC;Relief;Ready-to-Eat;Biscuits;1375;137503;;Finished;83;individuals
+271;PRC;Health;PSS;Welfare Desk;133;13314;San Agustin;Finished;;
+272;PRC;Health;Health;First Aid;133;13314;San Agustin;Finished;5;individuals
+273;PRC;Health;Health;Blood Units;133;13314;Carlatan;Finished;7;units
+274;PRC;Health;PSS;PSP;133;13314;San Agustin;Finished;92;individuals
+275;PRC;Health;PSS;Welfare Desk;133;13314;;Finished;;
+276;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;37;individuals
+277;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;25;individuals
+278;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;196;individuals
+279;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;San Francisco;Finished;113;individuals
+280;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Poro;Finished;21;individuals
+281;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137405;;Finished;183;individuals
+282;PRC;Health;PSS;Welfare Desk;231;23135;;Finished;;
+283;PRC;Assessment;Assessment;RDANA;1432;143213;;Finished;1;area
+284;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143213;;Finished;236;individuals
+285;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143213;;Finished;5;families
+286;PRC;Assessment;Assessment;RDANA;215;21511;;Finished;1;area
+287;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148102;Mawige;Finished;56;families
+288;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148102;Allamingigan;Finished;92;families
+289;PRC;Assessment;Assessment;RDANA;128;12808;;Finished;1;area
+290;PRC;Relief;Ready-to-Eat;Biscuits;231;23118;;Finished;461;individuals
+291;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;;Finished;461;individuals
+292;PRC;Relief;Ready-to-Eat;Biscuits;231;23118;Ragan;Finished;212;individuals
+293;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;Ragan;Finished;212;individuals
+294;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;;Finished;461;individuals
+295;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;Ragan;Finished;212;individuals
+296;PRC;Assessment;Assessment;RDANA;231;23118;;Finished;1;area
+297;PRC;Assessment;Assessment;RDANA;128;12809;;Finished;1;area
+298;PRC;Assessment;Assessment;RDANA;1401;140107;;Finished;1;area
+299;PRC;Assessment;Assessment;RDANA;1481;148103;;Finished;1;area
+300;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148103;Poblacion East;Finished;133;families
+301;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148103;Poblacion East;Finished;133;families
+302;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148103;Poblacion East;Finished;133;families
+303;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148103;Poblacion East;Finished;133;families
+304;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148103;Poblacion East;Finished;133;families
+305;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148103;Poblacion East;Finished;133;families
+306;PRC;Relief;Food Items;Food Items (Standard);1481;148103;Balasi;Finished;50;families
+307;PRC;Assessment;Assessment;RDANA;215;21513;;Finished;1;area
+308;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;10000;liters
+309;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;12000;liters
+310;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;12000;liters
+311;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;7000;liters
+312;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;7000;liters
+313;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
+314;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
+315;PRC;Health;PSS;Welfare Desk;215;21513;San Vicente;Finished;;
+316;PRC;Relief;Ready-to-Eat;Hot Meals;215;21513;San Vicente;Finished;588;individuals
+317;PRC;Health;PSS;PSP;215;21513;San Vicente;Finished;1196;individuals
+318;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
+319;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;4000;liters
+320;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21513;San Vicente;Finished;355;families
+321;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21513;San Vicente;Finished;355;families
+322;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21513;San Vicente;Finished;355;families
+323;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21513;San Vicente;Finished;355;families
+324;IFRC;WASH;Non-Food Items;Jerry Cans;215;21513;San Vicente;Finished;355;families
+325;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);215;21519;Nanguilattan;Finished;41;families
+326;IFRC;Relief;Non-Food Items;Tarpaulins;215;21513;San Vicente;Finished;355;families
+328;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro norte;Finished;1000;liters
+329;PRC;Health;Health;First Aid Station;215;21513;San Vicente;Finished;1;area
+330;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21513;Tanglagan;Finished;293;Families
+331;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21513;Tanglagan;Finished;293;Families
+332;PRC;Health;PSS;Welfare Desk;215;21513;Tanglagan;Finished;;
+333;PRC;Health;Health;First Aid Station;215;21513;Tanglagan;Finished;1;area
+334;PRC;Relief;Ready-to-Eat;Hot Meals;215;21514;Centro;Finished;2498;individuals
+335;PRC;Health;PSS;PSP;215;21514;Centro;Finished;1050;individuals
+336;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21514;Centro;Finished;200;individuals
+337;PRC;Health;Health;First Aid;215;21514;Centro;Finished;1;individuals
+338;PRC;Health;Health;Blood Pressure;215;21514;Centro;Finished;300;individuals
+339;PRC;Health;Referral;Health Referral;215;21514;Centro;Finished;30;individuals
+340;PRC;Relief;Ready-to-Eat;Biscuits;215;21514;Centro;Finished;2498;individuals
+341;PRC;Health;PSS;Welfare Desk;215;21514;Centro;Finished;;
+342;PRC;Health;Referral;Welfare Referral;215;21514;Centro;Finished;50;individuals
+343;PRC;Health;RFL;Tracing;215;21514;Centro;Finished;2;individuals
+344;PRC;Health;RFL;RFL (I am Alive);215;21514;Centro;Finished;6;individuals
+345;PRC;Health;PSS;PSP;215;21514;Centro;FInished;750;individuals
+346;PRC;Assessment;Assessment;RDANA;215;21514;;Finished;1;area
+347;PRC;Health;Health;First Aid Station;215;21514;Centro;Finished;1;area
+348;PRC;Assessment;Assessment;RDANA;215;21515;;Finished;1;area
+349;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
+350;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
+351;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;Baculud;Finished;303;families
+352;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;Baculud;Finished;303;families
+353;PRC;Health;PSS;Welfare Desk;215;21515;Baculud;Finished;1;Evacuation Center
+354;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
+355;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21515;San Vicente;Finished;303;individuals
+356;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
+357;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;San Vicente;Finished;303;families
+358;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;San Vicente;Finished;303;families
+359;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;San Vicente;Finished;33;individuals
+360;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
+361;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;San Vicente;Finished;33;individuals
+362;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;Bagumbayan;Finished;140;individuals
+363;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23114;Guinatan;Finished;32;individuals
+364;PRC;Assessment;Assessment;RDANA;231;23114;;Finished;1;area
+365;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;San Vicente;Finished;33;individuals
+366;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
+367;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;;Finished;293;individuals
+368;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;10000;liters
+369;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Ucab;Finished;1;community
+370;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
+371;PRC;Health;PSS;Welfare Desk;1411;141106;;Finished;;
+372;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;;Finished;1;community
+373;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
+374;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
+375;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
+376;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Midas;Finished;1;community
+377;PRC;Health;PSS;PSP;1411;141106;;Finished;5;Individuals
+378;PRC;Health;PSS;PSP;1411;141106;;Finished;8;Individuals
+379;PRC;Health;PSS;PSP;1411;141106;;Finished;7;Individuals
+382;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;
+383;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;;Finished;28;
+386;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
+387;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141106;;Finished;282;families
+388;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;4000;liters
+389;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;10000;liters
+390;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;6800;liters
+391;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
+392;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
+393;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Keystone;Finished;6375;liters
+394;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;;Finished;6375;liters
+395;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;Ucab;Finished;;
+396;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;16;individuals
+397;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;81;individuals
+398;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
+399;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;60;individuals
+400;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;44;individuals
+401;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;122;individuals
+402;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;49;individuals
+403;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;350;individuals
+404;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;8;Individuals
+405;PRC;Assessment;Assessment;RDANA;1411;141107;;Finished;1;area
+406;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141107;Poblacion;Finished;186;families
+407;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141107;Poblacion;Finished;186;families
+408;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1411;141107;Poblacion;Finished;186;families
+409;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141107;Poblacion;Finished;186;families
+410;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141107;Poblacion;Finished;186;families
+411;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141107;Poblacion;Finished;186;families
+412;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
+413;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;315;individuals
+414;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148104;Poblacion;Finished;152;families
+415;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;;Finished;432;individuals
+416;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141108;Lomon;Finished;314;families
+417;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141108;Lomon;Finished;314;families
+418;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1411;141108;Lomon;Finished;314;families
+419;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141108;Lomon;Finished;314;families
+420;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141108;Lomon;Finished;314;families
+421;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141108;Lomon;Finished;314;families
+422;PRC;Health;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
+423;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Lomon;Finished;412;individuals
+424;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1427;142703;Tuplac;Finished;5;families
+425;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1427;142703;Tuplac;Finished;15;families
+426;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;Wangal;Finished;40;individuals
+427;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;;Finished;51;individuals
+428;PRC;Assessment;Assessment;RDANA;1411;141110;;Finished;1;area
+429;PRC;Assessment;Assessment;RDANA;1401;140110;;Finished;1;area
+430;PRC;Assessment;Assessment;RDANA;215;21516;;Finished;1;area
+431;PRC;Assessment;Assessment;RDANA;1427;142705;;Finished;1;area
+432;PRC;Relief;Ready-to-Eat;Hot Meals;128;12812;Coaoacan;Finished;84;individuals
+433;PRC;Health;PSS;PSP;128;12812;Coaoacan;Finished;84;individuals
+434;PRC;Assessment;Assessment;RDANA;128;12812;;Finished;1;area
+435;PRC;Relief;Ready-to-Eat;Biscuits;369;36907;San Roque;Finished;210;individuals
+436;PRC;Relief;Ready-to-Eat;Biscuits;369;36907;San Roque;Finished;117;individuals
+437;PRC;Relief;Ready-to-Eat;Bread;369;36907;San Roque;Finished;210;individuals
+438;PRC;Relief;Ready-to-Eat;Bread;369;36907;San Roque;Finished;117;individuals
+439;PRC;Relief;Non-Food Items;Towels;722;72226;;Finished;76;individuals
+440;PRC;Assessment;Assessment;RDANA;215;21517;;Finished;1;area
+441;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21517;Aggunetan;Finished;207;individuals
+442;PRC;Health;Health;First Aid Station;215;21517;Aggunetan;Finished;1;area
+443;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21517;Aggunetan;Finished;207;Families
+444;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21517;Aggunetan;Finished;207;Families
+445;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;202;individuals
+446;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;40;individuals
+447;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;101;individuals
+448;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;17;individuals
+449;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;202;individuals
+450;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;40;individuals
+451;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;101;individuals
+452;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;17;individuals
+453;PRC;Health;PSS;PSP;308;30806;;Finished;5;individuals
+454;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;Poblacion;Finished;150;individuals
+455;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;San Isidro;Finished;172;individuals
+456;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Marag;Finished;20;families
+457;PRC;Assessment;Assessment;RDANA;1481;148105;;Finished;1;area
+458;PRC;Health;Health;First Aid Station;1481;148105;Poblacion;Finished;1;area
+459;PRC;Health;PSS;Welfare Desk;1481;148105;San Isidro Sur;Finished;;
+460;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148105;;Finished;83;families
+461;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148105;;Finished;83;families
+462;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148105;;Finished;83;families
+463;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148105;;Finished;83;families
+464;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148105;;Finished;83;families
+465;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148105;;Finished;83;families
+466;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Quirino;Finished;7;families
+467;PRC;Relief;Food Items;Food Items (Standard);1481;148105;San IsidroNorte;Finished;3;families
+468;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Marag;Finished;15;families
+469;PRC;Health;Health;First Aid;133;13310;Darigayos;Finished;2;individuals
+470;PRC;Relief;Ready-to-Eat;Hot Meals;133;13310;Darigayos;Finished;208;individuals
+471;PRC;Health;PSS;Welfare Desk;133;13310;Darigayos;Finished;;
+472;PRC;Health;PSS;PSP;133;13310;Darigayos;Finished;208;individuals
+473;PRC;Assessment;Assessment;RDANA;133;13310;;Finished;1;area
+474;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;Santa Monica;Finished;20;individuals
+475;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;San Clemente;Finished;39;individuals
+476;PRC;Assessment;Assessment;RDANA;129;12912;;Finished;1;area
+477;PRC;Assessment;Assessment;RDANA;128;12813;;Finished;1;area
+478;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Calapan;Finished;55;individuals
+479;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta Lucia East;Finished;229;individuals
+480;PRC;Health;PSS;PSP;369;36909;Banaoang East;Finished;10;individuals
+481;PRC;Health;PSS;PSP;369;36909;Banaoang West;Finished;2;individuals
+482;PRC;Health;PSS;PSP;369;36909;Sta. Lucia Wes;Finished;25;individuals
+483;PRC;Health;PSS;PSP;369;36909;Baquero Norte;Finished;13;individuals
+484;PRC;Health;PSS;PSP;369;36909;Sta. Lucia East;Finished;14;individuals
+485;PRC;Health;PSS;PSP;369;36909;Calapan;Finished;5;individuals
+486;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta. Lucia West;Finished;678;individuals
+487;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang East;Finished;90;individuals
+488;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang West;Finished;126;individuals
+489;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Baquero Norte;Finished;90;individuals
+490;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Baquero Sur;Finished;231;individuals
+491;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Poblacion;Finished;117;individuals
+492;PRC;Relief;Ready-to-Eat;Bread;369;36909;Sta Lucia East;Finished;229;individuals
+493;PRC;Relief;Ready-to-Eat;Bread;369;36909;Sta. Lucia West;Finished;678;individuals
+494;PRC;Relief;Ready-to-Eat;Bread;369;36909;Banaoang East;Finished;90;individuals
+495;PRC;Relief;Ready-to-Eat;Bread;369;36909;Banaoang West;Finished;126;individuals
+496;PRC;Relief;Ready-to-Eat;Bread;369;36909;Baquero Norte;Finished;90;individuals
+497;PRC;Relief;Ready-to-Eat;Bread;369;36909;Baquero Sur;Finished;184;individuals
+498;PRC;Relief;Ready-to-Eat;Bread;369;36909;Poblacion;Finished;29;individuals
+499;PRC;Assessment;Assessment;RDANA;129;12914;;Finished;1;area
+500;PRC;WASH;Non-Food Items;Hygiene Kit;1444;144405;Ap-Apawan;finished;22;individuals
+501;Spanish Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1444;144405;Ap-Apawan;finished;22;individuals
+502;PRC;Relief;Food Items;Food Items (Standard);1444;144405;Sta. Isabel;finished;24;families
+503;PRC;Relief;Food Items;Food Items (Standard);1444;144405;Tonglayan;finished;5;families
+504;PRC;Assessment;Assessment;RDANA;128;12814;;Finished;1;area
+505;PRC;Relief;Ready-to-Eat;Bread;517;51725;Old Moriones;Finished;47;individuals
+506;PRC;Relief;Water;Bottled Water;517;51725;Old Moriones;Finished;47;individuals
+507;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Garreta;Finished;60;individuals
+508;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Garreta;Finished;47;individuals
+509;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Libaba;Finished;41;individuals
+510;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;San Juan;Finished;20;individuals
+511;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;East Poblacion;Finished;4;individuals
+512;PRC;Health;Referral;Welfare Referral;215;21518;Tupanna;Finished;15;individuals
+513;PRC;Health;Referral;Welfare Referral;215;21518;Nagtupacan;Finished;10;individuals
+514;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Tupanna;Finished;198;families
+515;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Nagtupacan;Finished;294;families
+516;PRC;Health;PSS;PSP;215;21518;Tupana;Finished;198;individuals
+517;PRC;Health;PSS;PSP;215;21518;Nagtupacan;Finished;234;individuals
+518;PRC;Assessment;Assessment;RDANA;215;21518;;Finished;1;area
+519;PRC;Health;Health;First Aid Station;215;21518;Tupanna;Finished;1;area
+520;PRC;Health;PSS;PSP;369;36910;Salumague;Finished;10;individuals
+521;PRC;Health;PSS;PSP;369;36910;San Isidro;Finished;8;individuals
+522;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Salumague;Finished;847;individuals
+523;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Alupid;Finished;272;individuals
+524;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;San Isidro;Finished;117;individuals
+525;PRC;Relief;Ready-to-Eat;Bread;369;36910;Salumague;Finished;847;individuals
+526;PRC;Relief;Ready-to-Eat;Bread;369;36910;Alupid;Finished;272;individuals
+527;PRC;Relief;Ready-to-Eat;Bread;369;36910;San Isidro;Finished;519;individuals
+528;PRC;Assessment;Assessment;RDANA;128;12816;;Finished;1;area
+529;PRC;Relief;Food Items;Food Items (Standard);1444;144406;Bacarri;finished;27;families
+530;PRC;Assessment;Assessment;RDANA;1444;144406;;Finished;1;area
+531;PRC;Assessment;Assessment;RDANA;128;12817;;Finished;1;area
+532;PRC;Assessment;Assessment;RDANA;1432;143208;;Finished;1;area
+533;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143208;;Finished;204;families
+534;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143208;;Finished;204;families
+535;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143208;;Finished;204;families
+536;Australian DFAT;Relief;Non-Food Items;Hygiene Kit;1432;143208;;Finished;204;families
+537;Australian DFAT;Relief;Non-Food Items;Jerry Cans;1432;143208;;Finished;204;families
+538;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143208;;Finished;204;families
+539;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);215;21519;Nanguilattan;Finished;41;families
+540;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);215;21519;Nanguilattan;Finished;41;families
+541;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21519;Nanguilattan;Finished;41;families
+542;IFRC;WASH;Non-Food Items;Jerry Cans;215;21519;Nanguilattan;Finished;41;families
+543;IFRC;Relief;Non-Food Items;Tarpaulins;215;21519;Nanguilattan;Finished;41;families
+544;PRC;Assessment;Assessment;RDANA;215;21519;;Finished;1;area
+545;PRC;Assessment;Assessment;RDANA;1401;140119;;Finished;1;area
+546;PRC;Assessment;Assessment;RDANA;128;12819;;Finished;1;area
+547;PRC;Assessment;Assessment;RDANA;1432;143209;;Finished;1;area
+548;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143209;;Finished;232;individuals
+549;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133913;Baseco;Finished;427;individuals
+550;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148106;Cabatacan;Finished;211;individuals
+551;PRC;Assessment;Assessment;RDANA;1481;148106;;Finished;1;area
+552;PRC;Relief;Food Items;Food Items (Standard);1481;148106;San jose;Finished;93;families
+553;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148106;;Finished;203;families
+554;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148106;;Finished;203;families
+555;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148106;;Finished;203;families
+556;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148106;;Finished;203;families
+557;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148106;;Finished;203;families
+558;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148106;;Finished;203;families
+559;PRC;Relief;Food Items;Food Items (Standard);1481;148106;San Jose;Finished;93;families
+560;PRC;Relief;Food Items;Food Items (Standard);1481;148106;Barocboc;Finished;52;families
+561;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Tatalon;Finished;215;individuals
+562;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Roxas;Finished;154;individuals
+563;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Dona Imelda;Finished;236;individuals
+564;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Bagong Silangan;Finished;260;individuals
+565;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Masambong;Finished;40;individuals
+566;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Sta. Lucia;Finished;260;individuals
+567;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Apolonio Samson;Finished;363;individuals
+568;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Maresa;Finished;32;individuals
+569;PRC;Health;Health;First Aid;1374;137404;Dona Imelda;Finished;3;individuals
+570;PRC;Health;Health;First Aid;1374;137404;Bagong Silangan;Finished;1;individuals
+571;PRC;Health;Health;Blood Pressure;1374;137404;Dona Imelda;Finished;22;individuals
+572;PRC;Health;Health;Blood Pressure;1374;137404;Bagong Silangan;Finished;49;individuals
+573;PRC;Relief;Ready-to-Eat;Biscuits;369;36912;Poblacion South;Finished;72;individuals
+574;PRC;Relief;Ready-to-Eat;Bread;369;36912;Poblacion South;Finished;72;individuals
+575;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143211;;Finished;498;families
+576;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143211;;Finished;498;families
+577;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143211;;Finished;498;families
+578;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1432;143211;;Finished;498;families
+579;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1432;143211;;Finished;498;families
+580;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143211;;Finished;498;families
+581;PRC;Assessment;Assessment;RDANA;1432;143211;;Finished;1;area
+582;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;San Jose;Finished;500;individuals
+583;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;Burgos;Finished;311;individuals
+584;PRC;Relief;Ready-to-Eat;Hot Meals;458;45808;Manggahan;Finished;222;individuals
+585;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);1444;144407;Banguitan;Finished;16;individuals
+586;Spanish Red Cross;Relief;Hot Meals;Hygiene Kit (assorted);1444;144407;Osong;For Verification;80;individuals
+587;PRC;WASH;Non-Food Items;Hygiene Items (Assorted);1444;144408;Poblacion;finished;15;individuals
+588;PRC;Assessment;Assessment;RDANA;1444;144409;;Finished;1;area
+589;PRC;SRR;Rescue;Rescued/Assisted;155;15533;Sagud Baley;Finished;43;individuals
+590;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;San Agustin;Finished;227;individuals
+591;PRC;Assessment;Assessment;RDANA;133;13315;;Finished;1;area
+592;PRC;Assessment;Assessment;RDANA;1401;140121;;Finished;1;area
+593;PRC;Health;PSS;Welfare Desk;133;13316;;Finished;;
+594;PRC;Relief;Ready-to-Eat;Hot Meals;133;13316;;Finished;219;individuals
+595;PRC;Health;PSS;PSP;133;13316;Centro;Finished;219;individuals
+596;PRC;Assessment;Assessment;RDANA;133;13316;;Finished;1;area
+597;PRC;Relief;Food Items;Food Items (Standard);133;13316;Nagsabaran;Finished;1;families
+598;PRC;Relief;Ready-to-Eat;Hot Meals;231;23133;Simanu Sur;Finished;197;individuals
+599;PRC;Assessment;Assessment;RDANA;231;23133;;Finished;1;area
+600;PRC;Relief;Ready-to-Eat;Hot Meals;231;23133;Simanu Sur;Finished;136;individuals
+601;PRC;Assessment;Assessment;RDANA;215;21522;;Finished;1;area
+602;PRC;Assessment;Assessment;RDANA;129;12922;;Finished;1;area
+603;PRC;Assessment;Assessment;RDANA;215;21523;;Finished;1;area
+604;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Pamonooran;Finished;25;individuals
+605;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Longos;Finished;225;individuals
+606;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Canaynayan;Finished;83;individuals
+607;PRC;Relief;Ready-to-Eat;Biscuits;371;37113;Poblacion South;Finished;30;individuals
+608;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Antonio;Finished;338;individuals
+609;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Antonio;Finished;338;individuals
+610;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Rafael;Finished;199;individuals
+611;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Rafael;Finished;199;individuals
+612;PRC;Assessment;Assessment;RDANA;231;23134;;Finished;1;area
+613;PRC;Assessment;Assessment;RDANA;215;21524;;Finished;1;area
+614;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
+615;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Villa;Finished;200;individuals
+616;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Mission;Finished;500;individuals
+617;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
+618;PRC;Assessment;Assessment;RDANA;215;21525;;Finished;1;area
+619;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;12000;liters
+620;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;10000;liters
+621;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
+622;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Villa;Finished;2000;liters
+623;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Mission;Finished;4000;liters
+624;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro;Finished;3000;liters
+625;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
+626;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Poblacion;Finished;135;individuals
+627;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Vacunero;Finished;17;individuals
+628;PRC;Relief;Ready-to-Eat;Hot Meals;231;23136;;Finished;398;individuals
+629;PRC;Assessment;Assessment;RDANA;129;12930;;Finished;1;area
+631;PRC;Assessment;Assessment;RDANA;128;12822;;Finished;1;area
+632;PRC;Assessment;Assessment;RDANA;1481;148107;;Finished;1;area
+633;PRC;Relief;Food Items;Food Items (Standard);1481;148107;Barocboc;Finished;50;families
+634;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1481;148107;;Finished;81;families
+635;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1481;148107;;Finished;81;families
+636;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1481;148107;;Finished;81;families
+637;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148107;;Finished;81;families
+638;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148107;;Finished;81;families
+639;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148107;;Finished;81;families
+640;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143214;;Finished;25;families
+641;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143214;;Finished;25;families
+642;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143214;;Finished;25;families
+643;Australian DFAT;Relief;Non-Food Items;Hygiene Kit;1432;143214;;Finished;25;families
+644;Australian DFAT;Relief;Non-Food Items;Jerry Cans;1432;143214;;Finished;25;families
+645;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143214;;Finished;25;families
+646;PRC;Relief;Ready-to-Eat;Bread;517;51736;La Salvacion;Finished;35;individuals
+647;PRC;Relief;Water;Bottled Water;517;51736;La Salvacion;Finished;35;individuals
+648;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1432;143215;;Finished;45;families
+649;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1432;143215;;Finished;45;families
+650;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1432;143215;;Finished;45;families
+651;Australian DFAT;Relief;Non-Food Items;Hygiene Kit;1432;143215;;Finished;45;families
+652;Australian DFAT;Relief;Non-Food Items;Jerry Cans;1432;143215;;Finished;45;families
+653;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143215;;Finished;45;families
+654;PRC;Relief;Ready-to-Eat;Biscuits;1339;133901;;Finished;89;individuals
+655;PRC;Relief;Water;Bottled Water;1339;133901;;Finished;89;individuals
+656;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133901;Barangay 20 Isla Puting Bato;Finished;650;individuals
+657;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133901;Barangay 101 Vitas Tondo;Finished;100;individuals
+658;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141113;Camp 4-6;Finished;168;families
+659;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141113;Camp 4-6;Finished;168;families
+660;PRC;Assessment;Assessment;RDANA;1411;141113;;Finished;1;area
+661;PRC;WASH;Non-Food Items;Jerry Cans;1411;141113;Camp 4-6;Finished;168;families
+662;Unknown;Health;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
+663;PRC;Relief;Ready-to-Eat;Hot Meals;133;13320;;Finished;75;individuals
+664;PRC;Health;PSS;Welfare Desk;133;13320;;Finished;;
+665;PRC;Assessment;Assessment;RDANA;133;13320;;Finished;1;area
+666;PRC;WASH;Sanitation;Clearing operations;1411;141114;Daclan;Finished;1;community
+667;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1411;141114;Ambassador;Finished;55;families
+668;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1411;141114;Ambassador;Finished;55;families
+669;Rayomar Outreach Foundation;Relief;Food Items;Food Items (Assorted);1411;141114;Daclan;Finished;300;families
+670;PRC;Health;PSS;Welfare Desk;215;21529;;Finished;;
+671;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Balzain East;Finished;132;individuals
+672;PRC;Health;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
+673;PRC;Health;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
+674;PRC;Relief;Ready-to-Eat;Biscuits;215;21529;Balzain East;Finished;132;individuals
+675;PRC;Health;Referral;Welfare Referral;215;21529;Balzain East;Finished;15;individuals
+676;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Linao East;Finished;280;individuals
+677;PRC;Health;PSS;PSP;215;21529;Linao East;Finished;560;individuals
+679;PRC;WASH;Sanitation;Clearing operations;215;21529;San Gabriel;Finished;1;community
+680;PRC;WASH;Sanitation;Clearing operations;215;21529;Cataggaman;Finished;1;community
+681;PRC;WASH;Sanitation;Clearing operations;215;21529;Carig;Finished;1;community
+682;PRC;WASH;Sanitation;Clearing operations;215;21529;Centro 04 Del Rosario;Finished;1;community
+683;PRC;WASH;Sanitation;Clearing operations;215;21529;Caritan;Finished;1;community
+684;PRC;WASH;Sanitation;Clearing operations;215;21529;Tagga;Finished;1;community
+685;PRC;WASH;Sanitation;Clearing operations;215;21529;Cataggaman nuevo;Finished;1;community
+686;PRC;WASH;Sanitation;Clearing operations;215;21529;Anaffunan;Finished;1;community
+687;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
+688;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
+689;PRC;WASH;Sanitation;Clearing operations;215;21529;Caggay;Finished;1;community
+690;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
+691;PRC;WASH;Sanitation;Clearing operations;215;21529;;Finished;1;community
+692;PRC;Assessment;Assessment;RDANA;231;23137;;Finished;1;area
+693;PRC;Assessment;Assessment;RDANA;1401;140127;;Finished;1;area
+694;PRC;Assessment;Assessment;RDANA;128;12823;;Finished;1;area
+695;PRC;Relief;Ready-to-Eat;Hot Meals;516;51612;Poblacion;Finished;528;individuals
+696;PRC;Health;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
+697;PRC;Health;PSS;Welfare Desk;1401;;;Finished;;
+699;PRC;Health;PSS;Welfare Desk;1411;;;Finished;;
+700;PRC;Health;PSS;PSP;1411;;Pacalso;Finished;269;individuals
+701;PRC;Health;PSS;PSP;1411;;Pacalso;Finished;302;individuals
+702;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+703;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+704;PRC;Health;Health;Blood Pressure;679;;;Finished;8;individuals
+705;PRC;Health;PSS;Welfare Desk;1427;;;Finished;;
+706;PRC;Health;PSS;Welfare Desk;128;;;Finished;;
+707;PRC;Health;PSS;Welfare Desk;129;;;Finished;;
+708;PRC;Relief;Ready-to-Eat;Hot Meals;630;;;Finished;450;individuals
+709;PRC;Health;PSS;Welfare Desk;231;;;Finished;;
+710;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
+711;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
+712;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;Laya West;Finished;168;individuals
+713;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;Laya West;Finished;160;individuals
+714;PRC;Relief;Ready-to-Eat;Hot Meals;1432;;;Finished;240;individuals
+715;PRC;Relief;Non-Food Items;Sleeping Kit (Mat);1432;;;Finished;5;families
+716;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;;;Finished;279;individuals
+717;PRC;Health;PSS;PSP;1432;;;Finished;214;individuals
+718;PRC;Health;Health;Blood Units;133;;;Finished;1;units
+719;PRC;Health;PSS;Welfare Desk;250;;;Finished;;
+720;PRC;Health;Health;Doxycycline;155;;;Delivered;2000;pcs
+721;PRC;Health;PSS;Welfare Desk;369;;;Finished;;
+722;PRC;Health;PSS;Welfare Desk;371;;;Finished;;
